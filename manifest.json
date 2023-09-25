@@ -1,0 +1,312 @@
+{
+	"version": "1.3.0",
+	"id": "Kercyx.HawkeBayParty",
+	"name": "Hawke Bay Party",
+	"description": "Hawke Bay Party",
+	"authors": [
+		"kercyx"
+	],
+	"contentFolders": ["content"],
+	"frameworkVersion": "2.0.0",
+	"packagedefinition": [
+		 {
+			"type": "entity",
+			"partition": "sheep",
+			"path": "[assembly:/_pro/scenes/missions/sheep/hb_party.brick].entitytype"
+		  }
+		
+		],
+	"dependencies": [
+		{
+			"runtimeID": "00CB78883ADE6B84",
+			"toChunk": 9,
+			"comment": "fence post base"
+		},{
+			"runtimeID": "001FF325ECA82CB6",
+			"toChunk": 9,
+			"comment": "fence post base"
+		},{
+			"runtimeID": "00B63282F177242D",
+			"toChunk": 9,
+			"comment": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi"
+		},{
+			"runtimeID": "00E564ECD834C3FF",
+			"toChunk": 9,
+			"comment": "fox_grid_fence_400_a"
+		},{
+			"runtimeID": "008CE0FE2A9363F6",
+			"toChunk": 9,
+			"comment": "play_frangipani"
+		},{
+			"runtimeID": "00FE464B08947B68",
+			"toChunk": 9,
+			"comment": "lut_colombia"
+		},"004A62CD9FC998EB","001BF13339561C9B","00E0FAE74ED79522","00CCEF1E2FF561EA",{
+			"runtimeID": "00E9388C5EFFBB10",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "00FB938758914AE5",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "002EECC4F802173D",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "00D0258D712DC1B5",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "0096BA92CDCE0F12",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "007FF0B5C6890B72",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "002E10DFEFDEF592",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "0007C9DB21E9BCEB",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "00FD796D192515F8",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "00670051D20C8D60",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "00D2E189DC3AF1D7",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "00E64BF27443C580",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "006445029EC7AE46",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID": "0016F6653C2233F3",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"0060B7175CDD3098",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		
+		{
+			"runtimeID":"00AD2AF175974D6E",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"00E0187DBF31BAB3",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"001DA4012AB8DFCF",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"0074DC617F3B1A90",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"0006A1B07FA93086",
+			"toChunk": 9,
+			"comment": "miami food stands soda machine"
+		},
+		{
+			"runtimeID":"00676BBB14B081F9",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"005D2B0BBFE189F3",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"00AFA5EDA6113CF7",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"00947B5FF072C53C",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"0008B9C91465D724",
+			"toChunk": 9,
+			"comment": "miami food stands"
+		},
+		{
+			"runtimeID":"000743F6F3A4E0D1",
+			"toChunk": 9,
+			"comment": "ranch gate from Santa"
+		},
+		{
+			"runtimeID":"00781202A35DDA88",
+			"toChunk": 9,
+			"comment": "Columbia pavement"
+		},
+		{
+			"runtimeID":"00EAB3DCFB608145",
+			"toChunk": 9,
+			"comment": "Columbia statue impact"
+		},
+		{
+			"runtimeID":"004BF66E7DBE9478",
+			"toChunk": 9,
+			"comment": "Columbia woodframe"
+		},
+		{
+			"runtimeID":"0050F9559437BEFE",
+			"toChunk": 9,
+			"comment": "Columbia event"
+		},
+		{
+			"runtimeID":"00BA898F195230A4",
+			"toChunk": 9,
+			"comment": "Columbia plywood stairs"
+		},
+		{
+			"runtimeID":"0044D2E07026A93B",
+			"toChunk": 9,
+			"comment": "Columbia balcony"
+		},
+		{
+			"runtimeID":"00D41F6E4658FB68",
+			"toChunk": 9,
+			"comment": "Columbia balcony"
+		},
+		{
+			"runtimeID":"00848CDDAC5988B4",
+			"toChunk": 9,
+			"comment": "Columbia ground"
+		},
+		{
+			"runtimeID":"006CE4F89720383C",
+			"toChunk": 9,
+			"comment": "Columbia speaker"
+		},
+		{
+			"runtimeID":"005E17CEDE996287",
+			"toChunk": 9,
+			"comment": "Columbia flag"
+		},
+		{
+			"runtimeID":"00E894030BA64978",
+			"toChunk": 9,
+			"comment": "Columbia flag"
+		},
+		{
+			"runtimeID":"006F95845EA2CA30",
+			"toChunk": 9,
+			"comment": "main scene"
+		},
+		{
+			"runtimeID":"00AB15F2680F0BC5",
+			"toChunk": 9,
+			"comment": "main scene"
+		},
+		{
+			"runtimeID":"001E5D692D434A68",
+			"toChunk": 9,
+			"comment": "main scene"
+		},
+		{
+			"runtimeID":"00916F0358540210",
+			"toChunk": 9,
+			"comment": "main scene"
+		},
+		{
+			"runtimeID":"00B254A6F89F860E",
+			"toChunk": 9,
+			"comment": "main scene"
+		},
+		{
+			"runtimeID":"00EC770BF4870F58",
+			"toChunk": 9,
+			"comment": "main scene"
+		},
+		{
+			"runtimeID":"001CC706CC6D0F78",
+			"toChunk": 9,
+			"comment": "medic tent"
+		},
+		{
+			"runtimeID":"003F32761DD186AE",
+			"toChunk": 9,
+			"comment": "miami barrier 1"
+		},
+		{
+			"runtimeID":"00F3FC74147A3198",
+			"toChunk": 9,
+			"comment": "miami barrier 1"
+		},
+		{
+			"runtimeID":"007361BBAFB34EF9",
+			"toChunk": 9,
+			"comment": "miami barrier 1"
+		},
+		{
+			"runtimeID":"0065DD92B212C48B",
+			"toChunk": 9,
+			"comment": "pic nic table"
+		}
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+		
+	]
+		
+}
