@@ -281,9 +281,59 @@
 			"runtimeID":"0065DD92B212C48B",
 			"toChunk": 9,
 			"comment": "pic nic table"
+		},
+		{
+			"runtimeID":"0037AB3D0726890E",
+			"toChunk": 9,
+			"comment": "barn scaffold"
+		},
+		{
+			"runtimeID":"006A3587FF96E4CD",
+			"toChunk": 9,
+			"comment": "pallet_wooden"
+		},
+		{
+			"runtimeID":"00CE9AB73CDD7EBD",
+			"toChunk": 9,
+			"comment": "wooden"
+		},
+		{
+			"runtimeID":"000E467FD9A29547",
+			"toChunk": 9,
+			"comment": "soda cup"
+		},
+		{
+			"runtimeID":"003EB816DCE55D2C",
+			"toChunk": 9,
+			"comment": "soda cup"
+		},
+		{
+			"runtimeID":"00D99EFBB718B321",
+			"toChunk": 9,
+			"comment": "wood_fence_tropical"
+		},
+		{
+			"runtimeID":"00775798560F682D",
+			"toChunk": 9,
+			"comment": "wooden"
+		},
+		{
+			"runtimeID":"0043736A89A662EA",
+			"toChunk": 9,
+			"comment": "berlin stool"
+		},
+		{
+			"runtimeID":"0025093D353FD73A",
+			"toChunk": 9,
+			"comment": "umbrella"
+		},
+		{
+			"runtimeID":"0079C22FB98A16AC",
+			"toChunk": 9,
+			"comment": "wood fence mati"
 		}
 		
-
+		
 
 		
 		
