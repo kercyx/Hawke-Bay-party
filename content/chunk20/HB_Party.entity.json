@@ -28,14 +28,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0.6786790742077738,
-							"y": -1.471288743816639,
-							"z": 11.831457424797003
+							"x": 0.6771137915769759,
+							"y": -1.4717764194303407,
+							"z": -87.03671810287896
 						},
 						"position": {
-							"x": 69.4462,
-							"y": -6.11731,
-							"z": -0.87782
+							"x": 81.85813,
+							"y": -6.975929,
+							"z": -0.7976064
 						}
 					}
 				},
@@ -80,7 +80,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
+					"value": ["abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
 				}
 			},
 			"postInitProperties": {},
@@ -17460,7 +17460,7 @@
 		},
 		"abcd32bd4957f6e1": {
 			"parent": "abcd55a3fc7c4409",
-			"name": "Barrier_Security_2m",
+			"name": "Barrier_Security_2m_3",
 			"template": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -17468,14 +17468,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -89.33760392858116,
+							"x": 0.33760392858116,
 							"y": 0,
 							"z": 81.83212078551841
 						},
 						"position": {
-							"x": 27.597849,
-							"y": 5.911317,
-							"z": 1.1644434
+							"x": 73.808,
+							"y": -25.1145,
+							"z": -0.774944
 						}
 					}
 				},
@@ -17520,7 +17520,7 @@
 		},
 		"abcdd3ce893067f8": {
 			"parent": "abcd55a3fc7c4409",
-			"name": "Barrier_Security_2m",
+			"name": "Barrier_Security_2m_2",
 			"template": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -17550,7 +17550,7 @@
 		},
 		"abcdfe189f954f0b": {
 			"parent": "abcd55a3fc7c4409",
-			"name": "Barrier_Security_2m",
+			"name": "Barrier_Security_2m_4",
 			"template": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -17558,14 +17558,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -89.33760392858116,
+							"x": 0,
 							"y": 0,
 							"z": 81.83212078551841
 						},
 						"position": {
-							"x": 27.597849,
-							"y": 5.911317,
-							"z": 1.1644434
+							"x": 60.8298,
+							"y": -24.8606,
+							"z": -0.920451
 						}
 					}
 				},
@@ -17580,7 +17580,7 @@
 		},
 		"abcd2d0db39fc2b8": {
 			"parent": "abcd55a3fc7c4409",
-			"name": "Barrier_Security_2m",
+			"name": "Barrier_Security_2m_1",
 			"template": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_2m.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -17588,14 +17588,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -1.8519263924998561,
+							"x": -2.8519263924998561,
 							"y": 0,
-							"z": 89.64523564879853
+							"z": 83.64523564879853
 						},
 						"position": {
-							"x": 27.0842379,
-							"y": 5.8733752,
-							"z": 0.20166875
+							"x": 29.0842379,
+							"y": 6.10733752,
+							"z": 0.37166875
 						}
 					}
 				},
@@ -17622,14 +17622,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -89.33760392858116,
+							"x": 4.33760392858116,
 							"y": -0.0023854435676269534,
 							"z": 81.83212078551841
 						},
 						"position": {
-							"x": 44.6829,
-							"y": 7.15333,
-							"z": -0.495667
+							"x": 38.3143,
+							"y": 7.37702,
+							"z": 0.076027
 						}
 					}
 				},
@@ -17644,7 +17644,7 @@
 		},
 		"abcdc905c81698c8": {
 			"parent": "abcd55a3fc7c4409",
-			"name": "Barrier_Security_Miami_4m",
+			"name": "Barrier_Security_Miami_4m_1",
 			"template": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_miami_4m.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_miami_4m.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -17652,14 +17652,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -89.33760392858116,
+							"x": 4,
 							"y": -0.0023854435676269534,
 							"z": 81.83212078551841
 						},
 						"position": {
 							"x": 34.3143,
 							"y": 6.80702,
-							"z": 0.416027
+							"z": 0.376027
 						}
 					}
 				},
@@ -17674,7 +17674,7 @@
 		},
 		"abcd5eef0aef2c25": {
 			"parent": "abcd55a3fc7c4409",
-			"name": "Barrier_Security_Miami_4m_1",
+			"name": "Barrier_Security_Miami_4m_3",
 			"template": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_miami_4m.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/barriers_security_a.template?/barrier_security_miami_4m.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -17712,14 +17712,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -89.33760392858116,
-							"y": -0.0023854435676269534,
-							"z": 81.83212078551841
+							"x": 4,
+							"y": 0,
+							"z": -97
 						},
 						"position": {
-							"x": 49.8881,
-							"y": 3.67903,
-							"z": -1.03022
+							"x": 76.6074,
+							"y": -24.8819,
+							"z": -1.0094
 						}
 					}
 				},
@@ -25155,14 +25155,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
+							"x": -0,
 							"y": 0,
-							"z": 0
+							"z": -0
 						},
 						"position": {
-							"x": 59.045,
-							"y": -4.52457,
-							"z": -1.80296
+							"x": 77.468315,
+							"y": 0.1387783,
+							"z": -0.2590577
 						}
 					}
 				},
@@ -25392,14 +25392,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
+							"x": -0,
 							"y": 0,
-							"z": 0
+							"z": -0
 						},
 						"position": {
-							"x": 59.045,
-							"y": -4.52457,
-							"z": -1.80296
+							"x": 76.33141,
+							"y": -4.8642697,
+							"z": -0.75653434
 						}
 					}
 				},
@@ -25958,14 +25958,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
+							"x": -0,
 							"y": 0,
-							"z": -116.41136273462747
+							"z": -116.41135364748783
 						},
 						"position": {
-							"x": 59.045,
-							"y": -4.52457,
-							"z": -1.80296
+							"x": 81.66816,
+							"y": -18.74052,
+							"z": -1.3078264
 						}
 					}
 				},
@@ -26473,14 +26473,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
+							"x": -0,
 							"y": 0,
-							"z": 0
+							"z": -0
 						},
 						"position": {
-							"x": 59.045,
-							"y": -4.52457,
-							"z": -1.80296
+							"x": 79.352196,
+							"y": -9.764026,
+							"z": -1.1347561
 						}
 					}
 				},
@@ -26570,6 +26570,1216 @@
 				}
 			},
 			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd73a9314b6e10": {
+			"parent": "abcd55a3fc7c4409",
+			"name": "toilets",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcd823dbf7202b8": {
+			"parent": "abcd73a9314b6e10",
+			"name": "Portable_Toilet_C_10",
+			"template": "[assembly:/_pro/environment/templates/props/toilets/public_toilets_a.template?/portable_toilet_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/public_toilets_a.template?/portable_toilet_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 0.9145018186575292
+						},
+						"position": {
+							"x": 89.291176,
+							"y": 10.849051,
+							"z": -0.18806952
+						}
+					}
+				},
+				"F0BaseMapMarkupIsBase": {
+					"type": "bool",
+					"value": true
+				},
+				"F0BaseMapMarkupEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd66df9524a8b0": {
+			"parent": "abcd73a9314b6e10",
+			"name": "Portable_Toilet_A_01",
+			"template": "[assembly:/_pro/environment/templates/props/toilets/public_toilets_a.template?/portable_toilet_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/public_toilets_a.template?/portable_toilet_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 1.9329996707308497
+						},
+						"position": {
+							"x": 87.712906,
+							"y": 10.893176,
+							"z": -0.19213213
+						}
+					}
+				},
+				"F0BaseMapMarkupIsBase": {
+					"type": "bool",
+					"value": true
+				},
+				"F0BaseMapMarkupEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd641ddd569476": {
+			"parent": "abcd156ee810eb8e",
+			"name": "l06b_picnic_table_d",
+			"template": "0065DD92B212C48B",
+			"blueprint": "00461CFAA9168304",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.6777225321867534,
+							"y": -1.4720280692125733,
+							"z": 1.442390491021713
+						},
+						"position": {
+							"x": 79.82103,
+							"y": -15.287557,
+							"z": -1.272736
+						}
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2d270eda8679": {
+			"parent": "abcd156ee810eb8e",
+			"name": "l06b_picnic_table_b",
+			"template": "0065DD92B212C48B",
+			"blueprint": "00461CFAA9168304",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.6777225321867534,
+							"y": -1.4720280692125733,
+							"z": 1.442390491021713
+						},
+						"position": {
+							"x": 79.82103,
+							"y": -15.287557,
+							"z": -1.272736
+						}
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd76624eff69b": {
+			"parent": "abcd156ee810eb8e",
+			"name": "l06b_picnic_table_e",
+			"template": "0065DD92B212C48B",
+			"blueprint": "00461CFAA9168304",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.6777225321867534,
+							"y": -1.4720280692125733,
+							"z": 1.442390491021713
+						},
+						"position": {
+							"x": 76.36814,
+							"y": -15.192246,
+							"z": -1.2729031
+						}
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd416e17c663eb": {
+			"parent": "abcd156ee810eb8e",
+			"name": "l06b_picnic_table_f",
+			"template": "0065DD92B212C48B",
+			"blueprint": "00461CFAA9168304",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.6777225321867534,
+							"y": -1.4720280692125733,
+							"z": 1.442390491021713
+						},
+						"position": {
+							"x": 79.82103,
+							"y": -15.287557,
+							"z": -1.272736
+						}
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4d008f034349": {
+			"parent": "abcd156ee810eb8e",
+			"name": "l06b_picnic_table_c",
+			"template": "0065DD92B212C48B",
+			"blueprint": "00461CFAA9168304",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.6777225321867534,
+							"y": -1.4720280692125733,
+							"z": 1.442390491021713
+						},
+						"position": {
+							"x": 79.82103,
+							"y": -15.287557,
+							"z": -1.272736
+						}
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd25191be85934": {
+			"parent": "abcd9cbf8ef61d1a",
+			"name": "winners_podium_arch_b",
+			"template": "00C58BF7A9D7E9E4",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.7343807578746406,
+							"y": 0,
+							"z": -0
+						},
+						"position": {
+							"x": 28.42797,
+							"y": 5.9901743,
+							"z": 0.05120468
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.9879999756813049,
+						"z": 1
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb9a4e1fb8218": {
+			"parent": "abcd9cbf8ef61d1a",
+			"name": "winners_podium_arch_b",
+			"template": "00C58BF7A9D7E9E4",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -91.12732522698877
+						},
+						"position": {
+							"x": 68.10421,
+							"y": -26.849073,
+							"z": -3.2708647
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.25,
+						"y": 1.25,
+						"z": 1.25
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9a3ec28ea5c4": {
+			"parent": "abcd55a3fc7c4409",
+			"name": "Avance_Goliath_Trailer_Race_Thwack_A",
+			"template": "[assembly:/_pro/vehicles/templates/vehicles_miami_a.template?/avance_goliath_trailer_race_thwack_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/vehicles/templates/vehicles_miami_a.template?/avance_goliath_trailer_race_thwack_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 18.8398,
+							"y": -8.500268,
+							"z": -0.087645
+						}
+					}
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#1f1f1f"
+				},
+				"ConstantColorRGB_10_Value": {
+					"type": "SColorRGB",
+					"value": "#1f1f1f"
+				},
+				"m_bEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"Door_Slide_Left": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 1.410109043121338,
+							"y": 4.429287910461426,
+							"z": 2.4061388969421387
+						}
+					}
+				},
+				"Door_Slide_Left_Back": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 1.410109043121338,
+							"y": 8.953399658203125,
+							"z": 2.4061388969421387
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9a12c7480db3": {
+			"parent": "abcd9a3ec28ea5c4",
+			"name": "Avance_Goliath_Semi_Truck_Cabin_A_00",
+			"template": "[assembly:/_pro/vehicles/templates/vehicles_france_a.template?/avance_goliath_semi_truck_cabin_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/vehicles/templates/vehicles_france_a.template?/avance_goliath_semi_truck_cabin_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -4.50821366142501
+						},
+						"position": {
+							"x": 0.04805799946188927,
+							"y": -2.0265660285949707,
+							"z": -0.129123999178409576
+						}
+					}
+				},
+				"PaintDiffuse": {
+					"type": "SColorRGB",
+					"value": "#cccccc"
+				},
+				"PaintSecondarySpecularColor": {
+					"type": "SColorRGB",
+					"value": "#1c1c1c"
+				},
+				"PaintSpecklesColor": {
+					"type": "SColorRGB",
+					"value": "#0f0f0f"
+				},
+				"m_bEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"CanExplode": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bIncludeInBaseMap": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"DisableColiWith": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["abcd9a3ec28ea5c4"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd9a3ec28ea5c4"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd01fad2ddd571": {
+			"parent": "abcd1933dcab37fd",
+			"name": "fox_grid_fence_400_a_57",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"4014318327": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"4260367641": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.0489614562669292,
+							"y": 0.0893845845843743,
+							"z": -86.39925654764167
+						},
+						"position": {
+							"x": 90.42072,
+							"y": 3.78582,
+							"z": -0.48230508
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1d0dcef6ef5a": {
+			"parent": "abcd01fad2ddd571",
+			"name": "miami_grid_fence_post_base_a_03",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 23.191335678100587
+						},
+						"position": {
+							"x": -0.051405999809503558,
+							"y": 1.7365280389785767,
+							"z": -0.0538019984960556
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd01fad2ddd571"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9c63212a4c1b": {
+			"parent": "abcd01fad2ddd571",
+			"name": "miami_grid_fence_post_base_a_04",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.58328247070313
+						},
+						"position": {
+							"x": 0.03187999874353409,
+							"y": -1.7961039543151856,
+							"z": -0.0579649992287159
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd01fad2ddd571"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5b72249debbf": {
+			"parent": "abcd1933dcab37fd",
+			"name": "fox_grid_fence_400_a_58",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"4014318327": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"4260367641": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.9218618810967469,
+							"y": 0.15760500093224428,
+							"z": -87.52035013762922
+						},
+						"position": {
+							"x": 86.38258,
+							"y": 4.0003743,
+							"z": -0.40408224
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd43c87421c120": {
+			"parent": "abcd5b72249debbf",
+			"name": "miami_grid_fence_post_base_a_03",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 23.191335678100587
+						},
+						"position": {
+							"x": -0.051405999809503558,
+							"y": 1.7365280389785767,
+							"z": -0.0538019984960556
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5b72249debbf"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8b56f1569610": {
+			"parent": "abcd5b72249debbf",
+			"name": "miami_grid_fence_post_base_a_04",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.58328247070313
+						},
+						"position": {
+							"x": 0.03187999874353409,
+							"y": -1.7961039543151856,
+							"z": -0.0579649992287159
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5b72249debbf"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd746a8ce61aa3": {
+			"parent": "abcd1933dcab37fd",
+			"name": "fox_grid_fence_400_a_61",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"4014318327": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"4260367641": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.08133193829527471,
+							"y": 0.006157418871819801,
+							"z": -84.71338827556411
+						},
+						"position": {
+							"x": 84.57276,
+							"y": -27.961802,
+							"z": -1.5270991
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd230c78e2a4a8": {
+			"parent": "abcd746a8ce61aa3",
+			"name": "miami_grid_fence_post_base_a_03",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 23.191335678100587
+						},
+						"position": {
+							"x": -0.051405999809503558,
+							"y": 1.7365280389785767,
+							"z": -0.0538019984960556
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd746a8ce61aa3"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd732a7318f89d": {
+			"parent": "abcd746a8ce61aa3",
+			"name": "miami_grid_fence_post_base_a_04",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.58328247070313
+						},
+						"position": {
+							"x": 0.03187999874353409,
+							"y": -1.7961039543151856,
+							"z": -0.0579649992287159
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd746a8ce61aa3"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6b22e7bb1ae8": {
+			"parent": "abcd1933dcab37fd",
+			"name": "fox_grid_fence_400_a_59",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"4014318327": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"4260367641": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.0832630931655565,
+							"y": -1.2074251533841043,
+							"z": 0.8200049775516393
+						},
+						"position": {
+							"x": 84.376526,
+							"y": 6.084445,
+							"z": -0.32764515
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5340e09f6d89": {
+			"parent": "abcd6b22e7bb1ae8",
+			"name": "miami_grid_fence_post_base_a_03",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 23.191335678100587
+						},
+						"position": {
+							"x": -0.051405999809503558,
+							"y": 1.7365280389785767,
+							"z": -0.0538019984960556
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd6b22e7bb1ae8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9463652f5218": {
+			"parent": "abcd6b22e7bb1ae8",
+			"name": "miami_grid_fence_post_base_a_04",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.58328247070313
+						},
+						"position": {
+							"x": 0.03187999874353409,
+							"y": -1.7961039543151856,
+							"z": -0.0579649992287159
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd6b22e7bb1ae8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd45fed355bf04": {
+			"parent": "abcd1933dcab37fd",
+			"name": "fox_grid_fence_400_a_60",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/levels/fox/club_building_fox_a.template?/fox_grid_fence_400_a.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"4014318327": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"4260367641": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_hanging_advert_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.8991714590654356,
+							"y": 0.03979279216125337,
+							"z": -85.17090166692824
+						},
+						"position": {
+							"x": 88.62723,
+							"y": -28.329288,
+							"z": -1.5215391
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf13284fe428d": {
+			"parent": "abcd45fed355bf04",
+			"name": "miami_grid_fence_post_base_a_03",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 23.191335678100587
+						},
+						"position": {
+							"x": -0.051405999809503558,
+							"y": 1.7365280389785767,
+							"z": -0.0538019984960556
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd45fed355bf04"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde1d26f339181": {
+			"parent": "abcd45fed355bf04",
+			"name": "miami_grid_fence_post_base_a_04",
+			"template": "001FF325ECA82CB6",
+			"blueprint": "00A4079EFE0CB937",
+			"properties": {
+				"1441264669": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/street_props/fence_misc_b.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.58328247070313
+						},
+						"position": {
+							"x": 0.03187999874353409,
+							"y": -1.7961039543151856,
+							"z": -0.0579649992287159
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.88749098777771,
+						"z": 0.6667029857635498
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd45fed355bf04"
+				}
+			},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		}

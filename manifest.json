@@ -331,6 +331,16 @@
 			"runtimeID":"0079C22FB98A16AC",
 			"toChunk": 9,
 			"comment": "wood fence mati"
+		},
+		{
+			"runtimeID":"00351BFA1C2A7D6B",
+			"toChunk": 9,
+			"comment": "Miami truck"
+		},
+		{
+			"runtimeID":"00C58BF7A9D7E9E4",
+			"toChunk": 9,
+			"comment": "Miami arch"
 		}
 		
 		
