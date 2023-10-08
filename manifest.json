@@ -346,6 +346,51 @@
 			"runtimeID":"00AFA412A90FB3EF",
 			"toChunk": 9,
 			"comment": "Berlin cubes"
+		},
+		{
+			"runtimeID":"00845DD0D9B9F228",
+			"toChunk": 9,
+			"comment": "Haven Bar"
+		},
+		{
+			"runtimeID":"00A955F08DF60661",
+			"toChunk": 9,
+			"comment": "Blackboard menu haven"
+		},
+		{
+			"runtimeID":"00D04F60A3AD2464",
+			"toChunk": 9,
+			"comment": "Blackboard menu haven"
+		},
+		{
+			"runtimeID":"006FCE54ACF663BA",
+			"toChunk": 9,
+			"comment": "Orange slice"
+		},
+		{
+			"runtimeID":"00086013FCAD0043",
+			"toChunk": 9,
+			"comment": "Showcase_Stand_Wine"
+		},
+		{
+			"runtimeID":"002FA7C6BDA0870E",
+			"toChunk": 9,
+			"comment": "tiki cup yellow"
+		},
+		{
+			"runtimeID":"00BF8F16CA97199B",
+			"toChunk": 9,
+			"comment":  "tiki cup yellow"
+		},
+		{
+			"runtimeID":"004865877D7CC383",
+			"toChunk": 9,
+			"comment":  "haven canopy"
+		},
+		{
+			"runtimeID":"008AD6E94B24D306",
+			"toChunk": 9,
+			"comment":  "flower box"
 		}
 		
 		
