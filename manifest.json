@@ -391,6 +391,16 @@
 			"runtimeID":"008AD6E94B24D306",
 			"toChunk": 9,
 			"comment":  "flower box"
+		},
+		{
+			"runtimeID":"00E8561558D44584",
+			"toChunk": 9,
+			"comment":  "magazine"
+		},
+		{
+			"runtimeID":"00EF2698A93EB364",
+			"toChunk": 9,
+			"comment":  "cushion"
 		}
 		
 		

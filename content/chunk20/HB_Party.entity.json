@@ -80,7 +80,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcdaa86c44e7915", "abcdab3d5a5e7204", "abcd8b5cd0592e32", "abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
+					"value": ["abcdc5fd972d59b5", "abcdbd029457dea8", "abcdb6213e7af2f3", "abcdf737862f0d82", "abcdf20df7e69945", "abcd2aa6fb8523d2", "abcddb9cd35295ab", "abcd74b823865539", "abcd55ac39409044", "abcdaa86c44e7915", "abcdab3d5a5e7204", "abcd8b5cd0592e32", "abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
 				}
 			},
 			"postInitProperties": {},
@@ -2005,7 +2005,7 @@
 							"z": 4.109707321236924
 						},
 						"position": {
-							"x": 89.4304,
+							"x": 89.3304,
 							"y": -8.995,
 							"z": -0.92372
 						}
@@ -2450,41 +2450,6 @@
 						"position": {
 							"x": 2.4168570041656494,
 							"y": 0.04200899973511696,
-							"z": 2.2355101108551025
-						}
-					}
-				},
-				"ConstantColorRGB_02_Value": {
-					"type": "SColorRGB",
-					"value": "#b03131"
-				}
-			},
-			"postInitProperties": {
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd994c337eaa39"
-				}
-			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcda269995e5a5b": {
-			"parent": "abcd994c337eaa39",
-			"name": "entrance_sign_hanging_thin_a_02",
-			"template": "00BD0CB2AFE62E00",
-			"blueprint": "0089D3F92239D008",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0.08737774426210122,
-							"y": -0.3513972129802137,
-							"z": -0.000286484337505256
-						},
-						"position": {
-							"x": 2.3071770668029785,
-							"y": 7.30433988571167,
 							"z": 2.2355101108551025
 						}
 					}
@@ -4006,215 +3971,6 @@
 			},
 			"postInitProperties": {},
 			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd3bd3489d8065": {
-			"parent": "abcda269995e5a5b",
-			"name": "entrance_sign_miami_banner_a",
-			"template": "[assembly:/_pro/environment/materials/props/street_props/entrance_sign_miami_banner_a.mi].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/materials/props/street_props/entrance_sign_miami_banner_a.mi].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						}
-					}
-				},
-				"Clients": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcda269995e5a5b"]
-				},
-				"ConstantColorRGB_02_Value": {
-					"type": "SColorRGB",
-					"value": "#d68bc7"
-				},
-				"ConstantColorRGB_02_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda269995e5a5b"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd4acc367ca395": {
-			"parent": "abcda269995e5a5b",
-			"name": "StaticDecalController",
-			"template": "[modules:/zstaticdecalcontrollerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zstaticdecalcontrollerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0.04818665547936701,
-							"y": -0.35334532115872525,
-							"z": -179.90735095135025
-						},
-						"position": {
-							"x": 0.01656699925661087,
-							"y": -0.2285040020942688,
-							"z": 0.3110170066356659
-						}
-					}
-				},
-				"m_Targets": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcda269995e5a5b"]
-				},
-				"m_pDecalMesh": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "007FF0B5C6890B72",
-						"flag": "5F"
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda269995e5a5b"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd7c6fdf951a81": {
-			"parent": "abcda269995e5a5b",
-			"name": "StaticDecal",
-			"template": "[modules:/zstaticdecalentity.class].pc_entitytype",
-			"blueprint": "[modules:/zstaticdecalentity.class].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -89.64679550487256,
-							"y": 0.7601654195745621,
-							"z": -89.09048316733141
-						},
-						"position": {
-							"x": 0.031838998198509216,
-							"y": 0.7348870038986206,
-							"z": 0.2853020131587982
-						}
-					}
-				},
-				"m_pController": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd4acc367ca395"
-				},
-				"m_MaterialID": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "[assembly:/_pro/environment/materials/decals/signs/burger_stand_prices_a.mi].pc_mi",
-						"flag": "5F"
-					}
-				},
-				"m_vTiling": {
-					"type": "SVector2",
-					"value": {
-						"x": 1,
-						"y": 1
-					}
-				},
-				"m_vUVOffset": {
-					"type": "SVector2",
-					"value": {
-						"x": 0,
-						"y": 0
-					}
-				},
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 2.334630012512207,
-						"y": 0.33016499876976013,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda269995e5a5b"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": true,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd9e8d3ab37512": {
-			"parent": "abcda269995e5a5b",
-			"name": "StaticDecal 2",
-			"template": "[modules:/zstaticdecalentity.class].pc_entitytype",
-			"blueprint": "[modules:/zstaticdecalentity.class].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -89.64811339560526,
-							"y": 0.7604518858544279,
-							"z": -89.08887795833188
-						},
-						"position": {
-							"x": 0.04613000154495239,
-							"y": -1.1850999593734741,
-							"z": 0.2698720097541809
-						}
-					}
-				},
-				"m_pController": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd4acc367ca395"
-				},
-				"m_MaterialID": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "[assembly:/_pro/environment/materials/decals/signs/burger_stand_text_a.mi].pc_mi",
-						"flag": "5F"
-					}
-				},
-				"m_vTiling": {
-					"type": "SVector2",
-					"value": {
-						"x": 0.5099999904632568,
-						"y": 1
-					}
-				},
-				"m_vUVOffset": {
-					"type": "SVector2",
-					"value": {
-						"x": -0.4699999988079071,
-						"y": 0
-					}
-				},
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.4337300062179565,
-						"y": 0.4001230001449585,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda269995e5a5b"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": true,
 			"platformSpecificPropertyValues": []
 		},
 		"abcdd3b38d28b5f6": {
@@ -15983,19 +15739,14 @@
 							"z": 51.725563138594495
 						},
 						"position": {
-							"x": -44.92770004272461,
-							"y": -31.60131072998047,
-							"z": 4.855062961578369
+							"x": 52.4686,
+							"y": 9.73227,
+							"z": -0.435904
 						}
 					}
 				}
 			},
-			"postInitProperties": {
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd9cbf8ef61d1a"
-				}
-			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -17050,12 +16801,12 @@
 						"rotation": {
 							"x": 0.53834202209543,
 							"y": 0.009347540765985575,
-							"z": -90.648529106496255
+							"z": -87.648529106496255
 						},
 						"position": {
-							"x": 72.962463,
-							"y": 7.784763,
-							"z": -0.5876286
+							"x": 72.862463,
+							"y": 9.4984763,
+							"z": -0.10876286
 						}
 					}
 				},
@@ -27950,9 +27701,9 @@
 							"z": 45
 						},
 						"position": {
-							"x": 62.2929,
-							"y": -10.9115,
-							"z": -1.48974
+							"x": 47.5737,
+							"y": -8.62013,
+							"z": -1.57251
 						}
 					}
 				},
@@ -32643,10 +32394,10 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 94
+							"z": 93
 						},
 						"position": {
-							"x": 45.5152,
+							"x": 45.6552,
 							"y": -9.386985,
 							"z": -1.94524
 						}
@@ -33666,6 +33417,1464 @@
 					"value": "abcdfba6895b1dfe"
 				}
 			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6ea8076a68fa": {
+			"parent": "abcd55a3fc7c4409",
+			"name": "dividers",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcd19e32a960ce4": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "smoothsnake_divider_wall_a_00_02",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 93.38202531352334,
+							"y": 90.00000250447816,
+							"z": 0
+						},
+						"position": {
+							"x": 43.603577,
+							"y": -6.706773,
+							"z": 0.016869564
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.4270999431610107,
+						"y": 1.2978700399398804,
+						"z": 1.328879952430725
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4fe3f338cef3": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "smoothsnake_divider_wall_a_00_01",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 93.28702421235764,
+							"y": 89.97201921944863,
+							"z": 0
+						},
+						"position": {
+							"x": 43.77256,
+							"y": -3.7830167,
+							"z": 0.01298589
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.4270999431610107,
+						"y": 1.2978700399398804,
+						"z": 1.328879952430725
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8240770a0eb9": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "smoothsnake_divider_wall_a_00_05",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 93.28702421235764,
+							"y": 89.97201921944863,
+							"z": 0
+						},
+						"position": {
+							"x": 43.070362,
+							"y": -15.471763,
+							"z": 0.02226144
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.4270999431610107,
+						"y": 1.2978700399398804,
+						"z": 1.328879952430725
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8ce06a53436c": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "smoothsnake_divider_wall_a_00_03",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 93.28702421235764,
+							"y": 89.97201921944863,
+							"z": 0
+						},
+						"position": {
+							"x": 43.414707,
+							"y": -9.627153,
+							"z": 0.030191299
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.4270999431610107,
+						"y": 1.2978700399398804,
+						"z": 1.328879952430725
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd87b7fd1ea314": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "smoothsnake_divider_wall_a_00_04",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 93.38202531352334,
+							"y": 90.00000250447816,
+							"z": 0
+						},
+						"position": {
+							"x": 43.240135,
+							"y": -12.553549,
+							"z": 0.024982734
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.4270999431610107,
+						"y": 1.2978700399398804,
+						"z": 1.328879952430725
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf3828fcf75ed": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "smoothsnake_divider_wall_a_00_06",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/templates/props/furniture/fashionshow_furniture_a.template?/smoothsnake_divider_wall_a_00.entitytemplate].entitytype,[modules:/zexplosionblockeraspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 93.38202531352334,
+							"y": 90.00000250447816,
+							"z": 0
+						},
+						"position": {
+							"x": 42.925125,
+							"y": -18.378057,
+							"z": -0.006326953
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.4270999431610107,
+						"y": 1.2978700399398804,
+						"z": 1.328879952430725
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2aa6fb8523d2": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_09",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -133.6815962468918
+						},
+						"position": {
+							"x": 48.437336,
+							"y": -6.0601106,
+							"z": -1.8523247
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdde5cb02640f0": {
+			"parent": "abcd2aa6fb8523d2",
+			"name": "pillow_hotel_bed_a_00_02",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 68.93501797730472,
+							"y": -1.7183861364102102,
+							"z": 83.08474633340148
+						},
+						"position": {
+							"x": -0.07670599967241287,
+							"y": -0.11223600059747696,
+							"z": 0.6392999887466431
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8999999761581421,
+						"y": 0.8999999761581421,
+						"z": 1
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2aa6fb8523d2"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf20df7e69945": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_08",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 137.25911273036107
+						},
+						"position": {
+							"x": 48.428925,
+							"y": -3.4851074,
+							"z": -1.7962468
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd74b823865539": {
+			"parent": "abcd156ee810eb8e",
+			"name": "table_library_penthouse_c_01",
+			"template": "001F9DF34FF9AB6F",
+			"blueprint": "00B1BCA17E6202C0",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -124.79521960838171
+						},
+						"position": {
+							"x": 49.260303,
+							"y": -4.9433722,
+							"z": -1.798254
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8999999761581421,
+						"y": 0.8999999761581421,
+						"z": 0.8350639939308167
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda2e833ae0768": {
+			"parent": "abcd74b823865539",
+			"name": "stingray_magazine_a_01",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/paris_street_props_a.template?/stingray_magazine_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/paris_street_props_a.template?/stingray_magazine_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -85.52057851497374
+						},
+						"position": {
+							"x": -0.0011749999830499291,
+							"y": -0.09741999953985214,
+							"z": 0.64546799659729
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd74b823865539"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd70a7abb9879": {
+			"parent": "abcd74b823865539",
+			"name": "stingray_magazine_a",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/paris_street_props_a.template?/stingray_magazine_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/paris_street_props_a.template?/stingray_magazine_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -61.46424461967824
+						},
+						"position": {
+							"x": 0.01498399954289198,
+							"y": -0.15265700221061707,
+							"z": 0.6362230181694031
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd74b823865539"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8b3334c987ff": {
+			"parent": "abcd74b823865539",
+			"name": "Book_Italy_I_00_02",
+			"template": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_i_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_i_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -88.98753333011403
+						},
+						"position": {
+							"x": 0.09269262105226517,
+							"y": 0.15761789679527283,
+							"z": 0.6362214088439941
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0631200075149536,
+						"y": 1.0631200075149536,
+						"z": 1.0631200075149536
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd74b823865539"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddb9cd35295ab": {
+			"parent": "abcd156ee810eb8e",
+			"name": "Sofa_Terrasse_A_00_03",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						},
+						"position": {
+							"x": 47.050087,
+							"y": -12.416194,
+							"z": -1.7374823
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda11ca9d7a097": {
+			"parent": "abcddb9cd35295ab",
+			"name": "pillow_hotel_bed_a_00_02",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 73.93441169833844,
+							"y": -1.7189593831300252,
+							"z": -175.3892927316049
+						},
+						"position": {
+							"x": 0.22334299981594086,
+							"y": 0.22027599811553955,
+							"z": 0.6781030297279358
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1.2000000476837158,
+						"z": 1
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddb9cd35295ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8f9aaf811094": {
+			"parent": "abcddb9cd35295ab",
+			"name": "pillow_hotel_bed_a_00_01",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 73.03685389054762,
+							"y": 0.5735403495685026,
+							"z": 162.72292525929325
+						},
+						"position": {
+							"x": -0.3862990140914917,
+							"y": 0.08110000193119049,
+							"z": 0.6808419823646545
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1.2000000476837158,
+						"z": 1
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddb9cd35295ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd55ac39409044": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_footstool_a_02",
+			"template": "0029E3028FAA77BA",
+			"blueprint": "00DFC8C73F9B30BD",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -131.1274999036771
+						},
+						"position": {
+							"x": 0.5074689984321594,
+							"y": -2.255798101425171,
+							"z": 0.6506369709968567
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb6213e7af2f3": {
+			"parent": "abcd156ee810eb8e",
+			"name": "Sofa_Terrasse_A_00_02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.999995674289
+						},
+						"position": {
+							"x": 49.104584,
+							"y": -14.369844,
+							"z": -1.8005248
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7b05b36e93c9": {
+			"parent": "abcdb6213e7af2f3",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00_04",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -8.886645391540009,
+							"y": -67.3545417075826,
+							"z": 73.50924078300558
+						},
+						"position": {
+							"x": -0.2542113959789276,
+							"y": 0.0831451416015625,
+							"z": 0.7333012223243713
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.699999988079071,
+						"y": 0.8999999761581421,
+						"z": 0.699999988079071
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb6213e7af2f3"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda6fc54bafbf1": {
+			"parent": "abcdb6213e7af2f3",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00_05",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.462520364357592,
+							"y": -72.70909590099693,
+							"z": 110.94325809337427
+						},
+						"position": {
+							"x": 0.8408809900283813,
+							"y": -0.15373100340366364,
+							"z": 0.7392320036888123
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.699999988079071,
+						"y": 0.8999999761581421,
+						"z": 0.699999988079071
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb6213e7af2f3"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf737862f0d82": {
+			"parent": "abcd156ee810eb8e",
+			"name": "Sofa_Terrasse_A_00_01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 178.19593348310252
+						},
+						"position": {
+							"x": 46.932667,
+							"y": -16.36748,
+							"z": -1.6598021
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0a7528b65616": {
+			"parent": "abcdf737862f0d82",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00_04",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -3.1599642152943135,
+							"y": -68.11394664914891,
+							"z": 90.25884273248522
+						},
+						"position": {
+							"x": -0.18936200439929962,
+							"y": 0.06918500363826752,
+							"z": 0.7456830143928528
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.699999988079071,
+						"y": 0.8999999761581421,
+						"z": 0.699999988079071
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdf737862f0d82"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7ea34a382b52": {
+			"parent": "abcdf737862f0d82",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00_05",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.450605028754261,
+							"y": -76.08438393139748,
+							"z": 105.62570138877606
+						},
+						"position": {
+							"x": 0.9764710068702698,
+							"y": -0.21631400287151337,
+							"z": 0.7511529922485352
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.699999988079071,
+						"y": 0.8999999761581421,
+						"z": 0.699999988079071
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdf737862f0d82"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf6d4fb417ef1": {
+			"parent": "abcdf737862f0d82",
+			"name": "potato_chips_bag_a_01",
+			"template": "[assembly:/_pro/environment/geometry/props/food/potato_chips_bag_a.wl2?/potato_chips_bag_b.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -4.774270520643104,
+							"y": 1.5471741074865661,
+							"z": 4.12888315019294
+						},
+						"position": {
+							"x": -0.8587645888328552,
+							"y": -0.34131619334220886,
+							"z": 0.4830298125743866
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.774999976158142,
+						"y": 1.774999976158142,
+						"z": 1.774999976158142
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdf737862f0d82"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbe47467d8bc7": {
+			"parent": "abcdf6d4fb417ef1",
+			"name": "potato_chips_a",
+			"template": "00CB5D1ADD6D38BD",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 3.723779401324165,
+							"y": -2.022216001439567,
+							"z": 54.59635611097325
+						},
+						"position": {
+							"x": 0.1787330061197281,
+							"y": 0.01701599918305874,
+							"z": 0.007075000088661909
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.5,
+						"y": 1.5,
+						"z": 1.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdf6d4fb417ef1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbd029457dea8": {
+			"parent": "abcd156ee810eb8e",
+			"name": "table_library_penthouse_c_01",
+			"template": "001F9DF34FF9AB6F",
+			"blueprint": "00B1BCA17E6202C0",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 95.8548406610131
+						},
+						"position": {
+							"x": 47.5439,
+							"y": -4.771538,
+							"z": -1.7051574
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8999999761581421,
+						"y": 0.8999999761581421,
+						"z": 0.8350639939308167
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5a99e88ca866": {
+			"parent": "abcdbd029457dea8",
+			"name": "werrege_basket_a_01",
+			"template": "0054BADE3296C895",
+			"blueprint": "00E8C1673C08CB8A",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -174.70014912906996
+						},
+						"position": {
+							"x": -0.051934000104665756,
+							"y": -0.14158399403095245,
+							"z": 0.6362230181694031
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.4000000059604645,
+						"y": 0.4000000059604645,
+						"z": 0.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdbd029457dea8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9047e1bbe014": {
+			"parent": "abcdbd029457dea8",
+			"name": "Glass_Martini_00_02",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_martini_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_martini_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -42.37035032649146
+						},
+						"position": {
+							"x": -0.17547200620174408,
+							"y": 0.10256999731063843,
+							"z": 0.6362230181694031
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdbd029457dea8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd752d44afd116": {
+			"parent": "abcdbd029457dea8",
+			"name": "tiki_cup_a_Lime",
+			"template": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/tiki_cup_a_lime.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/tiki_cup_a_lime.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 131.62893467605954
+						},
+						"position": {
+							"x": 0.21813799440860748,
+							"y": -0.1619260013103485,
+							"z": 0.6362230181694031
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdbd029457dea8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7918ec3b9f57": {
+			"parent": "abcdbd029457dea8",
+			"name": "napkin_bar_a",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -177.93197611667188
+						},
+						"position": {
+							"x": 0.23574300110340118,
+							"y": -0.16516099870204926,
+							"z": 0.6362230181694031
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdbd029457dea8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd15a71dd34df1": {
+			"parent": "abcdbd029457dea8",
+			"name": "Glass_Martini_00_03",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_martini_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_martini_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -42.37035032649146
+						},
+						"position": {
+							"x": 0.16422399878501892,
+							"y": 0.14011399447917938,
+							"z": 0.6362230181694031
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdbd029457dea8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd90da6020251c": {
+			"parent": "abcd5a99e88ca866",
+			"name": "flowers_bangkok_d",
+			"template": "[assembly:/_pro/environment/templates/props/decorative/vase_bangkok_a.template?/flowers_bangkok_d.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/vase_bangkok_a.template?/flowers_bangkok_d.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 1.148818293864858,
+							"y": 2.1660098599890585,
+							"z": 171.21105613416262
+						},
+						"position": {
+							"x": 0.0037690000608563423,
+							"y": 0.0018139999592676759,
+							"z": 0.2597219944000244
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5,
+						"y": 0.5,
+						"z": 0.5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5a99e88ca866"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc5fd972d59b5": {
+			"parent": "abcd156ee810eb8e",
+			"name": "Table_Terrasse_B_00",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/table_terrasse_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/table_terrasse_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						},
+						"position": {
+							"x": 46.980015,
+							"y": -14.390682,
+							"z": -1.6641431
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd226240f8b2c4": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "fries_a_07",
+			"template": "00FBC68668230D57",
+			"blueprint": "0049EC72C39F3A2B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 47.74339786264906,
+							"y": 1.830223931808977,
+							"z": -110.41362371932719
+						},
+						"position": {
+							"x": 0.3551790118217468,
+							"y": -0.046234000474214554,
+							"z": 0.5472409725189209
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6fb1866816d4": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "fries_a_06",
+			"template": "00FBC68668230D57",
+			"blueprint": "0049EC72C39F3A2B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 58.29569200941153,
+							"y": 18.277645092460354,
+							"z": -135.89249861090283
+						},
+						"position": {
+							"x": 0.2114260047674179,
+							"y": -0.02658100053668022,
+							"z": 0.5658950209617615
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7a77dfac4c10": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "fries_a_05",
+			"template": "00FBC68668230D57",
+			"blueprint": "0049EC72C39F3A2B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 81.71516806450421,
+							"y": 0.4854156651718756,
+							"z": -129.079609935299
+						},
+						"position": {
+							"x": 0.151870995759964,
+							"y": -0.05624400079250336,
+							"z": 0.5623170137405396
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbfbba82dbfc4": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "soda_cup_a_05",
+			"template": "000E467FD9A29547",
+			"blueprint": "009A6DFC54CC9F80",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 140.64954288911275
+						},
+						"position": {
+							"x": 0.17843599617481232,
+							"y": 0.18463100492954254,
+							"z": 0.5461410284042358
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1584510a0f19": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "napkin_bar_a_07",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -151.97110151273733
+						},
+						"position": {
+							"x": -0.23640400171279907,
+							"y": 0.15864700078964233,
+							"z": 0.556581974029541
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#9ea6ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda996609f0fc6": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "soda_cup_a_06",
+			"template": "000E467FD9A29547",
+			"blueprint": "009A6DFC54CC9F80",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -29.689407252682788
+						},
+						"position": {
+							"x": 0.44648700952529907,
+							"y": 0.1297609955072403,
+							"z": 0.5461410284042358
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd919db5e971cb": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "Can_Soda_C_Open",
+			"template": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 131.40016997991086
+						},
+						"position": {
+							"x": -0.22529500722885132,
+							"y": 0.188510000705719,
+							"z": 0.559581995010376
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7c7998402ecb": {
+			"parent": "abcdc5fd972d59b5",
+			"name": "napkin_bar_a",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 75.5928905165968
+						},
+						"position": {
+							"x": -0.6093260049819946,
+							"y": -0.24614399671554565,
+							"z": 0.5565810203552246
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#9ea6ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		}
