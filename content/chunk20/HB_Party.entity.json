@@ -80,7 +80,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcdc5fd972d59b5", "abcdbd029457dea8", "abcdb6213e7af2f3", "abcdf737862f0d82", "abcdf20df7e69945", "abcd2aa6fb8523d2", "abcddb9cd35295ab", "abcd74b823865539", "abcd55ac39409044", "abcdaa86c44e7915", "abcdab3d5a5e7204", "abcd8b5cd0592e32", "abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
+					"value": ["abcdddbe46a358b3", "abcd66a70c16263c", "abcddad707f0d33a", "abcd4dd3517a9de5", "abcd4c70589c7fde", "abcdcd303aeaf36a", "abcd973233b57471", "abcdb1a6814010ab", "abcdb38a4323a621", "abcd44a6a9e1de89", "abcdc5fd972d59b5", "abcdbd029457dea8", "abcdb6213e7af2f3", "abcdf737862f0d82", "abcdf20df7e69945", "abcd2aa6fb8523d2", "abcddb9cd35295ab", "abcd74b823865539", "abcd55ac39409044", "abcdaa86c44e7915", "abcdab3d5a5e7204", "abcd8b5cd0592e32", "abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
 				}
 			},
 			"postInitProperties": {},
@@ -32426,14 +32426,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
+							"x": -0,
 							"y": 0,
-							"z": 179.96040862134433
+							"z": 3.0573982185030424
 						},
 						"position": {
-							"x": -4.183837890625,
-							"y": 4.609257221221924,
-							"z": 0.13815799355506897
+							"x": 50.09762,
+							"y": -9.437338,
+							"z": -1.6353208
 						}
 					}
 				},
@@ -32854,14 +32854,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
+							"x": -0,
 							"y": 0,
-							"z": 179.97203966235674
+							"z": -179.63954860569808
 						},
 						"position": {
-							"x": 3.869452953338623,
-							"y": 4.620357990264893,
-							"z": 0.1399960070848465
+							"x": 49.718872,
+							"y": -12.361137,
+							"z": -1.7587488
 						}
 					}
 				},
@@ -33673,12 +33673,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -133.6815962468918
+							"z": -133.68160990727011
 						},
 						"position": {
-							"x": 48.437336,
-							"y": -6.0601106,
-							"z": -1.8523247
+							"x": 51.21609,
+							"y": -5.40277,
+							"z": -1.7596263
 						}
 					}
 				},
@@ -33742,12 +33742,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 137.25911273036107
+							"z": -21.48307766625844
 						},
 						"position": {
-							"x": 48.428925,
-							"y": -3.4851074,
-							"z": -1.7962468
+							"x": 45.371647,
+							"y": -4.539416,
+							"z": -1.513186
 						}
 					}
 				},
@@ -33775,9 +33775,9 @@
 							"z": -124.79521960838171
 						},
 						"position": {
-							"x": 49.260303,
-							"y": -4.9433722,
-							"z": -1.798254
+							"x": 46.661015,
+							"y": -3.5987823,
+							"z": -1.5791605
 						}
 					}
 				},
@@ -33914,12 +33914,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -0
+							"z": 3.7698260090796882
 						},
 						"position": {
-							"x": 47.050087,
-							"y": -12.416194,
-							"z": -1.7374823
+							"x": 48.32325,
+							"y": -12.297728,
+							"z": -1.8518505
 						}
 					}
 				},
@@ -34051,12 +34051,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 89.999995674289
+							"z": 91.25894297229492
 						},
 						"position": {
-							"x": 49.104584,
-							"y": -14.369844,
-							"z": -1.8005248
+							"x": 50.184723,
+							"y": -14.403927,
+							"z": -1.8390802
 						}
 					}
 				},
@@ -34166,12 +34166,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 178.19593348310252
+							"z": -177.6453246133511
 						},
 						"position": {
-							"x": 46.932667,
-							"y": -16.36748,
-							"z": -1.6598021
+							"x": 45.217026,
+							"y": -16.177446,
+							"z": -1.5896797
 						}
 					}
 				},
@@ -34362,9 +34362,9 @@
 							"z": 95.8548406610131
 						},
 						"position": {
-							"x": 47.5439,
-							"y": -4.771538,
-							"z": -1.7051574
+							"x": 50.165955,
+							"y": -4.1248326,
+							"z": -1.8654352
 						}
 					}
 				},
@@ -34596,7 +34596,7 @@
 		},
 		"abcdc5fd972d59b5": {
 			"parent": "abcd156ee810eb8e",
-			"name": "Table_Terrasse_B_00",
+			"name": "Table_Terrasse_B_01",
 			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/table_terrasse_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/table_terrasse_a_00.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -34606,12 +34606,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -0
+							"z": 1.7392260300388243
 						},
 						"position": {
-							"x": 46.980015,
-							"y": -14.390682,
-							"z": -1.6641431
+							"x": 48.175125,
+							"y": -14.574277,
+							"z": -1.6767094
 						}
 					}
 				},
@@ -34872,6 +34872,6736 @@
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": "abcdc5fd972d59b5"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb38a4323a621": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_e",
+			"template": "0017CFD33FD7A728",
+			"blueprint": "000EF4DB00AB7021",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 92.93500309272434
+						},
+						"position": {
+							"x": 50.099884,
+							"y": -15.403325,
+							"z": -1.8884292
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2221ced1d8cc": {
+			"parent": "abcdb38a4323a621",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": -1.4175529479980469,
+							"y": 1.3405029773712159,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9bd1a82622a4": {
+			"parent": "abcdb38a4323a621",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.35740235447883608,
+							"y": -3.373116970062256,
+							"z": 0.30918949842453005
+						},
+						"position": {
+							"x": 1.2602529525756837,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdcd38c5be8736": {
+			"parent": "abcdb38a4323a621",
+			"name": "wooden_hut_divider_a_4m_00_01",
+			"template": "0020B747FB845D1E",
+			"blueprint": "00CA2E360A12F27C",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 89.9998779296875
+						},
+						"position": {
+							"x": -22.165170669555665,
+							"y": -1.4880620241165162,
+							"z": -1.2479360103607178
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7e0398360baa": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_28",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.7778589725494385,
+							"y": -1.3210560083389283,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde6a27aa33287": {
+			"parent": "abcdb38a4323a621",
+			"name": "Curly_Palm_Potted_A10",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.690199375152588,
+							"y": 0.04469070956110954,
+							"z": -56.862422943115237
+						},
+						"position": {
+							"x": 1.724923014640808,
+							"y": -0.6809620261192322,
+							"z": 0.8755840063095093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6e02c7406d62": {
+			"parent": "abcdb38a4323a621",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 1.74173104763031,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0e02fad7a564": {
+			"parent": "abcdb38a4323a621",
+			"name": "Bamboo_Collection_A03",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -3.9228885173797609,
+							"y": -0.6048827767372131,
+							"z": -86.97274017333985
+						},
+						"position": {
+							"x": 1.7719390392303467,
+							"y": -2.0257039070129396,
+							"z": 0.6703829765319824
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda2a5e41223a6": {
+			"parent": "abcdb38a4323a621",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -2.865927219390869,
+							"y": -0.00916732382029295,
+							"z": 99.94332122802735
+						},
+						"position": {
+							"x": 1.7738840579986573,
+							"y": -1.4321399927139283,
+							"z": 0.8781780004501343
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd445c7a3c8acf": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_24",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.07677635550498963,
+							"z": -0.9104116559028626
+						},
+						"position": {
+							"x": -0.08690399676561356,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd194b679f69b9": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_23",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193175315856934,
+							"y": 5.081172943115234,
+							"z": -0.9161314964294434
+						},
+						"position": {
+							"x": -1.1093519926071168,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0955e40282b7": {
+			"parent": "abcdb38a4323a621",
+			"name": "Curly_Palm_Potted_A09",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.6920976638793949,
+							"y": 0.04469070956110954,
+							"z": 48.1375732421875
+						},
+						"position": {
+							"x": -0.2952750027179718,
+							"y": 1.3296430110931397,
+							"z": 1.0436739921569825
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd429e04708992": {
+			"parent": "abcdb38a4323a621",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 21.994462966918947
+						},
+						"position": {
+							"x": 1.6920700073242188,
+							"y": 0.2556230127811432,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd89581ab15bbe": {
+			"parent": "abcdb38a4323a621",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 0.6770930290222168,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8752fd3071b0": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_27",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 0.1473580002784729,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd17763ddc1077": {
+			"parent": "abcdb38a4323a621",
+			"name": "BellFlower_A09",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.3641178011894226,
+							"y": -3.373920440673828,
+							"z": 0.29713669419288638
+						},
+						"position": {
+							"x": -0.869193971157074,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf87c0988ebfb": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_26",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 1.051543951034546,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd54c4243975f8": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_29",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 11.277079582214356,
+							"y": 8.172333717346192,
+							"z": 88.30972290039063
+						},
+						"position": {
+							"x": 1.7703289985656739,
+							"y": -2.4879379272460939,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb551f662a26a": {
+			"parent": "abcdb38a4323a621",
+			"name": "flowers_penthouse_flowerbox_b_00_25",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.0746564194560051,
+							"z": -0.9099532961845398
+						},
+						"position": {
+							"x": 1.0666459798812867,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb38a4323a621"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd44a6a9e1de89": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g01",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 3.68535834027461
+						},
+						"position": {
+							"x": 51.870213,
+							"y": -12.449702,
+							"z": -1.8980082
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9cdbe3a0e767": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4f8facacc660": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde1ee1761992d": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9494207f09d1": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd613fa35f448a": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd68c943846165": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd279f10726f7": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf0524bc0c903": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd62523ec27827": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7e6400d7d44e": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9d8b50af407d": {
+			"parent": "abcd44a6a9e1de89",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd44a6a9e1de89"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdcd303aeaf36a": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_e_2",
+			"template": "0017CFD33FD7A728",
+			"blueprint": "000EF4DB00AB7021",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -176.91105195681806
+						},
+						"position": {
+							"x": 45.314877,
+							"y": -15.454565,
+							"z": -1.5077186
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4e66e0352272": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": -1.4175529479980469,
+							"y": 1.3405029773712159,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf95c784bb2f7": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.35740235447883608,
+							"y": -3.373116970062256,
+							"z": 0.30918949842453005
+						},
+						"position": {
+							"x": 1.2602529525756837,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9eca0e397e66": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "wooden_hut_divider_a_4m_00_01",
+			"template": "0020B747FB845D1E",
+			"blueprint": "00CA2E360A12F27C",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 89.9998779296875
+						},
+						"position": {
+							"x": -22.165170669555665,
+							"y": -1.4880620241165162,
+							"z": -1.2479360103607178
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd516579d9825": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_28",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.7778589725494385,
+							"y": -1.3210560083389283,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1bf069b822b3": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Curly_Palm_Potted_A10",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.690199375152588,
+							"y": 0.04469070956110954,
+							"z": -56.862422943115237
+						},
+						"position": {
+							"x": 1.724923014640808,
+							"y": -0.6809620261192322,
+							"z": 0.8755840063095093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5fda451b762d": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 1.74173104763031,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7138cd9ac2c2": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Bamboo_Collection_A03",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -3.9228885173797609,
+							"y": -0.6048827767372131,
+							"z": -86.97274017333985
+						},
+						"position": {
+							"x": 1.7719390392303467,
+							"y": -2.0257039070129396,
+							"z": 0.6703829765319824
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde82358cf908a": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -2.865927219390869,
+							"y": -0.00916732382029295,
+							"z": 99.94332122802735
+						},
+						"position": {
+							"x": 1.7738840579986573,
+							"y": -1.4321399927139283,
+							"z": 0.8781780004501343
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4630051a5892": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_24",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.07677635550498963,
+							"z": -0.9104116559028626
+						},
+						"position": {
+							"x": -0.08690399676561356,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf81f9636b2a8": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_23",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193175315856934,
+							"y": 5.081172943115234,
+							"z": -0.9161314964294434
+						},
+						"position": {
+							"x": -1.1093519926071168,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddee366edfa1e": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Curly_Palm_Potted_A09",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.6920976638793949,
+							"y": 0.04469070956110954,
+							"z": 48.1375732421875
+						},
+						"position": {
+							"x": -0.2952750027179718,
+							"y": 1.3296430110931397,
+							"z": 1.0436739921569825
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd580ff3a2b7bd": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 21.994462966918947
+						},
+						"position": {
+							"x": 1.6920700073242188,
+							"y": 0.2556230127811432,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda3160e169c85": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 0.6770930290222168,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf05d8060e00e": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_27",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 0.1473580002784729,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddad7ff903b18": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "BellFlower_A09",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.3641178011894226,
+							"y": -3.373920440673828,
+							"z": 0.29713669419288638
+						},
+						"position": {
+							"x": -0.869193971157074,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4933b7fa777d": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_26",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 1.051543951034546,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd80b0d7102ae": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_29",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 11.277079582214356,
+							"y": 8.172333717346192,
+							"z": 88.30972290039063
+						},
+						"position": {
+							"x": 1.7703289985656739,
+							"y": -2.4879379272460939,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd59b2da874c32": {
+			"parent": "abcdcd303aeaf36a",
+			"name": "flowers_penthouse_flowerbox_b_00_25",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.0746564194560051,
+							"z": -0.9099532961845398
+						},
+						"position": {
+							"x": 1.0666459798812867,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdcd303aeaf36a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd973233b57471": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_e_3",
+			"template": "0017CFD33FD7A728",
+			"blueprint": "000EF4DB00AB7021",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 5.075665970832331
+						},
+						"position": {
+							"x": 50.649265,
+							"y": -3.237257,
+							"z": -2.0857303
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8178449fd81f": {
+			"parent": "abcd973233b57471",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": -1.4175529479980469,
+							"y": 1.3405029773712159,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9241b8750484": {
+			"parent": "abcd973233b57471",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.35740235447883608,
+							"y": -3.373116970062256,
+							"z": 0.30918949842453005
+						},
+						"position": {
+							"x": 1.2602529525756837,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd617fe653e2da": {
+			"parent": "abcd973233b57471",
+			"name": "wooden_hut_divider_a_4m_00_01",
+			"template": "0020B747FB845D1E",
+			"blueprint": "00CA2E360A12F27C",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 89.9998779296875
+						},
+						"position": {
+							"x": -22.165170669555665,
+							"y": -1.4880620241165162,
+							"z": -1.2479360103607178
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd878f7cc406f3": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_28",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.7778589725494385,
+							"y": -1.3210560083389283,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1ec173a40ddf": {
+			"parent": "abcd973233b57471",
+			"name": "Curly_Palm_Potted_A10",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.690199375152588,
+							"y": 0.04469070956110954,
+							"z": -56.862422943115237
+						},
+						"position": {
+							"x": 1.724923014640808,
+							"y": -0.6809620261192322,
+							"z": 0.8755840063095093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1479e87ab218": {
+			"parent": "abcd973233b57471",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 1.74173104763031,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdee94812676c5": {
+			"parent": "abcd973233b57471",
+			"name": "Bamboo_Collection_A03",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -3.9228885173797609,
+							"y": -0.6048827767372131,
+							"z": -86.97274017333985
+						},
+						"position": {
+							"x": 1.7719390392303467,
+							"y": -2.0257039070129396,
+							"z": 0.6703829765319824
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd941cafb66bdd": {
+			"parent": "abcd973233b57471",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -2.865927219390869,
+							"y": -0.00916732382029295,
+							"z": 99.94332122802735
+						},
+						"position": {
+							"x": 1.7738840579986573,
+							"y": -1.4321399927139283,
+							"z": 0.8781780004501343
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd24a7ddf0598b": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_24",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.07677635550498963,
+							"z": -0.9104116559028626
+						},
+						"position": {
+							"x": -0.08690399676561356,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda19308ce9527": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_23",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193175315856934,
+							"y": 5.081172943115234,
+							"z": -0.9161314964294434
+						},
+						"position": {
+							"x": -1.1093519926071168,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6089a4a25771": {
+			"parent": "abcd973233b57471",
+			"name": "Curly_Palm_Potted_A09",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.6920976638793949,
+							"y": 0.04469070956110954,
+							"z": 48.1375732421875
+						},
+						"position": {
+							"x": -0.2952750027179718,
+							"y": 1.3296430110931397,
+							"z": 1.0436739921569825
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdeb7193cb8552": {
+			"parent": "abcd973233b57471",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 21.994462966918947
+						},
+						"position": {
+							"x": 1.6920700073242188,
+							"y": 0.2556230127811432,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb0ed2dacf746": {
+			"parent": "abcd973233b57471",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 0.6770930290222168,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb9754d2e2ca4": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_27",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 0.1473580002784729,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde4fe77a3a61e": {
+			"parent": "abcd973233b57471",
+			"name": "BellFlower_A09",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.3641178011894226,
+							"y": -3.373920440673828,
+							"z": 0.29713669419288638
+						},
+						"position": {
+							"x": -0.869193971157074,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4eb4f5a320a2": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_26",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 1.051543951034546,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd87db63c3b184": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_29",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 11.277079582214356,
+							"y": 8.172333717346192,
+							"z": 88.30972290039063
+						},
+						"position": {
+							"x": 1.7703289985656739,
+							"y": -2.4879379272460939,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd024021772f6b": {
+			"parent": "abcd973233b57471",
+			"name": "flowers_penthouse_flowerbox_b_00_25",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.0746564194560051,
+							"z": -0.9099532961845398
+						},
+						"position": {
+							"x": 1.0666459798812867,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd973233b57471"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb1a6814010ab": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_e_4",
+			"template": "0017CFD33FD7A728",
+			"blueprint": "000EF4DB00AB7021",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -85.25494714466525
+						},
+						"position": {
+							"x": 45.895016,
+							"y": -3.1380758,
+							"z": -1.6603202
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdfcac4cc96904": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": -1.4175529479980469,
+							"y": 1.3405029773712159,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7c5889327825": {
+			"parent": "abcdb1a6814010ab",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.35740235447883608,
+							"y": -3.373116970062256,
+							"z": 0.30918949842453005
+						},
+						"position": {
+							"x": 1.2602529525756837,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd13e408ebfb9": {
+			"parent": "abcdb1a6814010ab",
+			"name": "wooden_hut_divider_a_4m_00_01",
+			"template": "0020B747FB845D1E",
+			"blueprint": "00CA2E360A12F27C",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 89.9998779296875
+						},
+						"position": {
+							"x": -22.165170669555665,
+							"y": -1.4880620241165162,
+							"z": -1.2479360103607178
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdef5558777fcb": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_28",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.7778589725494385,
+							"y": -1.3210560083389283,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf2a108d34964": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Curly_Palm_Potted_A10",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.690199375152588,
+							"y": 0.04469070956110954,
+							"z": -56.862422943115237
+						},
+						"position": {
+							"x": 1.724923014640808,
+							"y": -0.6809620261192322,
+							"z": 0.8755840063095093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9f9c5a74c7da": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 1.74173104763031,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd21d6ce4d6d5c": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Bamboo_Collection_A03",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -3.9228885173797609,
+							"y": -0.6048827767372131,
+							"z": -86.97274017333985
+						},
+						"position": {
+							"x": 1.7719390392303467,
+							"y": -2.0257039070129396,
+							"z": 0.6703829765319824
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb92b5c64f0df": {
+			"parent": "abcdb1a6814010ab",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -2.865927219390869,
+							"y": -0.00916732382029295,
+							"z": 99.94332122802735
+						},
+						"position": {
+							"x": 1.7738840579986573,
+							"y": -1.4321399927139283,
+							"z": 0.8781780004501343
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3fce19622f5b": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_24",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.07677635550498963,
+							"z": -0.9104116559028626
+						},
+						"position": {
+							"x": -0.08690399676561356,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc8d301585ea4": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_23",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193175315856934,
+							"y": 5.081172943115234,
+							"z": -0.9161314964294434
+						},
+						"position": {
+							"x": -1.1093519926071168,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd4b2b002683b": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Curly_Palm_Potted_A09",
+			"template": "008D9A2F859320AD",
+			"blueprint": "0011B613D34C7ECA",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.6920976638793949,
+							"y": 0.04469070956110954,
+							"z": 48.1375732421875
+						},
+						"position": {
+							"x": -0.2952750027179718,
+							"y": 1.3296430110931397,
+							"z": 1.0436739921569825
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdfd91e8216508": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 21.994462966918947
+						},
+						"position": {
+							"x": 1.6920700073242188,
+							"y": 0.2556230127811432,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1935d601882d": {
+			"parent": "abcdb1a6814010ab",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -45.000160217285159
+						},
+						"position": {
+							"x": 0.6770930290222168,
+							"y": 1.2850680351257325,
+							"z": 0.6703870296478272
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4cc0dae946c0": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_27",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 0.1473580002784729,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd56e5926682c9": {
+			"parent": "abcdb1a6814010ab",
+			"name": "BellFlower_A09",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.3641178011894226,
+							"y": -3.373920440673828,
+							"z": 0.29713669419288638
+						},
+						"position": {
+							"x": -0.869193971157074,
+							"y": 1.394394040107727,
+							"z": 0.878180980682373
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd53fe7602c039": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_26",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.193208694458008,
+							"y": 5.077203273773193,
+							"z": 89.08651733398438
+						},
+						"position": {
+							"x": 1.777858018875122,
+							"y": 1.051543951034546,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddb8817161334": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_29",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 11.277079582214356,
+							"y": 8.172333717346192,
+							"z": 88.30972290039063
+						},
+						"position": {
+							"x": 1.7703289985656739,
+							"y": -2.4879379272460939,
+							"z": 0.9137150049209595
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd922c49a745c3": {
+			"parent": "abcdb1a6814010ab",
+			"name": "flowers_penthouse_flowerbox_b_00_25",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 13.113349914550782,
+							"y": 0.0746564194560051,
+							"z": -0.9099532961845398
+						},
+						"position": {
+							"x": 1.0666459798812867,
+							"y": 1.5028760433197022,
+							"z": 0.9326099753379822
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb1a6814010ab"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4dd3517a9de5": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g02",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 94.03372098299094
+						},
+						"position": {
+							"x": 47.65629,
+							"y": -11.183639,
+							"z": -1.8222867
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4eede4283bf8": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7416a6841074": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd73806e7d3e25": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4d82c8058ab3": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8309c63b5fd3": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd56e4d25bdb4c": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdae738319dc7e": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd635cb502c919": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6aae2a9b9457": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdad086690ceca": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd67997d5aad91": {
+			"parent": "abcd4dd3517a9de5",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4dd3517a9de5"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4c70589c7fde": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g03",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 95.02747935628194
+						},
+						"position": {
+							"x": 48.81474,
+							"y": -6.401759,
+							"z": -2.0832007
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd12594e9e051b": {
+			"parent": "abcd4c70589c7fde",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd12eeca125e7b": {
+			"parent": "abcd4c70589c7fde",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd0ccc34e4ef3": {
+			"parent": "abcd4c70589c7fde",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4a8b4a145062": {
+			"parent": "abcd4c70589c7fde",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd0bd653c0155": {
+			"parent": "abcd4c70589c7fde",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd35bb7eddd400": {
+			"parent": "abcd4c70589c7fde",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8b65b1f712fc": {
+			"parent": "abcd4c70589c7fde",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd129137e56b14": {
+			"parent": "abcd4c70589c7fde",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd41c5e6ab40d": {
+			"parent": "abcd4c70589c7fde",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd19d3598efb9a": {
+			"parent": "abcd4c70589c7fde",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde6b0b8081b18": {
+			"parent": "abcd4c70589c7fde",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4c70589c7fde"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddad707f0d33a": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g05",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -84.5094456571367
+						},
+						"position": {
+							"x": 50.242954,
+							"y": -11.399565,
+							"z": -1.9062637
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc3deb87c273f": {
+			"parent": "abcddad707f0d33a",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7412f481a1fb": {
+			"parent": "abcddad707f0d33a",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3d13022817cb": {
+			"parent": "abcddad707f0d33a",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1f7b1a14c26f": {
+			"parent": "abcddad707f0d33a",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6e61329590ff": {
+			"parent": "abcddad707f0d33a",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf29fa40ff249": {
+			"parent": "abcddad707f0d33a",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3c596ae483ab": {
+			"parent": "abcddad707f0d33a",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf8cf3471e3c8": {
+			"parent": "abcddad707f0d33a",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5eb11b5e56d7": {
+			"parent": "abcddad707f0d33a",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd94f74564eab6": {
+			"parent": "abcddad707f0d33a",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdfd6c30c4a8d6": {
+			"parent": "abcddad707f0d33a",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad707f0d33a"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd66a70c16263c": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g04",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -85.54430127866367
+						},
+						"position": {
+							"x": 51.424603,
+							"y": -6.620053,
+							"z": -2.0837681
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb3e58365efc4": {
+			"parent": "abcd66a70c16263c",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8e05aeb61dd2": {
+			"parent": "abcd66a70c16263c",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd15dc11b07f79": {
+			"parent": "abcd66a70c16263c",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd01d6d22a1f96": {
+			"parent": "abcd66a70c16263c",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd83e7ea34fd3a": {
+			"parent": "abcd66a70c16263c",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd30d56bc080e5": {
+			"parent": "abcd66a70c16263c",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc65224e593c7": {
+			"parent": "abcd66a70c16263c",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb788d68ed8e4": {
+			"parent": "abcd66a70c16263c",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7be916468f12": {
+			"parent": "abcd66a70c16263c",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8d87396b8986": {
+			"parent": "abcd66a70c16263c",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3b38d48ab467": {
+			"parent": "abcd66a70c16263c",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd66a70c16263c"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdddbe46a358b3": {
+			"parent": "abcd156ee810eb8e",
+			"name": "Sofa_Terrasse_A_00_04",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sofa_terrasse_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -177.24793054706143
+						},
+						"position": {
+							"x": 48.125687,
+							"y": -16.267344,
+							"z": -1.7336783
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda2bed81ef049": {
+			"parent": "abcdddbe46a358b3",
+			"name": "pillow_hotel_bed_a_00_02",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 73.93441169833844,
+							"y": -1.7189593831300252,
+							"z": -175.3892927316049
+						},
+						"position": {
+							"x": 0.22334299981594086,
+							"y": 0.22027599811553955,
+							"z": 0.6781030297279358
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1.2000000476837158,
+						"z": 1
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdddbe46a358b3"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd5f203849da3": {
+			"parent": "abcdddbe46a358b3",
+			"name": "pillow_hotel_bed_a_00_01",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 73.03685389054762,
+							"y": 0.5735403495685026,
+							"z": 162.72292525929325
+						},
+						"position": {
+							"x": -0.3862990140914917,
+							"y": 0.08110000193119049,
+							"z": 0.6808419823646545
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1.2000000476837158,
+						"z": 1
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdddbe46a358b3"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0dafff2cf2a8": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g06",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 7.396586022030643
+						},
+						"position": {
+							"x": 43.763348,
+							"y": -10.99083,
+							"z": -1.5077411
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1eb9d01cd8d2": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd20e83ac174d5": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd550eae51e0df": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6fbd2ab4f92f": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdeb21d1433dd2": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd66b8bf5cc258": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd69ef33282a1f": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddf714366fa47": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd698f856aeab9": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7475ce896004": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd47a42b653332": {
+			"parent": "abcd0dafff2cf2a8",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0dafff2cf2a8"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb116fc6d5000": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g07",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 4.007656611074117
+						},
+						"position": {
+							"x": 43.97922,
+							"y": -8.615781,
+							"z": -1.6221088
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7042261a8e3d": {
+			"parent": "abcdb116fc6d5000",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd9d1e962f076": {
+			"parent": "abcdb116fc6d5000",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd32aaa5e8a59b": {
+			"parent": "abcdb116fc6d5000",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd708be6125926": {
+			"parent": "abcdb116fc6d5000",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd04063445b108": {
+			"parent": "abcdb116fc6d5000",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd93b63f9217a9": {
+			"parent": "abcdb116fc6d5000",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2efa9d12763a": {
+			"parent": "abcdb116fc6d5000",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdebe2dedb2e65": {
+			"parent": "abcdb116fc6d5000",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdda77fd737ff4": {
+			"parent": "abcdb116fc6d5000",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd64fceb081557": {
+			"parent": "abcdb116fc6d5000",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb8fb7fb0ea6f": {
+			"parent": "abcdb116fc6d5000",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb116fc6d5000"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddad2505fbf8b": {
+			"parent": "abcd6ea8076a68fa",
+			"name": "flowerpot_lounge_g08",
+			"template": "000E6D71F50004F5",
+			"blueprint": "00E09947EDCF40B1",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 1.9275244203374382
+						},
+						"position": {
+							"x": 44.117428,
+							"y": -6.0231404,
+							"z": -1.6446632
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdfe8633aa013d": {
+			"parent": "abcddad2505fbf8b",
+			"name": "elephantear_low_a13",
+			"template": "002C3B5A463CBA29",
+			"blueprint": "00483F7FB31A55FC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.16289779543876649,
+							"y": 0.4777377247810364,
+							"z": 52.255348205566409
+						},
+						"position": {
+							"x": -0.02619599923491478,
+							"y": 0.30658000707626345,
+							"z": 1.1526299715042115
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd58fabf04b181": {
+			"parent": "abcddad2505fbf8b",
+			"name": "Bamboo_Collection_A01",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -10.19273853302002
+						},
+						"position": {
+							"x": 0.0006259999936446548,
+							"y": 0.5207129716873169,
+							"z": 0.6406859755516052
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdebc795d7d3fd": {
+			"parent": "abcddad2505fbf8b",
+			"name": "Bamboo_Collection_A02",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 160.00006103515626
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": 0.017021000385284425,
+							"z": 0.6719170212745667
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5d3e1f87cee7": {
+			"parent": "abcddad2505fbf8b",
+			"name": "Bamboo_Collection_A04",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -161.86082458496095
+						},
+						"position": {
+							"x": 0.1031230017542839,
+							"y": -0.9013450145721436,
+							"z": 0.7505800127983093
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3b3b581054c0": {
+			"parent": "abcddad2505fbf8b",
+			"name": "Bamboo_Collection_A05",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.18339499831199647,
+							"y": -0.6955569982528687,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd23c9627b2f92": {
+			"parent": "abcddad2505fbf8b",
+			"name": "BellFlower_A10",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23194991052150727,
+							"y": -0.671865701675415,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": 0.6650239825248718,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdfb21e6196e00": {
+			"parent": "abcddad2505fbf8b",
+			"name": "flowers_penthouse_flowerbox_c02",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -0.28626298904418948,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddd3fba30d811": {
+			"parent": "abcddad2505fbf8b",
+			"name": "BellFlower_A11",
+			"template": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/foliage/flowers.template?/bellflower_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.23154878616333009,
+							"y": -0.6714645624160767,
+							"z": -128.09339904785157
+						},
+						"position": {
+							"x": 0.11544399708509445,
+							"y": -0.5144199728965759,
+							"z": 1.039821982383728
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0256ff64e5ae": {
+			"parent": "abcddad2505fbf8b",
+			"name": "flowers_penthouse_flowerbox_c01",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": -1.037682056427002,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd211b826e3ce3": {
+			"parent": "abcddad2505fbf8b",
+			"name": "Bamboo_Collection_A",
+			"template": "00499D4208087408",
+			"blueprint": "00CAA7B4F003F6EB",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0
+						},
+						"position": {
+							"x": 0.07666800171136856,
+							"y": 0.9568629860877991,
+							"z": 0.8005030155181885
+						}
+					}
+				},
+				"m_bRaytracingVisibleReflections": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc0f1417900e4": {
+			"parent": "abcddad2505fbf8b",
+			"name": "flowers_penthouse_flowerbox_c",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/penthouse_furniture_a.template?/flowers_penthouse_flowerbox_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -7.964280128479004,
+							"y": 4.518902778625488,
+							"z": -97.36138153076172
+						},
+						"position": {
+							"x": -0.00004600000102072954,
+							"y": 0.5478060245513916,
+							"z": 0.9560660123825073
+						}
+					}
+				},
+				"m_bRaytracingVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcddad2505fbf8b"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5bc50bf5529f": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_04",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 142.41847370484862
+						},
+						"position": {
+							"x": 47.664906,
+							"y": -2.4521585,
+							"z": -1.6016754
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd45e6e9918097": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_05",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 49.40651828584032
+						},
+						"position": {
+							"x": 45.518738,
+							"y": -2.4531271,
+							"z": -1.4232222
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd91c2772ab678": {
+			"parent": "abcd45e6e9918097",
+			"name": "pillow_hotel_bed_a_00_02",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 68.93501797730472,
+							"y": -1.7183861364102102,
+							"z": 83.08474633340148
+						},
+						"position": {
+							"x": -0.07670599967241287,
+							"y": -0.11223600059747696,
+							"z": 0.6392999887466431
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8999999761581421,
+						"y": 0.8999999761581421,
+						"z": 1
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd45e6e9918097"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd940efe528cf1": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_06",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 57.371628763815316
+						},
+						"position": {
+							"x": 49.201393,
+							"y": -2.6328084,
+							"z": -1.757651
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddd0239e9b2bf": {
+			"parent": "abcd940efe528cf1",
+			"name": "pillow_hotel_bed_a_00_02",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 68.93501797730472,
+							"y": -1.7183861364102102,
+							"z": 83.08474633340148
+						},
+						"position": {
+							"x": -0.07670599967241287,
+							"y": -0.11223600059747696,
+							"z": 0.6392999887466431
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8999999761581421,
+						"y": 0.8999999761581421,
+						"z": 1
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd940efe528cf1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd178813579a07": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_07",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 151.20889984589834
+						},
+						"position": {
+							"x": 51.34606,
+							"y": -3.135607,
+							"z": -1.7978169
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd83e96adfecfb": {
+			"parent": "abcd156ee810eb8e",
+			"name": "chair_relaxing_hokaido_b_03",
+			"template": "00BCB205C5ABA1BC",
+			"blueprint": "00A56A91CBF2A212",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -50.83664719991968
+						},
+						"position": {
+							"x": 48.38831,
+							"y": -5.3201485,
+							"z": -1.7438427
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb93358381d1c": {
+			"parent": "abcd83e96adfecfb",
+			"name": "pillow_hotel_bed_a_00_02",
+			"template": "00FF7A98379C02F2",
+			"blueprint": "004421065F456193",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 68.93501797730472,
+							"y": -1.7183861364102102,
+							"z": 83.08474633340148
+						},
+						"position": {
+							"x": -0.07670599967241287,
+							"y": -0.11223600059747696,
+							"z": 0.6392999887466431
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8999999761581421,
+						"y": 0.8999999761581421,
+						"z": 1
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd83e96adfecfb"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda8ddd46d13c1": {
+			"parent": "abcd156ee810eb8e",
+			"name": "Table_Terrasse_B_00",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/table_terrasse_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/table_terrasse_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -177.4197234650656
+						},
+						"position": {
+							"x": 48.213554,
+							"y": -13.654256,
+							"z": -1.6767001
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3cc8074a3b88": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "fries_a_07",
+			"template": "00FBC68668230D57",
+			"blueprint": "0049EC72C39F3A2B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 47.74339786264906,
+							"y": 1.830223931808977,
+							"z": -110.41362371932719
+						},
+						"position": {
+							"x": 0.3551790118217468,
+							"y": -0.046234000474214554,
+							"z": 0.5472409725189209
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2f635a4c3882": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "fries_a_06",
+			"template": "00FBC68668230D57",
+			"blueprint": "0049EC72C39F3A2B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 58.29569200941153,
+							"y": 18.277645092460354,
+							"z": -135.89249861090283
+						},
+						"position": {
+							"x": 0.2114260047674179,
+							"y": -0.02658100053668022,
+							"z": 0.5658950209617615
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2edf8390ebb8": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "fries_a_05",
+			"template": "00FBC68668230D57",
+			"blueprint": "0049EC72C39F3A2B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 81.71516806450421,
+							"y": 0.4854156651718756,
+							"z": -129.079609935299
+						},
+						"position": {
+							"x": 0.151870995759964,
+							"y": -0.05624400079250336,
+							"z": 0.5623170137405396
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd84d4c57de609": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "soda_cup_a_05",
+			"template": "000E467FD9A29547",
+			"blueprint": "009A6DFC54CC9F80",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 140.64954288911275
+						},
+						"position": {
+							"x": 0.17843599617481232,
+							"y": 0.18463100492954254,
+							"z": 0.5461410284042358
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda2bb6226a64f": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "napkin_bar_a_07",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -151.97110151273733
+						},
+						"position": {
+							"x": -0.23640400171279907,
+							"y": 0.15864700078964233,
+							"z": 0.556581974029541
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#9ea6ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd53cfe334e239": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "soda_cup_a_06",
+			"template": "000E467FD9A29547",
+			"blueprint": "009A6DFC54CC9F80",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -29.689407252682788
+						},
+						"position": {
+							"x": 0.44648700952529907,
+							"y": 0.1297609955072403,
+							"z": 0.5461410284042358
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb13a4ef12d18": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "Can_Soda_C_Open",
+			"template": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 131.40016997991086
+						},
+						"position": {
+							"x": -0.22529500722885132,
+							"y": 0.188510000705719,
+							"z": 0.559581995010376
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd218f1b0cf0a4": {
+			"parent": "abcda8ddd46d13c1",
+			"name": "napkin_bar_a",
+			"template": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/napkin_bar_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 75.5928905165968
+						},
+						"position": {
+							"x": -0.6093260049819946,
+							"y": -0.24614399671554565,
+							"z": 0.5565810203552246
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#9ea6ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda8ddd46d13c1"
 				}
 			},
 			"postInitProperties": {},

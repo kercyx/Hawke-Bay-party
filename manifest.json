@@ -401,6 +401,21 @@
 			"runtimeID":"00EF2698A93EB364",
 			"toChunk": 9,
 			"comment":  "cushion"
+		},
+		{
+			"runtimeID":"0017CFD33FD7A728",
+			"toChunk": 9,
+			"comment":  "bangkok flower pot"
+		},
+		{
+			"runtimeID":"0020B747FB845D1E",
+			"toChunk": 9,
+			"comment":  "wooden_hut_divider_a_4m_00"
+		},
+		{
+			"runtimeID":"000E6D71F50004F5",
+			"toChunk": 9,
+			"comment":  "bangkok flower pot"
 		}
 		
 		
