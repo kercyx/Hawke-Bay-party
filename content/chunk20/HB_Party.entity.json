@@ -26626,14 +26626,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -90
+							"x": -0.35022080449803344,
+							"y": 2.4465556180085843,
+							"z": -89.28369324546225
 						},
 						"position": {
 							"x": 59.0329,
 							"y": 23.3134,
-							"z": 1.089901052
+							"z": 0.9746209
 						}
 					}
 				},
@@ -26727,7 +26727,7 @@
 				},
 				"CanExplode": {
 					"type": "bool",
-					"value": false
+					"value": true
 				},
 				"m_bRemovePhysics": {
 					"type": "bool",
@@ -44042,44 +44042,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"abcd895df1d55138": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_05",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.610175772291268,
-							"y": 1.0665610394890537,
-							"z": -96.02458452226625
-						},
-						"position": {
-							"x": 25.497631,
-							"y": 31.126276,
-							"z": -0.085285425
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcd44555ffcde04": {
 			"parent": "abcd2f2cca287ad3",
 			"name": "palm_queen_15m_b_06",
@@ -44118,82 +44080,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"abcd28fb97992904": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_03",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.610175772291268,
-							"y": 1.0665610394890537,
-							"z": -96.02458452226625
-						},
-						"position": {
-							"x": 29.477757,
-							"y": 42.01949,
-							"z": 0.24046731
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd157e799ecb6f": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_04",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 5.426897776729659,
-							"y": -5.024847655860143,
-							"z": -172.57821217379376
-						},
-						"position": {
-							"x": 23.770319,
-							"y": 24.641954,
-							"z": -0.17783946
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcdbdecefce73e6": {
 			"parent": "abcd2f2cca287ad3",
 			"name": "palm_queen_15m_b_17",
@@ -44212,44 +44098,6 @@
 							"x": 28.215387,
 							"y": 54.45737,
 							"z": 0.98771346
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd6ef56e9ad05f": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_02",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 5.426897776729659,
-							"y": -5.024847655860143,
-							"z": -172.57821217379376
-						},
-						"position": {
-							"x": 31.327354,
-							"y": 46.523098,
-							"z": 0.65783453
 						}
 					}
 				},
@@ -44334,52 +44182,6 @@
 							"x": 16.733898,
 							"y": 25.245377,
 							"z": 0.22221838
-						}
-					}
-				},
-				"m_bDisableCSMLODOffset": {
-					"type": "bool",
-					"value": true
-				},
-				"m_nMaxShadowLOD": {
-					"type": "uint32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd223d75691d69": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_09",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.610174491630799,
-							"y": 1.0665661621309313,
-							"z": -96.02458452226625
-						},
-						"position": {
-							"x": 15.3945,
-							"y": 2.63808,
-							"z": -0.0399755
 						}
 					}
 				},
@@ -44500,98 +44302,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"abcdd8175ee61091": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_16",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 5.426897776729659,
-							"y": -5.024847655860143,
-							"z": -172.57821217379376
-						},
-						"position": {
-							"x": 25.76801,
-							"y": 49.141018,
-							"z": 0.9295048
-						}
-					}
-				},
-				"m_bDisableCSMLODOffset": {
-					"type": "bool",
-					"value": true
-				},
-				"m_nMaxShadowLOD": {
-					"type": "uint32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcda1e7f433f237": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_13",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.610175772291268,
-							"y": 1.0665610394890537,
-							"z": -96.02458452226625
-						},
-						"position": {
-							"x": 18.509773,
-							"y": 32.805,
-							"z": 0.3547598
-						}
-					}
-				},
-				"m_bDisableCSMLODOffset": {
-					"type": "bool",
-					"value": true
-				},
-				"m_nMaxShadowLOD": {
-					"type": "uint32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcd1b64bf109686": {
 			"parent": "abcd2f2cca287ad3",
 			"name": "palm_queen_15m_b_14",
@@ -44638,52 +44348,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"abcdc1110c99fd36": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "palm_queen_15m_b_15",
-			"template": "0034B6FD73C8DDAB",
-			"blueprint": "002112267839B107",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 5.426897776729659,
-							"y": -5.024847655860143,
-							"z": -172.57821217379376
-						},
-						"position": {
-							"x": 23.847277,
-							"y": 44.29214,
-							"z": 0.6934796
-						}
-					}
-				},
-				"m_bDisableCSMLODOffset": {
-					"type": "bool",
-					"value": true
-				},
-				"m_nMaxShadowLOD": {
-					"type": "uint32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.4749999940395355,
-						"y": 0.4749999940395355,
-						"z": 0.4749999940395355
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcd1894dc7c55e0": {
 			"parent": "abcd2f2cca287ad3",
 			"name": "tropical_curly_palm_med_mesh_a_9",
@@ -44702,56 +44366,6 @@
 							"x": 15.649909,
 							"y": 16.104631,
 							"z": -0.5684379
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcdfc1c1cab324d": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_13",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 26.72051,
-							"y": 51.262154,
-							"z": 0.37467837
 						}
 					}
 				},
@@ -44834,156 +44448,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"abcd39e8869c82dd": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_4",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 26.315668,
-							"y": 33.96282,
-							"z": -0.30743122
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd2f1b96147cf1": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_1",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 32.21213,
-							"y": 48.566406,
-							"z": 0.21095729
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcdae13d09bb30b": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_11",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 22.147894,
-							"y": 41.512363,
-							"z": 0.052731037
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcd422a75ee2e36": {
 			"parent": "abcd2f2cca287ad3",
 			"name": "tropical_curly_palm_med_mesh_a_5",
@@ -45002,106 +44466,6 @@
 							"x": 24.38411,
 							"y": 27.852392,
 							"z": -0.48770973
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd480b1fbc96ed": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_6",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 22.9027,
-							"y": 14.747143,
-							"z": -0.61259985
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd998f92586850": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_8",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 15.5146675,
-							"y": 7.4237394,
-							"z": -0.6327369
 						}
 					}
 				},
@@ -45202,56 +44566,6 @@
 							"x": 30.384932,
 							"y": 43.983192,
 							"z": 0.20207228
-						}
-					}
-				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.75,
-						"y": 0.75,
-						"z": 0.75
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd7c6fa51fc0a6": {
-			"parent": "abcd2f2cca287ad3",
-			"name": "tropical_curly_palm_med_mesh_a_3",
-			"template": "004FBED4CE1CBB76",
-			"blueprint": "00D89C8EBE9DAED7",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -4.648147782095132,
-							"y": -2.240807268319352,
-							"z": 121.41993136585818
-						},
-						"position": {
-							"x": 28.373505,
-							"y": 39.271294,
-							"z": -0.025038809
 						}
 					}
 				},
@@ -48527,6 +47841,17 @@
 			"Start_As_Silent": {
 				"type": "bool",
 				"value": false
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "75c11e3ffe9485af",
+			"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+		}],
+		"properties": {
+			"AmbBio_PublicZone": {
+				"type": "bool",
+				"value": true
 			}
 		}
 	}],
