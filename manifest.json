@@ -436,6 +436,26 @@
 			"runtimeID":"0003E3ED4BF7A9A3",
 			"toChunk": 9,
 			"comment":  "juice car curtains"
+		},
+		{
+			"runtimeID":"00CA9F1838F462D9",
+			"toChunk": 9,
+			"comment":  "Himmelstein cafe"
+		},
+		{
+			"runtimeID":"000EC894CEC34D55",
+			"toChunk": 9,
+			"comment":  "Himmelstein garden pavilion"
+		},
+		{
+			"runtimeID":"00E505D067D3EFF2",
+			"toChunk": 9,
+			"comment":  "Himmelstein garden pavilion top"
+		},
+		{
+			"runtimeID":"0069C11F8DA1C6C0",
+			"toChunk": 9,
+			"comment":  "Himmelstein pigeon cage"
 		}
 		
 		
