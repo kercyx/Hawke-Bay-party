@@ -456,6 +456,36 @@
 			"runtimeID":"0069C11F8DA1C6C0",
 			"toChunk": 9,
 			"comment":  "Himmelstein pigeon cage"
+		},
+		{
+			"runtimeID":"00F0403A0ED13DB2",
+			"toChunk": 9,
+			"comment":  "parasols"
+		},
+		{
+			"runtimeID":"0054FD4816B6EC72",
+			"toChunk": 9,
+			"comment":  "tuba"
+		},
+		{
+			"runtimeID":"000A8A7677074525",
+			"toChunk": 9,
+			"comment":  "snorkel"
+		},
+		{
+			"runtimeID":"00A5B8E7603B4E9F",
+			"toChunk": 9,
+			"comment":  "beach bed"
+		},
+		{
+			"runtimeID":"00B6B70744BDCDA4",
+			"toChunk": 9,
+			"comment":  "beach bed curtains"
+		},
+		{
+			"runtimeID":"0030A6137E15CD49",
+			"toChunk": 9,
+			"comment":  "parasol sfx"
 		}
 		
 		
