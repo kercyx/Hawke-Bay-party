@@ -491,6 +491,26 @@
 			"runtimeID":"007D77D7C6DF58E5",
 			"toChunk": 9,
 			"comment":  "english arch"
+		},
+		{
+			"runtimeID":"0032DCAC18A548BA",
+			"toChunk": 9,
+			"comment":  "himmelstein palace entrance"
+		},
+		{
+			"runtimeID":"007D5F78FC52D07E",
+			"toChunk": 9,
+			"comment":  "himmelstein palace column"
+		},
+		{
+			"runtimeID":"006490C39B5EB95D",
+			"toChunk": 9,
+			"comment":  "himmelstein palace column"
+		},
+		{
+			"runtimeID":"00508A5BE6B6B983",
+			"toChunk": 9,
+			"comment":  "himmelstein palace column"
 		}
 		
 		
