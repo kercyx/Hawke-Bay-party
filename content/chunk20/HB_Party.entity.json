@@ -80,7 +80,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd3dbda507c3e9", "abcd83771e0b87f3", "abcd249337b76945", "abcd9821113af12a", "abcda9c8de66ffe8", "abcdadb09c530169", "abcdf1b8762f0675", "abcdf45a02dbb19b", "abcd76b0043c06e3", "abcd1bb12ce3514d", "abcd3d2eb637e9a1", "abcd4a19cde753fc", "abcd4af184e7d30d", "abcd9e6b6a65c7f7", "abcd588d49e626b6", "abcd1419c251f970", "abcd0546503e59c9", "abcda9e233abbd15", "abcda82f4bd1bcb0", "abcdb6f09da8e16b", "abcdb23c20a606ed", "abcdcf17a9b959b4", "abcdd85c6ecefd18", "abcde22ca475fec1", "abcde475e4d1f229", "abcde971db68d072", "abcdf0c89ca7cc44", "abcded8c1e6d0966", "abcdf50b8d2e3764", "abcdf45a02dbb19b", "abcddcf0092a17a6", "abcdf45f88f5e78e", "abcdc442bca8f444", "abcdff3424062ca9", "abcd22279e48fc0f", "abcde708b56c433f", "abcd675de8b9e867", "abcd50e238a8b16f", "abcd1a5c21873a6f", "abcde4bb70b99241", "abcd236c54dba9a4", "abcd95531203d3a9", "abcd309307bde4ba", "abcd090d851ffc45", "abcdbcc5fdd6db99", "abcde758cb8ac616", "abcd9107f71b88e7", "abcdddbe46a358b3", "abcd66a70c16263c", "abcddad707f0d33a", "abcd4dd3517a9de5", "abcd4c70589c7fde", "abcdcd303aeaf36a", "abcd973233b57471", "abcdb1a6814010ab", "abcdb38a4323a621", "abcd44a6a9e1de89", "abcdc5fd972d59b5", "abcdbd029457dea8", "abcdb6213e7af2f3", "abcdf737862f0d82", "abcdf20df7e69945", "abcd2aa6fb8523d2", "abcddb9cd35295ab", "abcd74b823865539", "abcd55ac39409044", "abcdaa86c44e7915", "abcdab3d5a5e7204", "abcd8b5cd0592e32", "abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
+					"value": ["abcd01290ff9ab94", "abcdf493c59c0a82", "abcd4b3bd65a7e40", "abcd3dbda507c3e9", "abcd83771e0b87f3", "abcd249337b76945", "abcd9821113af12a", "abcda9c8de66ffe8", "abcdadb09c530169", "abcdf1b8762f0675", "abcdf45a02dbb19b", "abcd76b0043c06e3", "abcd1bb12ce3514d", "abcd3d2eb637e9a1", "abcd4a19cde753fc", "abcd4af184e7d30d", "abcd9e6b6a65c7f7", "abcd588d49e626b6", "abcd1419c251f970", "abcd0546503e59c9", "abcda9e233abbd15", "abcda82f4bd1bcb0", "abcdb6f09da8e16b", "abcdb23c20a606ed", "abcdd85c6ecefd18", "abcde22ca475fec1", "abcde475e4d1f229", "abcde971db68d072", "abcdf0c89ca7cc44", "abcded8c1e6d0966", "abcdf45a02dbb19b", "abcddcf0092a17a6", "abcdf45f88f5e78e", "abcdc442bca8f444", "abcdff3424062ca9", "abcd22279e48fc0f", "abcde708b56c433f", "abcd675de8b9e867", "abcd50e238a8b16f", "abcd1a5c21873a6f", "abcde4bb70b99241", "abcd236c54dba9a4", "abcd95531203d3a9", "abcd309307bde4ba", "abcd090d851ffc45", "abcdbcc5fdd6db99", "abcde758cb8ac616", "abcd9107f71b88e7", "abcdddbe46a358b3", "abcd66a70c16263c", "abcddad707f0d33a", "abcd4dd3517a9de5", "abcd4c70589c7fde", "abcdcd303aeaf36a", "abcd973233b57471", "abcdb1a6814010ab", "abcdb38a4323a621", "abcd44a6a9e1de89", "abcdc5fd972d59b5", "abcdbd029457dea8", "abcdb6213e7af2f3", "abcdf737862f0d82", "abcdf20df7e69945", "abcd2aa6fb8523d2", "abcddb9cd35295ab", "abcd74b823865539", "abcd55ac39409044", "abcdaa86c44e7915", "abcdab3d5a5e7204", "abcd8b5cd0592e32", "abcdb9a4e1fb8218", "abcd25191be85934", "abcdb9a4e1fb8218", "abcd26c8b98bf3bb", "abcd823dbf7202b8", "abcd83510ff03ef7", "abcd75877ccc126d", "abcd45c3f96b429f", "abcd224ddbf5253b", "abcd1c014b861921", "abcd5eead59ee984", "abcd8bca836070d9", "abcd9c7cc7450031", "abcd45d67c2fa48f", "abcd62f8c23ab786", "abcd86a7fa30c20d", "abcd248b9f634d17", "abcd90630c365c28", "abcda26f231ce18f", "abcda4121584ac74", "abcdb58c0b244477", "abcdbf7478f677b6", "abcdc4fe392148a4", "abcdfb07cec0f86c", "4a976d05f1e5b08c", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd0f64477fddc5", "abcd2d5dc3a0d8f8", "abcd60c0aca38a63", "abcd94d18908ce4e", "abcd508a337351da", "abcd631fb4c2fea0", "abcd1663af289f31", "abcd6967d25dbb69", "abcd8571d7ccd093", "abcde86dfac6af64", "abcd94d18908ce4e", "abcdd561e94005b9", "abcd2d0db39fc2b8", "abcd32bd4957f6e1", "abcdd3ce893067f8", "abcdfe189f954f0b", "abcd5eef0aef2c25", "abcda6bbfd06a779", "abcdc905c81698c8", "abcdf9be0a7c98a2", "abcd9b1e1a887cde", "abcd75a698ac6c4a", "abcd432fd9f2aebe", "abcd96523514ad07", "abcd30ab80f67828", "abcd9cbf8ef61d1a", "abcdc31e479eda7d", "abcd9a99b8b913ac"]
 				}
 			},
 			"postInitProperties": {},
@@ -47852,9 +47852,9 @@
 							"z": 4.379448567033653
 						},
 						"position": {
-							"x": -42.178505,
-							"y": 31.670197,
-							"z": 3.4887483
+							"x": 230.5978,
+							"y": -146.65523,
+							"z": -5.481584
 						}
 					}
 				},
@@ -48527,9 +48527,9 @@
 							"z": 3.446453477589785
 						},
 						"position": {
-							"x": -42.424973,
-							"y": 28.122297,
-							"z": 3.5392647
+							"x": 230.82965,
+							"y": -143.574,
+							"z": -5.4792485
 						}
 					}
 				},
@@ -48886,7 +48886,7 @@
 		},
 		"abcdf45a02dbb19b": {
 			"parent": "abcd3e4b5b59b486",
-			"name": "Cafe_Shisha_Table_B_Cloth_High_08",
+			"name": "Cafe_Shisha_Table_B_Cloth_High_09",
 			"template": "[assembly:/_pro/environment/templates/props/furniture/cafe_furniture_marrakesh_a.template?/cafe_shisha_table_b_cloth_high.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/cafe_furniture_marrakesh_a.template?/cafe_shisha_table_b_cloth_high.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -48899,9 +48899,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -54.01796,
-							"y": 35.29979,
-							"z": 3.5750992
+							"x": 219.5795,
+							"y": -148.85353,
+							"z": -5.6954956
 						}
 					}
 				},
@@ -48926,36 +48926,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"abcd46e764ad38a6": {
-			"parent": "abcdf45a02dbb19b",
-			"name": "Flowers_Morgue_Vase_C_00_01",
-			"template": "00F29C9434F14873",
-			"blueprint": "002D3F6E94C420BC",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0.0,
-							"y": 0.0,
-							"z": 40.629417419433597
-						},
-						"position": {
-							"x": 0.0,
-							"y": 0.0,
-							"z": 1.2000000476837159
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcdf45a02dbb19b"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcdb23c20a606ed": {
 			"parent": "abcdddf28ad4a56f",
 			"name": "chair_dressing_white_a01_12",
@@ -48966,14 +48936,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": -19.979831577114087
+							"x": -1.625494095569709,
+							"y": -0.33736550802599674,
+							"z": 7.9521612930822965
 						},
 						"position": {
-							"x": -52.41876,
-							"y": 27.910646,
-							"z": 3.4807618
+							"x": 228.35628,
+							"y": -146.72908,
+							"z": -5.3849764
 						}
 					}
 				},
@@ -49005,9 +48975,9 @@
 							"z": -133.9439164921553
 						},
 						"position": {
-							"x": -48.823578,
-							"y": 20.605373,
-							"z": 3.656636
+							"x": 224.68031,
+							"y": -151.28578,
+							"z": -5.814492
 						}
 					}
 				},
@@ -49040,12 +49010,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -0
+							"z": 9.759007583286422
 						},
 						"position": {
-							"x": -44.4731,
-							"y": 24.941803,
-							"z": 4.1547346
+							"x": 219.59628,
+							"y": -148.81252,
+							"z": -4.491509
 						}
 					}
 				},
@@ -49074,9 +49044,9 @@
 							"z": -0
 						},
 						"position": {
-							"x": -52.867775,
-							"y": 24.097656,
-							"z": 3.6976357
+							"x": 225.66693,
+							"y": -152.21675,
+							"z": -5.8466916
 						}
 					}
 				},
@@ -49495,12 +49465,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 39.225151441074175
+							"z": 7.327800040673091
 						},
 						"position": {
-							"x": -47.87869,
-							"y": 28.16388,
-							"z": 3.43182
+							"x": 220.18155,
+							"y": -145.69266,
+							"z": -5.4987335
 						}
 					}
 				},
@@ -49529,12 +49499,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -18.508885452554726
+							"z": 7.111767560527935
 						},
 						"position": {
-							"x": -52.97208,
-							"y": 29.96848,
-							"z": 3.3946471
+							"x": 226.50862,
+							"y": -143.75227,
+							"z": -5.333035
 						}
 					}
 				},
@@ -49563,46 +49533,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -17.633748682126626
+							"z": 8.324070216031368
 						},
 						"position": {
-							"x": -51.336235,
-							"y": 30.443542,
-							"z": 3.3519917
-						}
-					}
-				},
-				"m_fLODOffset": {
-					"type": "float32",
-					"value": 0
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcdcf17a9b959b4": {
-			"parent": "abcdddf28ad4a56f",
-			"name": "chair_dressing_white_a01_13",
-			"template": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_dressing_white_a01.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_dressing_white_a01.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": -16.412210330204864
-						},
-						"position": {
-							"x": -53.37791,
-							"y": 27.651247,
-							"z": 3.6066933
+							"x": 228.73494,
+							"y": -144.07178,
+							"z": -5.3320017
 						}
 					}
 				},
@@ -49629,14 +49565,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": 35.392954278928045
+							"x": 0.08625757857401833,
+							"y": 1.039856387216479,
+							"z": 7.263828488906752
 						},
 						"position": {
-							"x": -46.014023,
-							"y": 29.012712,
-							"z": 3.4449213
+							"x": 221.60455,
+							"y": -143.1202,
+							"z": -5.3489738
 						}
 					}
 				},
@@ -49665,12 +49601,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 35.392954278928045
+							"z": 6.999107859036806
 						},
 						"position": {
-							"x": -46.975533,
-							"y": 28.663752,
-							"z": 3.4187238
+							"x": 221.40038,
+							"y": -144.4081,
+							"z": -5.388436
 						}
 					}
 				},
@@ -49697,14 +49633,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": -18.157782993364805
+							"x": -0.5372893605396484,
+							"y": 0.24012848040246226,
+							"z": 8.140953698156974
 						},
 						"position": {
-							"x": -51.41946,
-							"y": 29.357878,
-							"z": 3.40124
+							"x": 226.32149,
+							"y": -145.14067,
+							"z": -5.4023833
 						}
 					}
 				},
@@ -49733,46 +49669,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -21.223679034412402
+							"z": 7.720851814197937
 						},
 						"position": {
-							"x": -51.478985,
-							"y": 28.247942,
-							"z": 3.4278877
-						}
-					}
-				},
-				"m_fLODOffset": {
-					"type": "float32",
-					"value": 0
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcdf50b8d2e3764": {
-			"parent": "abcdddf28ad4a56f",
-			"name": "chair_dressing_white_a01_20",
-			"template": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_dressing_white_a01.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_dressing_white_a01.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": -16.42707965202798
-						},
-						"position": {
-							"x": -53.77207,
-							"y": 29.716412,
-							"z": 3.4672277
+							"x": 227.24782,
+							"y": -146.58904,
+							"z": -5.432605
 						}
 					}
 				},
@@ -49799,14 +49701,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": 35.392954278928045
+							"x": -0.6293627117898003,
+							"y": -1.1919096316324798,
+							"z": 10.088066460703773
 						},
 						"position": {
-							"x": -47.78197,
-							"y": 29.180847,
-							"z": 3.3843489
+							"x": 220.45001,
+							"y": -144.27557,
+							"z": -5.4152207
 						}
 					}
 				},
@@ -49833,14 +49735,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": -18.286436436571165
+							"x": 0.07701630594656464,
+							"y": 0.03335608258540352,
+							"z": 7.892825732215104
 						},
 						"position": {
-							"x": -53.13034,
-							"y": 28.816483,
-							"z": 3.4688694
+							"x": 228.55432,
+							"y": -145.45259,
+							"z": -5.358691
 						}
 					}
 				},
@@ -49867,14 +49769,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": 35.392954278928045
+							"x": 0.032664639323752125,
+							"y": 0.49664221109781487,
+							"z": 6.915210511027423
 						},
 						"position": {
-							"x": -45.347153,
-							"y": 28.425348,
-							"z": 3.4249847
+							"x": 220.60075,
+							"y": -142.9877,
+							"z": -5.368507
 						}
 					}
 				},
@@ -49903,12 +49805,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 35.392954278928045
+							"z": 7.7668787514673605
 						},
 						"position": {
-							"x": -46.203,
-							"y": 28.121325,
-							"z": 3.4506495
+							"x": 222.39786,
+							"y": -144.54733,
+							"z": -5.3812404
 						}
 					}
 				},
@@ -49935,14 +49837,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": 35.392954278928045
+							"x": -0.048368054643564716,
+							"y": -0.0029287656477277957,
+							"z": 6.930246745598383
 						},
 						"position": {
-							"x": -47.709385,
-							"y": 30.24398,
-							"z": 3.4484818
+							"x": 226.16185,
+							"y": -146.43059,
+							"z": -5.4234824
 						}
 					}
 				},
@@ -49971,12 +49873,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 35.392954278928045
+							"z": 6.194225560637809
 						},
 						"position": {
-							"x": -46.346016,
-							"y": 27.047606,
-							"z": 3.4423184
+							"x": 222.19987,
+							"y": -145.91669,
+							"z": -5.4448924
 						}
 					}
 				},
@@ -50003,14 +49905,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": 35.392954278928045
+							"x": 0.05103831509854922,
+							"y": 0.5902806361632518,
+							"z": 7.291641019207043
 						},
 						"position": {
-							"x": -46.876137,
-							"y": 29.638098,
-							"z": 3.448428
+							"x": 222.56203,
+							"y": -143.23917,
+							"z": -5.3460402
 						}
 					}
 				},
@@ -50039,12 +49941,12 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": -16.56775252062627
+							"z": 7.719326974465732
 						},
 						"position": {
-							"x": -52.145897,
-							"y": 30.212278,
-							"z": 3.3827069
+							"x": 227.58296,
+							"y": -143.92775,
+							"z": -5.335442
 						}
 					}
 				},
@@ -50071,14 +49973,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": 35.392954278928045
+							"x": 0.24184144382153386,
+							"y": -0.014627061883467216,
+							"z": 6.33918821492169
 						},
 						"position": {
-							"x": -47.153122,
-							"y": 27.598663,
-							"z": 3.4462914
+							"x": 221.18138,
+							"y": -145.79832,
+							"z": -5.479646
 						}
 					}
 				},
@@ -50105,14 +50007,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0,
-							"y": 0,
-							"z": -18.740609865431164
+							"x": 1.9682385376496494,
+							"y": 0.5360295108028983,
+							"z": 7.235534430269974
 						},
 						"position": {
-							"x": -52.256874,
-							"y": 29.09359,
-							"z": 3.4335418
+							"x": 227.44385,
+							"y": -145.31503,
+							"z": -5.36607
 						}
 					}
 				},
@@ -50144,9 +50046,9 @@
 							"z": -0
 						},
 						"position": {
-							"x": -46.661705,
-							"y": 23.719526,
-							"z": 3.5505624
+							"x": 221.50089,
+							"y": -151.7816,
+							"z": -5.8434367
 						}
 					}
 				},
@@ -50174,9 +50076,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -44.871,
-							"y": 36.906406,
-							"z": 2.9701087
+							"x": 229.23193,
+							"y": -138.67729,
+							"z": -5.063353
 						}
 					}
 				},
@@ -50246,9 +50148,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -47.163223,
-							"y": 35.655178,
-							"z": 3.0818157
+							"x": 215.80075,
+							"y": -140.43295,
+							"z": -5.429949
 						}
 					}
 				},
@@ -50318,9 +50220,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -51.38143,
-							"y": 36.20488,
-							"z": 3.4066021
+							"x": 223.14668,
+							"y": -137.11786,
+							"z": -5.0792265
 						}
 					}
 				},
@@ -50390,9 +50292,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -47.242798,
-							"y": 32.75443,
-							"z": 3.2383995
+							"x": 217.49944,
+							"y": -142.80614,
+							"z": -5.457855
 						}
 					}
 				},
@@ -50462,9 +50364,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -51.712658,
-							"y": 33.430405,
-							"z": 3.3562336
+							"x": 215.05133,
+							"y": -137.24565,
+							"z": -5.4121647
 						}
 					}
 				},
@@ -50534,9 +50436,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -53.542377,
-							"y": 37.829258,
-							"z": 3.667204
+							"x": 219.32117,
+							"y": -138.57663,
+							"z": -5.237693
 						}
 					}
 				},
@@ -50606,9 +50508,9 @@
 							"z": 80.50054808606775
 						},
 						"position": {
-							"x": -44.81794,
-							"y": 33.90196,
-							"z": 3.2018538
+							"x": 220.65741,
+							"y": -134.85242,
+							"z": -4.909063
 						}
 					}
 				},
@@ -53967,6 +53869,1548 @@
 					"value": "abcdeda7a0f6daba"
 				}
 			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd28af5b1c7f39": {
+			"parent": "abcd3e4b5b59b486",
+			"name": "english_garden_arch_a",
+			"template": "007D77D7C6DF58E5",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 6.186244057705826
+						},
+						"position": {
+							"x": 223.35434,
+							"y": -152.97122,
+							"z": -4.092008
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.8324999809265137,
+						"y": 0.8324999809265137,
+						"z": 0.8324999809265137
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd629e72191caf": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_15",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.8864670345347105,
+							"y": -78.5906696629282,
+							"z": 33.02780160561804
+						},
+						"position": {
+							"x": -1.475924015045166,
+							"y": -0.08567799627780914,
+							"z": 0.067781001329422
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb03c5489a5b7": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_18",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25.89788244825149,
+							"y": -11.25605710070582,
+							"z": -35.24029953219464
+						},
+						"position": {
+							"x": -1.3536850214004517,
+							"y": -0.30369600653648376,
+							"z": -0.9956960082054138
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdea9e86e41c21": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_20",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -36.26758159858528,
+							"y": -21.817536969443694,
+							"z": -29.131561132049516
+						},
+						"position": {
+							"x": -1.3577179908752441,
+							"y": -0.1372070014476776,
+							"z": -0.6653689742088318
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd479622619266": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_21",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -12.64780086159927,
+							"y": -83.10986081304839,
+							"z": 6.448420745051025
+						},
+						"position": {
+							"x": -1.4424079656600952,
+							"y": -0.14288300275802612,
+							"z": -0.3550199866294861
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd473ec26a2ce7": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_19",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -14.655357590085362,
+							"y": 6.638233176120671,
+							"z": -94.19964069434246
+						},
+						"position": {
+							"x": -1.0762959718704224,
+							"y": 0.06761199980974197,
+							"z": -1.0284160375595093
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda00e805bf4fa": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_16",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -21.073813010726116,
+							"y": -36.86889617592116,
+							"z": -87.95671316786253
+						},
+						"position": {
+							"x": -1.2210869789123535,
+							"y": 0.3147580027580261,
+							"z": -0.9034169912338257
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7af136c0eecb": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_tamagozake_a_pink_83",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 79.34686210058074,
+							"y": 57.88750591651988,
+							"z": 160.0564538307263
+						},
+						"position": {
+							"x": -1.1554739475250244,
+							"y": -0.1857759952545166,
+							"z": -0.8245519995689392
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8a8194f2791d": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_17",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -12.64780086159927,
+							"y": -83.10986081304839,
+							"z": -51.77490412926173
+						},
+						"position": {
+							"x": -1.2966020107269287,
+							"y": 0.00802600011229515,
+							"z": -0.2602570056915283
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd207b9a730414": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_tamagozake_a_pink_80",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -156.5356772814228,
+							"y": 71.26994879571757,
+							"z": -126.01900311882
+						},
+						"position": {
+							"x": -1.4040470123291016,
+							"y": 0.1345209926366806,
+							"z": 0.2947239875793457
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde935458d3e4f": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_tamagozake_a_pink_82",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -45.729417495193644,
+							"y": 66.71110287554143,
+							"z": -121.37214888667323
+						},
+						"position": {
+							"x": -1.2598170042037964,
+							"y": -0.0742029994726181,
+							"z": -0.3281629979610443
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd92b9bc31a5f7": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_48",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.7200659516456932,
+							"y": 26.528697866407903,
+							"z": -169.1533222863104
+						},
+						"position": {
+							"x": 0.6969547271728516,
+							"y": -0.07959747314453125,
+							"z": 2.167473077774048
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdcbbcc9962a88": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_tamagozake_a_pink_81",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -33.98652285287403,
+							"y": 65.78084395607365,
+							"z": -57.95736843399168
+						},
+						"position": {
+							"x": -1.5029089450836182,
+							"y": -0.2834169864654541,
+							"z": 0.010598000138998032
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb1ce42109ddd": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_penthouse_flowerbox_b_00_14",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -116.67137012338561,
+							"y": -85.8263161150973,
+							"z": -173.45342658366496
+						},
+						"position": {
+							"x": -1.481637954711914,
+							"y": 0.0054779998026788235,
+							"z": 0.06780800223350525
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.574999988079071,
+						"y": 0.6143519878387451,
+						"z": 0.574999988079071
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd83cc4aefc981": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_tamagozake_a_pink_85",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 75.17122248700636,
+							"y": -5.391522027391574,
+							"z": 146.76600873907438
+						},
+						"position": {
+							"x": -1.3601210117340088,
+							"y": -0.2908860146999359,
+							"z": -0.4179840087890625
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd6544dd9e2f2": {
+			"parent": "abcd28af5b1c7f39",
+			"name": "flowers_tamagozake_a_pink_84",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 49.401710360673306,
+							"y": 50.90750469322141,
+							"z": 123.63979192782641
+						},
+						"position": {
+							"x": -1.0243240594863892,
+							"y": 0.37129199504852295,
+							"z": -0.9402080178260803
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd28af5b1c7f39"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb31baa63961f": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_52",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -173.7738994069115,
+							"y": -46.976339755162705,
+							"z": -1.469797389052023
+						},
+						"position": {
+							"x": 1.1918020248413086,
+							"y": 0.015278000384569168,
+							"z": -0.6407110095024109
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5f2cc13fc4c3": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_64",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 39.24082314383969,
+							"y": -13.52707906816275,
+							"z": 50.292230791608524
+						},
+						"position": {
+							"x": 1.0970239639282227,
+							"y": 0.05693918839097023,
+							"z": -0.4196954071521759
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf480cb56b5e5": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_47",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 11.071447590859835,
+							"y": -46.97642484475296,
+							"z": -1.4700511880746325
+						},
+						"position": {
+							"x": 1.141558051109314,
+							"y": 0.12789300084114075,
+							"z": -0.6612880229949951
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc0ec62e77458": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_53",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -174.11756673086148,
+							"y": -65.06980829188102,
+							"z": -1.6823546047542268
+						},
+						"position": {
+							"x": 1.4499770402908325,
+							"y": 0.16648699343204498,
+							"z": -1.0322380065917969
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0b92d3e90b44": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_49",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 10.728305092809144,
+							"y": -65.0696705586223,
+							"z": -1.6819429813932478
+						},
+						"position": {
+							"x": 1.383262038230896,
+							"y": 0.2789269983768463,
+							"z": -1.0277889966964722
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdab3ec232f5ef": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_48",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 5.3579175818886675,
+							"y": -9.714916538703713,
+							"z": 172.79753350625126
+						},
+						"position": {
+							"x": -0.6690319776535034,
+							"y": -0.14147299528121948,
+							"z": -0.11449699848890305
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4d080ae620b6": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_45",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 175.15445153026423,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.021957000717520714,
+							"y": -0.13051900267601013,
+							"z": 0.02704799920320511
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5753daf55810": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_68",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 38.440038083233084,
+							"y": -48.1293887370426,
+							"z": -38.487200533193715
+						},
+						"position": {
+							"x": 0.5040720105171204,
+							"y": 0.14019900560379028,
+							"z": -0.0034620000515133142
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd1484d8d4668": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_51",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 176.91067248783358,
+							"y": -25.733253937432668,
+							"z": -11.014154940485055
+						},
+						"position": {
+							"x": 0.6550809741020203,
+							"y": 0.0005000000237487257,
+							"z": -0.18524900078773499
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd70f5faeaa682": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_69",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -105.71253777236139,
+							"y": -81.53772607453917,
+							"z": -163.93448544311687
+						},
+						"position": {
+							"x": 1.3606120347976685,
+							"y": 0.4199709892272949,
+							"z": -0.840116024017334
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1b58ba981192": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_50",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -179.48676931270845,
+							"y": -9.7145683283911,
+							"z": 172.79754045664762
+						},
+						"position": {
+							"x": -0.720255970954895,
+							"y": -0.021997999399900436,
+							"z": -0.07682300359010696
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd82da57e255d9": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_65",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -84.54388240513879,
+							"y": -11.902624014959828,
+							"z": 4.909848671588201
+						},
+						"position": {
+							"x": 0.05137600004673004,
+							"y": -0.2654849886894226,
+							"z": 0.021494999527931213
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd344f21e6b206": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_67",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 9.682265624203323,
+							"y": -26.083082270823084,
+							"z": -9.631662905110927
+						},
+						"position": {
+							"x": 0.715224027633667,
+							"y": 0.13242800533771515,
+							"z": -0.0416719987988472
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdfb61e88b07ee": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_66",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -84.54388240513879,
+							"y": -11.902624014959828,
+							"z": 4.909848671588201
+						},
+						"position": {
+							"x": -0.5807909965515137,
+							"y": -0.25884899497032166,
+							"z": 0.08659899979829788
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7978cfd5d06d": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_penthouse_flowerbox_b_00_46",
+			"template": "0062503777717600",
+			"blueprint": "00548C3BBC70082F",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 1.7577168511410246,
+							"y": -25.733826390930485,
+							"z": -11.01407880596078
+						},
+						"position": {
+							"x": 0.6206179857254028,
+							"y": 0.1201770007610321,
+							"z": -0.20880399644374847
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.7180320024490356,
+						"y": 0.7671719789505005,
+						"z": 0.7180320024490356
+					}
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd91ec9d96a822": {
+			"parent": "abcd92b9bc31a5f7",
+			"name": "flowers_tamagozake_a_pink_70",
+			"template": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_florist_a.template?/flowers_tamagozake_a_pink.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 64.13081197846394,
+							"y": -42.11733063288018,
+							"z": 1.6670330561703555
+						},
+						"position": {
+							"x": 0.4080260097980499,
+							"y": 0.09745600074529648,
+							"z": -0.07582300156354904
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.6868119835853577,
+						"y": 0.6868119835853577,
+						"z": 0.6868119835853577
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd92b9bc31a5f7"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4b3bd65a7e40": {
+			"parent": "abcd3e4b5b59b486",
+			"name": "RedCarpet_Palace_Brass_Rod_A_00_11",
+			"template": "[assembly:/_pro/environment/geometry/props/decorative/velvet_rope_a.wl2?/redcarpet_palace_brass_rod_a_00.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.0279541015625
+						},
+						"position": {
+							"x": 239.911,
+							"y": -145.219,
+							"z": -5.03962
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.75,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf493c59c0a82": {
+			"parent": "abcd4b3bd65a7e40",
+			"name": "Carpet_Baroque_Red_A",
+			"template": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/carpet_baroque_red_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/carpet_baroque_red_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -4.590756263820452,
+							"y": 0.2454097374151895,
+							"z": 7.458521323650673
+						},
+						"position": {
+							"x": 223.93579,
+							"y": -150.14247,
+							"z": -5.7360263
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.399999976158142,
+						"y": 1.399999976158142,
+						"z": 1
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd01290ff9ab94": {
+			"parent": "abcd4b3bd65a7e40",
+			"name": "RedCarpet_Palace_Exterior_B_00_06",
+			"template": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/redcarpet_palace_exterior_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/redcarpet_palace_exterior_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -2.5958776405302264,
+							"y": 0.6273790754444405,
+							"z": 7.2382349163130675
+						},
+						"position": {
+							"x": 224.41035,
+							"y": -144.85883,
+							"z": -5.3815317
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.9263290166854858,
+						"z": 1
+					}
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.399999976158142
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4bec663d14e9": {
+			"parent": "abcd3e4b5b59b486",
+			"name": "Cafe_Shisha_Table_B_Cloth_High_08",
+			"template": "[assembly:/_pro/environment/templates/props/furniture/cafe_furniture_marrakesh_a.template?/cafe_shisha_table_b_cloth_high.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/cafe_furniture_marrakesh_a.template?/cafe_shisha_table_b_cloth_high.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 80.50054808606775
+						},
+						"position": {
+							"x": 232.46643,
+							"y": -139.88023,
+							"z": -5.1188636
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"FarDistanceProperty": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5ed72b0d8ea6": {
+			"parent": "abcd4bec663d14e9",
+			"name": "Flowers_Morgue_Vase_C_00_01",
+			"template": "00F29C9434F14873",
+			"blueprint": "002D3F6E94C420BC",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 40.629417419433597
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 1.2000000476837159
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd4bec663d14e9"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbb0f7c00d06f": {
+			"parent": "abcd4b3bd65a7e40",
+			"name": "RedCarpet_Palace_Exterior_B_00_08",
+			"template": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/redcarpet_palace_exterior_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/carpets_a.template?/redcarpet_palace_exterior_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -2.5958776405302264,
+							"y": 0.6273790754444405,
+							"z": 7.2382349163130675
+						},
+						"position": {
+							"x": 224.41035,
+							"y": -144.85883,
+							"z": -5.3815317
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 0.9263290166854858,
+						"z": 1
+					}
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.399999976158142
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		}
