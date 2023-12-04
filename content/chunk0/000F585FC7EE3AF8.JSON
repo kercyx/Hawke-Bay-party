@@ -1,6 +1,12 @@
 {
   "Data": {
-      "Objectives": [
+    "RandomBricks": {
+        "TimeOfDay": [
+            "assembly:/_pro/scenes/missions/sheep/tod_sunset.brick",
+            "assembly:/_pro/scenes/missions/sheep/tod_midday.brick"
+        ]
+    },
+    "Objectives": [
           {
               "_comment": "----- Enter House -----",
               "Id": "2022ec96-b328-4aa7-a309-507fd263b235",
