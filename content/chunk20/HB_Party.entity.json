@@ -58338,8 +58338,7 @@
 	],
 	"externalScenes": [
 		"[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/sheep/override_genericsheepmusic.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/coastaltown/location.brick].pc_entitytype"
+		"[assembly:/_pro/scenes/missions/sheep/override_genericsheepmusic.brick].pc_entitytype"
 	],
 	"subType": "brick",
 	"quickEntityVersion": 3.1,
