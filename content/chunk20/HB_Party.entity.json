@@ -27332,14 +27332,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 45
+							"x": 10.256083991644209,
+							"y": 6.188635050802154,
+							"z": 47.139493122948465
 						},
 						"position": {
 							"x": 47.5737,
-							"y": -8.62013,
-							"z": -1.57251
+							"y": -8.801501,
+							"z": -1.5369852
 						}
 					}
 				},
@@ -27369,10 +27369,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"IsTrap": {
+					"type": "bool",
+					"value": false
 				}
 			}
 		},
-		"abcd462c442e9191": {
+		"abcdd9c35a7ef9bd": {
 			"parent": "abcd55a3fc7c4409",
 			"name": "Setpiece_Fox_Unique_Trap_ElectricalLightCube_03",
 			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entitytype",
@@ -27382,14 +27386,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 45
+							"x": 0.3376322055687446,
+							"y": 1.1435963952601005,
+							"z": 46.1874979413375
 						},
 						"position": {
-							"x": 62.2929,
-							"y": -10.9115,
-							"z": -1.48974
+							"x": 71.71937,
+							"y": -14.800658,
+							"z": -1.1569302
 						}
 					}
 				},
@@ -27419,106 +27423,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcdec88a7ea1562": {
-			"parent": "abcd55a3fc7c4409",
-			"name": "Setpiece_Fox_Unique_Trap_ElectricalLightCube_06",
-			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 45
-						},
-						"position": {
-							"x": 62.2929,
-							"y": -10.9115,
-							"z": -1.48974
-						}
-					}
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 100
-				},
-				"GlowColorA": {
-					"type": "SColorRGB",
-					"value": "#d54dfa"
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 25
-				},
-				"GlowColorB": {
-					"type": "SColorRGB",
-					"value": "#3358ff"
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 2,
-						"y": 6
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcdd9c35a7ef9bd": {
-			"parent": "abcd55a3fc7c4409",
-			"name": "Setpiece_Fox_Unique_Trap_ElectricalLightCube_05",
-			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 45
-						},
-						"position": {
-							"x": 62.2929,
-							"y": -10.9115,
-							"z": -1.48974
-						}
-					}
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 100
-				},
-				"GlowColorA": {
-					"type": "SColorRGB",
-					"value": "#d54dfa"
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 25
-				},
-				"GlowColorB": {
-					"type": "SColorRGB",
-					"value": "#3358ff"
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 2,
-						"y": 6
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"IsTrap": {
+					"type": "bool",
+					"value": false
 				}
 			}
 		},
@@ -27532,9 +27440,9 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 45
+							"x": -3.7944906759462507,
+							"y": 3.785057330928817,
+							"z": 45.12538644992759
 						},
 						"position": {
 							"x": 62.2929,
@@ -27569,56 +27477,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd8237fc23e1ec": {
-			"parent": "abcd55a3fc7c4409",
-			"name": "Setpiece_Fox_Unique_Trap_ElectricalLightCube_04",
-			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_fox_unique.template?/setpiece_fox_unique_trap_electricallightcube.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 45
-						},
-						"position": {
-							"x": 62.2929,
-							"y": -10.9115,
-							"z": -1.48974
-						}
-					}
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 100
-				},
-				"GlowColorA": {
-					"type": "SColorRGB",
-					"value": "#d54dfa"
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 25
-				},
-				"GlowColorB": {
-					"type": "SColorRGB",
-					"value": "#3358ff"
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 2,
-						"y": 6
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"IsTrap": {
+					"type": "bool",
+					"value": false
 				}
 			}
 		},

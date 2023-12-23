@@ -960,7 +960,11 @@
 				},
 				"m_fWaterPlaneHeight": {
 					"type": "float32",
-					"value": -1
+					"value": -10
+				},
+				"m_fWorldScale": {
+					"type": "float32",
+					"value": 3
 				}
 			}
 		},
