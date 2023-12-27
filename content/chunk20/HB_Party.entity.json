@@ -73,8 +73,6 @@
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
 					"value": [
-						"abcd701135c60f87",
-						"abcda446c53cb40a",
 						"abcd01290ff9ab94",
 						"abcdf493c59c0a82",
 						"abcd4b3bd65a7e40",
@@ -110,8 +108,6 @@
 						"abcdf45f88f5e78e",
 						"abcdc442bca8f444",
 						"abcdff3424062ca9",
-						"abcd22279e48fc0f",
-						"abcde708b56c433f",
 						"abcd675de8b9e867",
 						"abcd50e238a8b16f",
 						"abcd1a5c21873a6f",
@@ -17215,14 +17211,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0.33760392858116,
-							"y": 0,
-							"z": 81.83212078551841
+							"x": 6.635144123077371,
+							"y": -0.9018851766022501,
+							"z": 81.88173720623737
 						},
 						"position": {
-							"x": 73.808,
-							"y": -25.1145,
-							"z": -0.774944
+							"x": 73.80799865722656,
+							"y": -25.114500045776367,
+							"z": -0.774944007396698
 						}
 					}
 				},
@@ -17303,12 +17299,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 81.83212078551841
+							"z": 88.36894905857403
 						},
 						"position": {
-							"x": 60.8298,
-							"y": -24.8606,
-							"z": -0.920451
+							"x": 60.778831481933594,
+							"y": -25.45131492614746,
+							"z": -0.9205648303031921
 						}
 					}
 				},
@@ -48458,76 +48454,6 @@
 				}
 			}
 		},
-		"abcd22279e48fc0f": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "Palace_Fence_Pillar_B_00_01",
-			"factory": "[assembly:/_pro/environment/templates/props/street_props/fences_palace.template?/palace_fence_pillar_b_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/fences_palace.template?/palace_fence_pillar_b_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -38.5279,
-							"y": 18.8737,
-							"z": 3.51307
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.6499999761581421,
-						"y": 0.6499999761581421,
-						"z": 0.6499999761581421
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcde708b56c433f": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "Palace_Fence_Pillar_B_00_02",
-			"factory": "[assembly:/_pro/environment/templates/props/street_props/fences_palace.template?/palace_fence_pillar_b_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/fences_palace.template?/palace_fence_pillar_b_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -37.8919,
-							"y": 9.28937,
-							"z": 3.81866
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.6499999761581421,
-						"y": 0.6499999761581421,
-						"z": 0.6499999761581421
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
 		"abcdddf28ad4a56f": {
 			"parent": "abcd3e4b5b59b486",
 			"name": "chairs",
@@ -49651,19 +49577,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0.6912449193612036,
-							"y": -0.04438910926627529,
-							"z": 91.82529542808321
+							"x": -0.6912449266378422,
+							"y": -0.04438911037279934,
+							"z": 91.82529479202383
 						},
 						"position": {
-							"x": 17.769875,
-							"y": -130.36487,
-							"z": -5.5387926
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 1,
-							"z": 0.9999999999999998
+							"x": 117.29916381835938,
+							"y": -131.8424530029297,
+							"z": -5.857614994049072
 						}
 					}
 				},
@@ -49945,17 +49866,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 85.89695760588977
+							"z": 85.89695988976365
 						},
 						"position": {
-							"x": 25.4445,
-							"y": -130.75009,
-							"z": -5.48169
-						},
-						"scale": {
-							"x": 1.0000000000000002,
-							"y": 1.0000000000000002,
-							"z": 1
+							"x": 131.02566528320312,
+							"y": -131.11569213867188,
+							"z": -5.479288578033447
 						}
 					}
 				},
@@ -50680,12 +50596,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 93.89019821796144
+							"z": 93.89019909045753
 						},
 						"position": {
-							"x": 10.29802,
-							"y": -129.93596,
-							"z": -5.414942
+							"x": 106.32562255859375,
+							"y": -129.75743103027344,
+							"z": -5.885412693023682
 						}
 					}
 				},
@@ -51829,199 +51745,6 @@
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": "abcd08fd06f17b1a"
-				}
-			}
-		},
-		"abcdacd4a7ee2dc5": {
-			"parent": "abcd5810e6df6c1e",
-			"name": "sunbed_wooden_b_02",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 3.6224467484900917
-						},
-						"position": {
-							"x": -17.919273,
-							"y": -133.65198,
-							"z": -5.671694
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd77e0acee846d": {
-			"parent": "abcdacd4a7ee2dc5",
-			"name": "CollisionBox",
-			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -0.001281999982893467,
-							"y": -0.19872300326824188,
-							"z": 0.06890299916267395
-						}
-					}
-				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.0494400262832642,
-						"y": 2.2355899810791016,
-						"z": 1.1378099918365479
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcdacd4a7ee2dc5",
-					"postInit": true
-				}
-			}
-		},
-		"abcd5c6396a038ea": {
-			"parent": "abcd5810e6df6c1e",
-			"name": "sunbed_wooden_b_01",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 2.669904724858706
-						},
-						"position": {
-							"x": -14.466317,
-							"y": -134.05663,
-							"z": -5.6119294
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd155b5c122b2a": {
-			"parent": "abcd5c6396a038ea",
-			"name": "Cushion_Modern_A_Tintable_SizeA_00",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizea_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizea_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 36.055972227708104
-						},
-						"position": {
-							"x": 0.009833999909460545,
-							"y": 0.07406699657440186,
-							"z": 0.5561389923095703
-						}
-					}
-				},
-				"ConstantColorRGB_02_Value": {
-					"type": "SColorRGB",
-					"value": "#81e3e3"
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd5c6396a038ea",
-					"postInit": true
-				}
-			}
-		},
-		"abcdda71379d734d": {
-			"parent": "abcd5c6396a038ea",
-			"name": "CollisionBox",
-			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -0.001281999982893467,
-							"y": -0.19872300326824188,
-							"z": 0.06890299916267395
-						}
-					}
-				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.0494400262832642,
-						"y": 2.2355899810791016,
-						"z": 1.1378099918365479
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd5c6396a038ea"
-				}
-			}
-		},
-		"abcdedd057624d32": {
-			"parent": "abcd5c6396a038ea",
-			"name": "Cushion_Modern_A_Tintable_SizeB_00",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizeb_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizeb_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 96.05590242212132
-						},
-						"position": {
-							"x": 0.10170949995517731,
-							"y": -0.8118283152580261,
-							"z": 0.5232089161872864
-						}
-					}
-				},
-				"ConstantColorRGB_02_Value": {
-					"type": "SColorRGB",
-					"value": "#81e3e3"
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd5c6396a038ea"
 				}
 			}
 		},
@@ -54454,1082 +54177,6 @@
 				}
 			}
 		},
-		"abcdf1fc76ffcc6d": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "palace_ext_doorframe_4x8_a_14",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x8_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x8_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0.09270645775938059,
-							"y": 0.25104002776667506,
-							"z": 10.236409631739987
-						},
-						"position": {
-							"x": 227.08934,
-							"y": -127.27547,
-							"z": -3.406752
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999998
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.5,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd122c4a525567": {
-			"parent": "abcdf1fc76ffcc6d",
-			"name": "Palace_Exterior_Column_A_00_13",
-			"factory": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -6.1424031257629395,
-							"y": -0.0034829999785870314,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.9000700116157532,
-						"y": 0.9000700116157532,
-						"z": 0.6674690246582031
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcdf1fc76ffcc6d",
-					"postInit": true
-				}
-			}
-		},
-		"abcd9801af878efc": {
-			"parent": "abcdf1fc76ffcc6d",
-			"name": "palace_ext_doorframe_4x8_a_08",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x8_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x8_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": -6,
-							"y": 1.564981033652657e-7,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.5,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcdf1fc76ffcc6d"
-				}
-			}
-		},
-		"abcdf9b9723aaa74": {
-			"parent": "abcdf1fc76ffcc6d",
-			"name": "Palace_Exterior_Column_A_00_12",
-			"factory": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 0.36945000290870667,
-							"y": 0.05567900091409683,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.9000700116157532,
-						"y": 0.9000700116157532,
-						"z": 0.6674690246582031
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcdf1fc76ffcc6d"
-				}
-			}
-		},
-		"abcd701135c60f87": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "palace_ext_doorframe_4x4_a_30",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 8.50777754526897
-						},
-						"position": {
-							"x": 231.13132,
-							"y": -127.898476,
-							"z": -4.017044
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1.3
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd1709494a0833": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_garden_railing_2m_b_65",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 5.252532005310059,
-							"y": 0.008889362215995789,
-							"z": 5.15
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87",
-					"postInit": true
-				}
-			}
-		},
-		"abcd6a31fc83ed64": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_garden_railing_2m_b_61",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": -1.7525889873504639,
-							"y": 0.008889892138540745,
-							"z": 5.15
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87",
-					"postInit": true
-				}
-			}
-		},
-		"abcdf40b3b9ab319": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_ext_doorframe_4x4_a_34",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 7.005119800567627,
-							"y": 0.00000797600114310626,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1.3
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87",
-					"postInit": true
-				}
-			}
-		},
-		"abcdf88fa795a575": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_garden_railing_2m_b_64",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 3.5012400150299072,
-							"y": 0.008538547903299332,
-							"z": 5.15
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87",
-					"postInit": true
-				}
-			}
-		},
-		"abcda01b30355588": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_ext_doorframe_4x4_a_32",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 3.502561092376709,
-							"y": 0.000008240242095780559,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1.3
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87",
-					"postInit": true
-				}
-			}
-		},
-		"abcd02035cb0200f": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_ext_doorframe_4x4_a_31",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": -3.5025579929351807,
-							"y": 0.0019161179661750793,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1.3
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87"
-				}
-			}
-		},
-		"abcd43e6f0d7ae4c": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_ext_doorframe_4x4_a_33",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": 0.0000013718960190090002,
-							"y": 0.0019158540526404977,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1.3
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87"
-				}
-			}
-		},
-		"abcd8f1b4bc2235a": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_ext_doorframe_4x4_a_35",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": 3.502561092376709,
-							"y": 0.0019155889749526978,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1.3
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87"
-				}
-			}
-		},
-		"abcdc40a5ca72f9d": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_garden_railing_2m_b_62",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": -0.001326725003309548,
-							"y": 0.008538816124200821,
-							"z": 5.15
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87"
-				}
-			}
-		},
-		"abcdce7deaefff30": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_garden_railing_2m_b_63",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 1.7499669790267944,
-							"y": 0.008889630436897278,
-							"z": 5.15
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87"
-				}
-			}
-		},
-		"abcd3fd467e6bf57": {
-			"parent": "abcd701135c60f87",
-			"name": "palace_garden_railing_2m_b_66",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 7.003799915313721,
-							"y": 0.008538283407688141,
-							"z": 5.15
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd701135c60f87"
-				}
-			}
-		},
-		"abcda446c53cb40a": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "palace_ext_doorframe_4x4_a_30",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 6.832050396561581
-						},
-						"position": {
-							"x": 213.69716,
-							"y": -125.38426,
-							"z": -2.9621875
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcdb4208df8a2c1": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_garden_railing_2m_b_65",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 5.252532005310059,
-							"y": 0.008889362215995789,
-							"z": 4
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a",
-					"postInit": true
-				}
-			}
-		},
-		"abcd2e98cb7b9507": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_garden_railing_2m_b_61",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": -1.7525889873504639,
-							"y": 0.008889892138540745,
-							"z": 4
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a",
-					"postInit": true
-				}
-			}
-		},
-		"abcde5a7b1eb8b4c": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_ext_doorframe_4x4_a_34",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 7.005119800567627,
-							"y": 0.00000797600114310626,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a",
-					"postInit": true
-				}
-			}
-		},
-		"abcda598d6e8f7a1": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_garden_railing_2m_b_64",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 3.5012400150299072,
-							"y": 0.008538547903299332,
-							"z": 4
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a",
-					"postInit": true
-				}
-			}
-		},
-		"abcdb155d263bea3": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_ext_doorframe_4x4_a_32",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 3.502561092376709,
-							"y": 0.000008240242095780559,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a",
-					"postInit": true
-				}
-			}
-		},
-		"abcd3799395a3552": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_ext_doorframe_4x4_a_31",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": -3.5025579929351807,
-							"y": 0.0019161179661750793,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a"
-				}
-			}
-		},
-		"abcd9e2640cdd772": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_ext_doorframe_4x4_a_33",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": 0.0000013718960190090002,
-							"y": 0.0019158540526404977,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a"
-				}
-			}
-		},
-		"abcdd2ae11b5f205": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_ext_doorframe_4x4_a_35",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace/palace_a.template?/palace_ext_doorframe_4x4_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": 3.502561092376709,
-							"y": 0.0019155889749526978,
-							"z": 0
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 1
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a"
-				}
-			}
-		},
-		"abcdaa97ec4f1f40": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_garden_railing_2m_b_62",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": -0.001326725003309548,
-							"y": 0.008538816124200821,
-							"z": 4
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a"
-				}
-			}
-		},
-		"abcd458d9db2b5bc": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_garden_railing_2m_b_63",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 1.7499669790267944,
-							"y": 0.008889630436897278,
-							"z": 4
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a"
-				}
-			}
-		},
-		"abcd73837d1bccff": {
-			"parent": "abcda446c53cb40a",
-			"name": "palace_garden_railing_2m_b_66",
-			"factory": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/kits/palace_garden/palace_garden_a.template?/palace_garden_railing_2m_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -3.84210979004207e-12
-						},
-						"position": {
-							"x": 7.003799915313721,
-							"y": 0.008538283407688141,
-							"z": 4
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.8756420016288757,
-						"y": 1,
-						"z": 0.5
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcda446c53cb40a"
-				}
-			}
-		},
-		"abcd3d0558381b59": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "Palace_Exterior_Column_A_00_14",
-			"factory": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 100.93081868611313
-						},
-						"position": {
-							"x": 238.35513,
-							"y": -128.97408,
-							"z": -6.411313
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.9000700116157532,
-						"y": 0.9000700116157532,
-						"z": 0.6674690246582031
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd917477ed7b7d": {
-			"parent": "abcd3e4b5b59b486",
-			"name": "Palace_Exterior_Column_A_00_15",
-			"factory": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/levels/paris/palace_exterior_a.template?/palace_exterior_column_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 98.38186721994525
-						},
-						"position": {
-							"x": 209.91011,
-							"y": -124.88056,
-							"z": -6.502123
-						},
-						"scale": {
-							"x": 1.0000000000000002,
-							"y": 1.0000000000000002,
-							"z": 1
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.9000700116157532,
-						"y": 0.9000700116157532,
-						"z": 0.6674690246582031
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
 		"abcd32bab5e86650": {
 			"parent": "abcd3e4b5b59b486",
 			"name": "wood boards",
@@ -55846,14 +54493,8 @@
 				}
 			}
 		},
-		"feed564a9fa4b0e9": {
-			"parent": "abcd5810e6df6c1e",
-			"name": "Beach Props",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
-		},
 		"feed78405bd0ee44": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Bag_Wicker_B_00",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/bag_wicker_b_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/bag_wicker_b_00.entitytemplate].pc_entityblueprint",
@@ -55864,81 +54505,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": -20.12985652409435
+							"z": -20.1298705253306
 						},
 						"position": {
-							"x": -77.9684829711914,
-							"y": 57.83293151855469,
-							"z": -13.524250030517578
-						},
-						"scale": {
-							"x": 0.999999933737584,
-							"y": 0.999999933737584,
-							"z": 1
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed50d58636d5e2": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Church_Bible_A_00_01",
-			"factory": "[assembly:/_pro/environment/templates/props/decorative/church_props_a.template?/church_bible_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/church_props_a.template?/church_bible_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -6.771498057762285,
-							"y": -8.522512457831409,
-							"z": -73.94502278092018
-						},
-						"position": {
-							"x": -78.87846374511719,
-							"y": 64.31770324707031,
-							"z": -13.609660148620605
-						},
-						"scale": {
-							"x": 1.0000007624341336,
-							"y": 0.9999996646413252,
-							"z": 0.9999999545402598
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed4347af75616a": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Bag_Ladies_Leather_Old_B01",
-			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/bag_ladies_leather_old_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/bag_ladies_leather_old_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -59.99998760187227
-						},
-						"position": {
-							"x": -73.96212768554688,
-							"y": 62.14575958251953,
-							"z": -13.380849838256836
-						},
-						"scale": {
-							"x": 0.9999992504099282,
-							"y": 0.9999992504099282,
-							"z": 1
+							"x": 64.50785827636719,
+							"y": -131.8798065185547,
+							"z": -6.041694164276123
 						}
 					}
 				},
@@ -55949,7 +54521,7 @@
 			}
 		},
 		"feed6786bdac8ce7": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_A03",
 			"factory": "00AE5E95FEF7AE50",
 			"blueprint": "00CD3CB2B3C68A1B",
@@ -55958,19 +54530,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -3.666368144209866,
-							"y": -0.2329653252266245,
-							"z": 103.86176130023736
+							"x": -3.666042928578163,
+							"y": -0.24621629758214153,
+							"z": 7.245645477960123
 						},
 						"position": {
-							"x": -83.71684265136719,
-							"y": 48.373050689697266,
-							"z": -13.456110000610352
-						},
-						"scale": {
-							"x": 0.9999995738380776,
-							"y": 1.0000007236471724,
-							"z": 0.9999998677367025
+							"x": 28.078060150146484,
+							"y": -136.85980224609375,
+							"z": -5.9797234535217285
 						}
 					}
 				},
@@ -55981,7 +54548,7 @@
 			}
 		},
 		"feed704b2b5fcefc": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cream_B_00_07",
 			"factory": "[assembly:/_pro/environment/templates/props/makeup/makeup_props_a.template?/cream_b_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/makeup/makeup_props_a.template?/cream_b_00.entitytemplate].pc_entityblueprint",
@@ -55990,19 +54557,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 4.454395493234699,
-							"y": 8.911972604561935,
-							"z": 12.72068972171319
+							"x": -4.616099489006727,
+							"y": 6.7761561770813685,
+							"z": 13.96163317257195
 						},
 						"position": {
-							"x": -74.72337341308594,
-							"y": 61.733131408691406,
-							"z": -13.4068603515625
-						},
-						"scale": {
-							"x": 0.9999997998290981,
-							"y": 0.9999991520320552,
-							"z": 1.0000011190344973
+							"x": 17.45391845703125,
+							"y": -132.69915771484375,
+							"z": -5.576860427856445
 						}
 					}
 				},
@@ -56017,52 +54579,8 @@
 				]
 			}
 		},
-		"feedf6a8dd4d9899": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "CollisionBox",
-			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -80.59697299402677
-						},
-						"position": {
-							"x": -78.62521362304688,
-							"y": 56.35414123535156,
-							"z": -12.160050392150879
-						},
-						"scale": {
-							"x": 0.9999989770248341,
-							"y": 0.9999989770248341,
-							"z": 1
-						}
-					}
-				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 2.719899892807007,
-						"y": 2.489579916000366,
-						"z": 3.038290023803711
-					}
-				},
-				"m_bCollideHitman": {
-					"type": "bool",
-					"value": true
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
 		"feed79a783c1245b": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Parasol_Basic_A_NoBase",
 			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entityblueprint",
@@ -56071,19 +54589,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -2.6444549601804885,
-							"y": 2.234469470309975,
-							"z": 149.76053444759128
+							"x": -10.368561345447134,
+							"y": 6.675819973681049,
+							"z": 150.36159994867006
 						},
 						"position": {
-							"x": -78.05313110351563,
-							"y": 64.25367736816406,
-							"z": -14.064339637756348
-						},
-						"scale": {
-							"x": 0.9999996999464646,
-							"y": 0.9999995341387158,
-							"z": 1.0000009131658532
+							"x": 64.70647430419922,
+							"y": -131.18739318847656,
+							"z": -6.697766304016113
 						}
 					}
 				},
@@ -56098,7 +54611,7 @@
 			}
 		},
 		"feed0a974b3529d5": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Bag_Wicker_E_00",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/bag_wicker_e_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/bag_wicker_e_00.entitytemplate].pc_entityblueprint",
@@ -56107,19 +54620,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 3.686219390118757,
-							"y": 3.152457130224636,
-							"z": -49.52900149658609
+							"x": 3.686521884350789,
+							"y": 3.152105045300267,
+							"z": -49.529009232178545
 						},
 						"position": {
-							"x": -78.26930236816406,
-							"y": 65.15693664550781,
-							"z": -13.86355972290039
-						},
-						"scale": {
-							"x": 1.000000248992601,
-							"y": 0.9999994922925647,
-							"z": 0.9999999964015077
+							"x": 26.542049407958984,
+							"y": -129.28749084472656,
+							"z": -5.543159008026123
 						}
 					}
 				},
@@ -56130,7 +54638,7 @@
 			}
 		},
 		"feed182c219ccb01": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "SunTanningChair_A01",
 			"factory": "00A536E8503CF831",
 			"blueprint": "008B4D10587511C5",
@@ -56139,19 +54647,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0.389500069442288,
-							"y": 0.08686039522052012,
-							"z": 92.95462575006704
+							"x": -2.51817365715641,
+							"y": 0.0181587485672615,
+							"z": 1.7203502531902053
 						},
 						"position": {
-							"x": -78.65019226074219,
-							"y": 57.14659881591797,
-							"z": -13.608050346374512
-						},
-						"scale": {
-							"x": 0.9999997283309638,
-							"y": 1.0000008573099886,
-							"z": 1.0000004702943783
+							"x": 56.546913146972656,
+							"y": -132.1876983642578,
+							"z": -5.951776504516602
 						}
 					}
 				},
@@ -56162,7 +54665,7 @@
 			}
 		},
 		"feed7114f709cd45": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Hair_Brush_A_00_01",
 			"factory": "[assembly:/_pro/environment/templates/props/makeup/makeup_props_a.template?/hair_brush_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/makeup/makeup_props_a.template?/hair_brush_a_00.entitytemplate].pc_entityblueprint",
@@ -56171,19 +54674,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -4.872594557255223,
-							"y": 6.672498555848881,
-							"z": 70.4889137204076
+							"x": -9.466608518069128,
+							"y": -6.328298958112413,
+							"z": 70.50277768375193
 						},
 						"position": {
-							"x": -74.79885864257813,
-							"y": 59.31064987182617,
-							"z": -13.365389823913574
-						},
-						"scale": {
-							"x": 0.9999997307793205,
-							"y": 0.9999992588962905,
-							"z": 0.9999999257884246
+							"x": 19.65332794189453,
+							"y": -132.22747802734375,
+							"z": -5.572124004364014
 						}
 					}
 				},
@@ -56194,7 +54692,7 @@
 			}
 		},
 		"feedd46243d6b36c": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Towel_D01",
 			"factory": "007F3A05920D65E6",
 			"blueprint": "000D5AFD4ACFEC8D",
@@ -56203,19 +54701,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0.5131411691535063,
-							"y": -1.4538072020094528,
-							"z": -80.93762290145229
+							"x": 3.9543054227141865,
+							"y": 0.2914751510857049,
+							"z": -175.7749924507201
 						},
 						"position": {
-							"x": -78.55220794677734,
-							"y": 65.9897232055664,
-							"z": -13.889349937438965
-						},
-						"scale": {
-							"x": 1.0000007890264515,
-							"y": 1.0000009099874352,
-							"z": 1.000000016879522
+							"x": 10.82061767578125,
+							"y": -131.3046417236328,
+							"z": -5.335317134857178
 						}
 					}
 				},
@@ -56226,7 +54719,7 @@
 			}
 		},
 		"feed0b23c2dc57bb": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Sunglass_A39",
 			"factory": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_b.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_b.entitytemplate].pc_entityblueprint",
@@ -56235,19 +54728,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -4.232758589340999,
-							"y": 2.2595293294032044,
-							"z": 62.02153609412188
+							"x": -4.232965903682809,
+							"y": 2.2593422761707247,
+							"z": 62.02153116738433
 						},
 						"position": {
-							"x": -74.38522338867188,
-							"y": 59.626380920410156,
-							"z": -13.277620315551758
-						},
-						"scale": {
-							"x": 1.0000000807754015,
-							"y": 0.9999994242395609,
-							"z": 0.9999998417934801
+							"x": 25.913881301879883,
+							"y": -129.1690216064453,
+							"z": -5.343225002288818
 						}
 					}
 				},
@@ -56258,7 +54746,7 @@
 			}
 		},
 		"feed32628f63e3bc": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Towel_C",
 			"factory": "0052643D83E92ACE",
 			"blueprint": "00B43D0B896367AE",
@@ -56267,19 +54755,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 5.831600794188557,
-							"y": -3.2952349295435672,
-							"z": -91.50248640311554
+							"x": 5.070896380766943,
+							"y": 0.6685102213730891,
+							"z": -169.14923641360411
 						},
 						"position": {
-							"x": -80.59867095947266,
-							"y": 59.40755081176758,
-							"z": -13.897700309753418
-						},
-						"scale": {
-							"x": 1.000000581030348,
-							"y": 0.9999993277193491,
-							"z": 0.9999999972247373
+							"x": 25.555755615234375,
+							"y": -129.8129425048828,
+							"z": -5.425422191619873
 						}
 					}
 				},
@@ -56290,7 +54773,7 @@
 			}
 		},
 		"feed1ede3d5783bd": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Container_Plastic_Closed_A_ColorMask_00_01",
 			"factory": "[assembly:/_pro/environment/templates/props/containers/containers_b.template?/container_plastic_closed_a_colormask_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/containers/containers_b.template?/container_plastic_closed_a_colormask_00.entitytemplate].pc_entityblueprint",
@@ -56299,19 +54782,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 4.19968024710346,
-							"y": 6.7899608832315295,
-							"z": 35.06963450873067
+							"x": 4.199508067390341,
+							"y": 6.790004830427894,
+							"z": 35.069638351544576
 						},
 						"position": {
-							"x": -74.40354919433594,
-							"y": 63.84767150878906,
-							"z": -13.541099548339844
-						},
-						"scale": {
-							"x": 0.9999998583173232,
-							"y": 1.0000003111531628,
-							"z": 1.000000141563201
+							"x": 18.2080135345459,
+							"y": -131.8792724609375,
+							"z": -5.621295928955078
 						}
 					}
 				},
@@ -56330,7 +54808,7 @@
 			}
 		},
 		"feed74aeaa8ab82b": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_A",
 			"factory": "00AE5E95FEF7AE50",
 			"blueprint": "00CD3CB2B3C68A1B",
@@ -56339,19 +54817,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0.0009170726848074921,
-							"y": 1.5613304582146184,
-							"z": 81.51243293365224
+							"x": 0.029606326722828678,
+							"y": 1.5599406886800455,
+							"z": -2.1744534737925947
 						},
 						"position": {
-							"x": -78.7580795288086,
-							"y": 64.44983673095703,
-							"z": -13.96735954284668
-						},
-						"scale": {
-							"x": 1.000000304384367,
-							"y": 1.0000005817963664,
-							"z": 1.0000005782989492
+							"x": 14.865242958068848,
+							"y": -134.08399963378906,
+							"z": -5.687921524047852
 						}
 					}
 				},
@@ -56362,7 +54835,7 @@
 			}
 		},
 		"feed2a3a76de2f0e": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Bottle_Water_C_00",
 			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_c_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_c_00.entitytemplate].pc_entityblueprint",
@@ -56371,19 +54844,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 2.917991178263133,
-							"y": -2.423361038480082,
-							"z": 7.0745202868909915
+							"x": 2.9182466231819366,
+							"y": -2.423713395769856,
+							"z": 7.074613978646198
 						},
 						"position": {
-							"x": -78.9062728881836,
-							"y": 57.775081634521484,
-							"z": -13.746479988098145
-						},
-						"scale": {
-							"x": 0.9999995563028116,
-							"y": 0.9999996168071967,
-							"z": 0.9999995017480252
+							"x": 58.97713851928711,
+							"y": -131.94924926757812,
+							"z": -6.045751571655273
 						}
 					}
 				},
@@ -56394,7 +54862,7 @@
 			}
 		},
 		"feedadd5f268f72b": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Model_Shoes_A_00",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_a.template?/model_shoes_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_a.template?/model_shoes_a_00.entitytemplate].pc_entityblueprint",
@@ -56403,56 +54871,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 1.7732819109488436,
-							"y": -4.9553297656852,
-							"z": -165.72781372992327
+							"x": 1.7645571983951698,
+							"y": -4.958751447586161,
+							"z": 5.145251812923032
 						},
 						"position": {
-							"x": -82.69863891601563,
-							"y": 56.11832046508789,
-							"z": -13.792699813842773
-						},
-						"scale": {
-							"x": 0.9999995816955634,
-							"y": 0.9999992509458532,
-							"z": 0.9999995208013952
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			},
-			"subsets": {
-				"AudioEmitters": [
-					"fffffffffffffffe"
-				]
-			}
-		},
-		"feed9cf1080cfe47": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Woman_Staff_Shoes_A_00",
-			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_a.template?/woman_staff_shoes_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_a.template?/woman_staff_shoes_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -3.393575194480887,
-							"y": 5.261646426793246,
-							"z": 54.40912947438107
-						},
-						"position": {
-							"x": -76.29103088378906,
-							"y": 63.18302917480469,
-							"z": -13.51587963104248
-						},
-						"scale": {
-							"x": 0.999999695410462,
-							"y": 0.9999998167701301,
-							"z": 0.9999996834774354
+							"x": 19.03969955444336,
+							"y": -133.2501220703125,
+							"z": -5.647222518920898
 						}
 					}
 				},
@@ -56468,7 +54894,7 @@
 			}
 		},
 		"feedc44b1e7c63cb": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Bottle_Water_C_00_01",
 			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_c_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_c_00.entitytemplate].pc_entityblueprint",
@@ -56477,65 +54903,16 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -13.073072706868729,
-							"y": 28.79523726467538,
-							"z": 34.9962730541823
+							"x": -95.11009830531907,
+							"y": 59.39176077035325,
+							"z": -169.9769759754124
 						},
 						"position": {
-							"x": -74.2738037109375,
-							"y": 60.3430290222168,
-							"z": -13.453940391540527
-						},
-						"scale": {
-							"x": 1.0000002677325526,
-							"y": 0.9999998845136864,
-							"z": 1.00000033254924
+							"x": 10.435368537902832,
+							"y": -130.8006134033203,
+							"z": -5.2051920890808105
 						}
 					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed78ec4feb2009": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "CollisionBox01",
-			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0.3189823311292905,
-							"y": -1.1665572599417473,
-							"z": 12.471003614785918
-						},
-						"position": {
-							"x": -78.25556945800781,
-							"y": 57.38113021850586,
-							"z": -12.821049690246582
-						},
-						"scale": {
-							"x": 0.9999994680754457,
-							"y": 1.0000009983746556,
-							"z": 0.9999995520725304
-						}
-					}
-				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.0036499500274658,
-						"y": 1.4464099407196045,
-						"z": 1.9885499477386475
-					}
-				},
-				"m_bCollideHitman": {
-					"type": "bool",
-					"value": true
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
@@ -56544,7 +54921,7 @@
 			}
 		},
 		"feed091801d198cf": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Ball_A",
 			"factory": "00823704931CC4B6",
 			"blueprint": "007E6A4A98ABD1AD",
@@ -56553,19 +54930,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -73.78730183137637,
-							"y": 35.00445457592749,
-							"z": 38.597935111529424
+							"x": -73.78730599806991,
+							"y": 35.00445591024089,
+							"z": 38.59788031082118
 						},
 						"position": {
-							"x": -78.54464721679688,
-							"y": 57.953548431396484,
-							"z": -13.358839988708496
-						},
-						"scale": {
-							"x": 1.0000007459581655,
-							"y": 0.999999481569759,
-							"z": 0.9999997692875626
+							"x": 66.76176452636719,
+							"y": -130.88958740234375,
+							"z": -5.6818718910217285
 						}
 					}
 				},
@@ -56593,7 +54965,7 @@
 			}
 		},
 		"feeda2f6bfd7e789": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Parasol_Basic_A02",
 			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a.entitytemplate].pc_entityblueprint",
@@ -56602,19 +54974,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 3.168696960245279,
-							"y": -2.3638323350261623,
-							"z": 160.346931067535
+							"x": 3.168047045736274,
+							"y": -2.363213652260834,
+							"z": 160.3468672814817
 						},
 						"position": {
-							"x": -76.24896240234375,
-							"y": 55.41941833496094,
-							"z": -13.362500190734863
-						},
-						"scale": {
-							"x": 1.000000195231768,
-							"y": 1.0000007311645334,
-							"z": 1.0000010734367415
+							"x": 57.418880462646484,
+							"y": -131.68496704101562,
+							"z": -6.497744083404541
 						}
 					}
 				},
@@ -56629,7 +54996,7 @@
 			}
 		},
 		"feed5b9d8a134bf2": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Bag_Ladies_Leather_Old_A01",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/bag_ladies_leather_old_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/bag_ladies_leather_old_a.entitytemplate].pc_entityblueprint",
@@ -56638,19 +55005,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 6.1289076293124,
-							"y": -4.9366966247480875,
-							"z": -110.0628816323939
+							"x": 6.128799598581468,
+							"y": -4.9365740005072025,
+							"z": -110.06290478113688
 						},
 						"position": {
-							"x": -73.21308898925781,
-							"y": 55.27423095703125,
-							"z": -12.645859718322754
-						},
-						"scale": {
-							"x": 1.0000010606920506,
-							"y": 0.9999999550790467,
-							"z": 1.0000004167724077
+							"x": 19.605180740356445,
+							"y": -131.8776092529297,
+							"z": -5.5389604568481445
 						}
 					}
 				},
@@ -56661,7 +55023,7 @@
 			}
 		},
 		"feedc1d7deb7a1ab": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_B03",
 			"factory": "00C6441BC6DBE718",
 			"blueprint": "00043A2BF4928EB3",
@@ -56670,19 +55032,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 38.697585827961596,
-							"y": -0.00017188722639142957,
-							"z": 92.32707779802627
+							"x": 38.69753517220557,
+							"y": -0.00017587736496365084,
+							"z": 92.32707046539066
 						},
 						"position": {
-							"x": -83.85942077636719,
-							"y": 46.99007034301758,
-							"z": -13.470640182495117
-						},
-						"scale": {
-							"x": 0.9999995674710993,
-							"y": 0.999999384807216,
-							"z": 1.0000006878223582
+							"x": 47.33869934082031,
+							"y": -123.01465606689453,
+							"z": -5.439144134521484
 						}
 					}
 				},
@@ -56693,7 +55050,7 @@
 			}
 		},
 		"feedfdce17b3f2cb": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Towel_A",
 			"factory": "00B8D9DE4D5F0F82",
 			"blueprint": "000F87982AA15C5D",
@@ -56702,19 +55059,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0.9654795962338408,
-							"y": -0.002005352362268992,
-							"z": -47.157920822416
+							"x": -3.5069912446666454,
+							"y": 1.5500925182292624,
+							"z": 2.9978656603427885
 						},
 						"position": {
-							"x": -80.42478942871094,
-							"y": 54.98392868041992,
-							"z": -13.60746955871582
-						},
-						"scale": {
-							"x": 1.0000000218606822,
-							"y": 1.0000004915115355,
-							"z": 0.9999999873634535
+							"x": 65.79737854003906,
+							"y": -131.72586059570312,
+							"z": -6.007084369659424
 						}
 					}
 				},
@@ -56725,7 +55077,7 @@
 			}
 		},
 		"feed31be94b087cb": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Towel_C01",
 			"factory": "0052643D83E92ACE",
 			"blueprint": "00B43D0B896367AE",
@@ -56734,19 +55086,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -87.25190032772414
+							"x": -2.737109635195708,
+							"y": 1.1137159343525471,
+							"z": 2.9716934894270763
 						},
 						"position": {
-							"x": -78.47305297851563,
-							"y": 67.7361068725586,
-							"z": -13.896260261535645
-						},
-						"scale": {
-							"x": 1.000000021542221,
-							"y": 1.000000021542221,
-							"z": 1
+							"x": 9.501882553100586,
+							"y": -131.24520874023438,
+							"z": -5.354582786560059
 						}
 					}
 				},
@@ -56757,7 +55104,7 @@
 			}
 		},
 		"feed78f0b509efa5": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_A01",
 			"factory": "00AE5E95FEF7AE50",
 			"blueprint": "00CD3CB2B3C68A1B",
@@ -56766,19 +55113,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -6.465440921511058,
-							"y": -0.23285057522115385,
-							"z": 99.1083043735054
+							"x": -6.46500302567608,
+							"y": -0.23532127570745157,
+							"z": 1.839046366643355
 						},
 						"position": {
-							"x": -73.82015991210938,
-							"y": 54.33292007446289,
-							"z": -12.763190269470215
-						},
-						"scale": {
-							"x": 1.000000991071598,
-							"y": 1.000000495899834,
-							"z": 1.0000005403185097
+							"x": 13.601349830627441,
+							"y": -134.32391357421875,
+							"z": -5.648908615112305
 						}
 					}
 				},
@@ -56789,7 +55131,7 @@
 			}
 		},
 		"feed30d3271d2abe": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Parasol_Decorated_Fancy_A01",
 			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
@@ -56799,18 +55141,13 @@
 					"value": {
 						"rotation": {
 							"x": 0,
-							"y": 2.8486608353703744,
+							"y": 2.8493627948425786,
 							"z": 0
 						},
 						"position": {
-							"x": -83.37846374511719,
-							"y": 56.31462097167969,
-							"z": -14.378959655761719
-						},
-						"scale": {
-							"x": 0.999999375807552,
-							"y": 1,
-							"z": 0.999999375807552
+							"x": 49.82438659667969,
+							"y": -131.50534057617188,
+							"z": -6.0123419761657715
 						}
 					}
 				},
@@ -56821,7 +55158,7 @@
 			}
 		},
 		"feededd06ea04b0f": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Museum_Book_C_00",
 			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_i_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_i_00.entitytemplate].pc_entityblueprint",
@@ -56830,19 +55167,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -22.21648792278303,
-							"y": -17.915273181089937,
-							"z": 129.47850046459052
+							"x": -2.6896494470365737,
+							"y": -0.87890217631453,
+							"z": 132.73297067553895
 						},
 						"position": {
-							"x": -78.11981964111328,
-							"y": 57.121299743652344,
-							"z": -13.321499824523926
-						},
-						"scale": {
-							"x": 1.0000005585643565,
-							"y": 0.9999992369402777,
-							"z": 1.000001752145515
+							"x": 50.28789520263672,
+							"y": -132.73886108398438,
+							"z": -5.622286319732666
 						}
 					}
 				},
@@ -56853,7 +55185,7 @@
 			}
 		},
 		"feed455a11ee115d": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Hat_Old_Lady_A",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/hat_old_lady_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/hat_old_lady_a.entitytemplate].pc_entityblueprint",
@@ -56862,51 +55194,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 15.961529506125606,
-							"y": 6.4503982992311695,
-							"z": -57.77914268853453
+							"x": 11.18272299684974,
+							"y": 16.17057545879912,
+							"z": 65.45316150198269
 						},
 						"position": {
-							"x": -74.5863265991211,
-							"y": 59.307498931884766,
-							"z": -13.344269752502441
-						},
-						"scale": {
-							"x": 0.9999999046037766,
-							"y": 0.9999991814497422,
-							"z": 0.9999997774281495
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed7b00d8080d22": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Museum_Book_C_03",
-			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_j_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_j_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 7.85745679911136,
-							"y": 0.02108485468075429,
-							"z": -38.59759060790893
-						},
-						"position": {
-							"x": -73.89031982421875,
-							"y": 62.78281021118164,
-							"z": -13.389169692993164
-						},
-						"scale": {
-							"x": 1.00000018363547,
-							"y": 0.999998614119936,
-							"z": 0.9999996738809578
+							"x": 11.213088035583496,
+							"y": -130.59693908691406,
+							"z": -5.206457614898682
 						}
 					}
 				},
@@ -56917,7 +55212,7 @@
 			}
 		},
 		"feedf512272c69ba": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "SunTanningChair_B01",
 			"factory": "00B5FD5F59F7FD11",
 			"blueprint": "006A219646430811",
@@ -56926,19 +55221,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0.3952295065917283,
-							"y": 0.0268717274918187,
-							"z": 101.86392905476811
+							"x": -0.3943383574170664,
+							"y": 0.032160611071390004,
+							"z": 4.744927093063418
 						},
 						"position": {
-							"x": -78.86105346679688,
-							"y": 55.499080657958984,
-							"z": -13.587309837341309
-						},
-						"scale": {
-							"x": 0.9999999745827245,
-							"y": 1.0000009631968576,
-							"z": 0.9999997615969858
+							"x": 50.323150634765625,
+							"y": -132.70172119140625,
+							"z": -5.852284908294678
 						}
 					}
 				},
@@ -56949,7 +55239,7 @@
 			}
 		},
 		"feed6ce62e49a7c8": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "SunTanningChair_A",
 			"factory": "00A536E8503CF831",
 			"blueprint": "008B4D10587511C5",
@@ -56958,19 +55248,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -0.28149780154407117,
-							"y": -0.2394398412256105,
-							"z": 144.58528017078393
+							"x": -0.2977469868477535,
+							"y": -0.23193939689174659,
+							"z": 8.115053113457838
 						},
 						"position": {
-							"x": -82.26277923583984,
-							"y": 55.010379791259766,
-							"z": -13.749659538269043
-						},
-						"scale": {
-							"x": 1.000000436227855,
-							"y": 0.9999993708468861,
-							"z": 0.9999996403788873
+							"x": 58.231082916259766,
+							"y": -132.08033752441406,
+							"z": -5.987113952636719
 						}
 					}
 				},
@@ -56981,7 +55266,7 @@
 			}
 		},
 		"feed5a373e8a6a9a": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_B04",
 			"factory": "00C6441BC6DBE718",
 			"blueprint": "00043A2BF4928EB3",
@@ -56990,19 +55275,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -84.25420005735683,
-							"y": 2.3903861636408,
-							"z": -81.01500253919099
+							"x": 6.265680333394521,
+							"y": 3.946655079822248,
+							"z": 0.6827794855211485
 						},
 						"position": {
-							"x": -79.97789001464844,
-							"y": 65.18187713623047,
-							"z": -13.968379974365234
-						},
-						"scale": {
-							"x": 1.000000712706099,
-							"y": 1.0000005604946236,
-							"z": 0.9999998268668278
+							"x": 58.03995895385742,
+							"y": -124.49967193603516,
+							"z": -5.681524276733398
 						}
 					}
 				},
@@ -57013,7 +55293,7 @@
 			}
 		},
 		"feedf3d3ae66d24c": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Church_Bible_A_00",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/church_props_a.template?/church_bible_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/church_props_a.template?/church_bible_a_00.entitytemplate].pc_entityblueprint",
@@ -57022,19 +55302,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 4.563360785248817,
-							"y": -4.400055513490792,
-							"z": -106.1851256673179
+							"x": 2.4746393218588683,
+							"y": 3.2602917104794686,
+							"z": -105.9607507529543
 						},
 						"position": {
-							"x": -74.311767578125,
-							"y": 59.62208938598633,
-							"z": -13.330240249633789
-						},
-						"scale": {
-							"x": 0.9999992724910771,
-							"y": 1.0000005957574705,
-							"z": 1.00000006711349
+							"x": 58.46242904663086,
+							"y": -132.2001190185547,
+							"z": -5.728627681732178
 						}
 					}
 				},
@@ -57045,7 +55320,7 @@
 			}
 		},
 		"feed1ce185852708": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Sunglass_A37",
 			"factory": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a_closed.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a_closed.entitytemplate].pc_entityblueprint",
@@ -57054,19 +55329,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 49.0702360446879,
-							"y": -1.0458815739860767,
-							"z": 79.76699735865401
+							"x": 49.07025308015198,
+							"y": -1.0462160234218412,
+							"z": -49.977102169436705
 						},
 						"position": {
-							"x": -78.6098403930664,
-							"y": 65.71897888183594,
-							"z": -13.866129875183105
-						},
-						"scale": {
-							"x": 1.0000006896225422,
-							"y": 0.9999992543159504,
-							"z": 0.9999998210209781
+							"x": 65.48684692382812,
+							"y": -130.9976348876953,
+							"z": -5.940370082855225
 						}
 					}
 				},
@@ -57077,7 +55347,7 @@
 			}
 		},
 		"feeda822391b5731": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Hair_Spray_C_00_06",
 			"factory": "[assembly:/_pro/environment/templates/props/makeup/makeup_props_a.template?/hair_spray_c_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/makeup/makeup_props_a.template?/hair_spray_c_00.entitytemplate].pc_entityblueprint",
@@ -57086,19 +55356,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -85.54031600769542,
-							"y": 28.928980705891913,
-							"z": -2.765376548060476
+							"x": -98.4025812227612,
+							"y": 28.859368213724967,
+							"z": 3.469599946247816
 						},
 						"position": {
-							"x": -81.49270629882813,
-							"y": 55.15494918823242,
-							"z": -13.585490226745605
-						},
-						"scale": {
-							"x": 1.0000009547097228,
-							"y": 1.000000044342435,
-							"z": 0.9999997360643138
+							"x": 11.087478637695312,
+							"y": -130.95872497558594,
+							"z": -5.237790107727051
 						}
 					}
 				},
@@ -57114,7 +55379,7 @@
 			}
 		},
 		"feed46e5514d44ee": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Shoes_Lady_Old_A_Right",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/shoes_lady_old_a_right.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/shoes_lady_old_a_right.entitytemplate].pc_entityblueprint",
@@ -57123,19 +55388,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 97.80347049505858,
-							"y": 87.08096955929867,
-							"z": -36.79025005542956
+							"x": 97.80325140549316,
+							"y": 87.08096522270853,
+							"z": -36.79010832064331
 						},
 						"position": {
-							"x": -76.3784408569336,
-							"y": 61.45296096801758,
-							"z": -13.42389965057373
-						},
-						"scale": {
-							"x": 1.0000000820968882,
-							"y": 0.9999999601512517,
-							"z": 0.9999994910287836
+							"x": 10.56766414642334,
+							"y": -132.157958984375,
+							"z": -5.33456563949585
 						}
 					}
 				},
@@ -57146,7 +55406,7 @@
 			}
 		},
 		"feed6c2ef6faa80d": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Bag_Ladies_Leather_Old_A",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/bag_ladies_leather_old_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/bag_ladies_leather_old_a.entitytemplate].pc_entityblueprint",
@@ -57155,51 +55415,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 7.8636469952258174,
-							"y": -0.00011459166822587233,
-							"z": -71.35382112489984
+							"x": 7.864044850388608,
+							"y": 0.000032016511735946884,
+							"z": -71.35382515422334
 						},
 						"position": {
-							"x": -78.60941314697266,
-							"y": 60.44329071044922,
-							"z": -13.665160179138184
-						},
-						"scale": {
-							"x": 0.9999996443919708,
-							"y": 0.9999998558086647,
-							"z": 0.9999990445295991
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed50a667d58268": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Sunglass_A40",
-			"factory": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a_closed.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a_closed.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 7.863176944126702,
-							"y": 0.0013750975599412455,
-							"z": -38.75238267398149
-						},
-						"position": {
-							"x": -73.89777374267578,
-							"y": 62.75846862792969,
-							"z": -13.36376953125
-						},
-						"scale": {
-							"x": 0.999999438382773,
-							"y": 1.0000001805163843,
-							"z": 1.000000870587798
+							"x": 58.95849609375,
+							"y": -132.2653350830078,
+							"z": -6.008028030395508
 						}
 					}
 				},
@@ -57210,7 +55433,7 @@
 			}
 		},
 		"feed04378ebda555": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Towel_B",
 			"factory": "00B27C4C03974075",
 			"blueprint": "00855C3AA4C41ECD",
@@ -57219,51 +55442,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 9.985686651823647,
-							"y": -8.717343700970975,
-							"z": -101.04394840436518
+							"x": 4.912190159723725,
+							"y": -3.039937089026524,
+							"z": 168.97795214587475
 						},
 						"position": {
-							"x": -74.04163360595703,
-							"y": 55.848838806152344,
-							"z": -12.833029747009277
-						},
-						"scale": {
-							"x": 1.0000003905516373,
-							"y": 1.0000008077132114,
-							"z": 0.9999997267091045
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed6902e81e3936": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Bottle_Water_C_00_02",
-			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_c_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_c_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0.7870398902346838,
-							"y": 77.31191808292037,
-							"z": 174.98560269062966
-						},
-						"position": {
-							"x": -78.54530334472656,
-							"y": 60.20970916748047,
-							"z": -13.63599967956543
-						},
-						"scale": {
-							"x": 1.0000003678275875,
-							"y": 0.9999998630475178,
-							"z": 1.0000007557671005
+							"x": 17.74357032775879,
+							"y": -133.04730224609375,
+							"z": -5.605923175811768
 						}
 					}
 				},
@@ -57274,7 +55460,7 @@
 			}
 		},
 		"feedc1af31ac26a0": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Shoes_Lady_Old_A_Left",
 			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/shoes_lady_old_a_left.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_b.template?/shoes_lady_old_a_left.entitytemplate].pc_entityblueprint",
@@ -57285,17 +55471,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 138.09026492772057
+							"z": 175.54156681044378
 						},
 						"position": {
-							"x": -76.63864135742188,
-							"y": 61.286800384521484,
-							"z": -13.51609992980957
-						},
-						"scale": {
-							"x": 0.9999998913986907,
-							"y": 0.9999998913986907,
-							"z": 1
+							"x": 10.25560188293457,
+							"y": -132.1555938720703,
+							"z": -5.385181427001953
 						}
 					}
 				},
@@ -57306,7 +55487,7 @@
 			}
 		},
 		"feed10c745f385a8": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_B02",
 			"factory": "00C6441BC6DBE718",
 			"blueprint": "00043A2BF4928EB3",
@@ -57315,19 +55496,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 20.232111961041642,
-							"y": -0.00011459164409603686,
-							"z": 92.3270748082306
+							"x": 20.232227996130167,
+							"y": -0.00012550472780035153,
+							"z": 92.32707371040627
 						},
 						"position": {
-							"x": -83.33429718017578,
-							"y": 46.97343063354492,
-							"z": -13.405730247497559
-						},
-						"scale": {
-							"x": 1.0000008652274026,
-							"y": 0.9999993963629699,
-							"z": 0.9999992551017801
+							"x": 47.80032730102539,
+							"y": -123.31140899658203,
+							"z": -5.438831329345703
 						}
 					}
 				},
@@ -57338,7 +55514,7 @@
 			}
 		},
 		"feed412c7fbf4c22": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_B",
 			"factory": "00C6441BC6DBE718",
 			"blueprint": "00043A2BF4928EB3",
@@ -57347,51 +55523,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 14.659725979148094,
-							"y": -0.000057295762157555654,
-							"z": 92.32707741836327
+							"x": 14.65970701991816,
+							"y": -0.00028857549126061434,
+							"z": -89.18059185582872
 						},
 						"position": {
-							"x": -83.12642669677734,
-							"y": 47.56264877319336,
-							"z": -13.359809875488281
-						},
-						"scale": {
-							"x": 0.9999997432022836,
-							"y": 0.9999993972087673,
-							"z": 1.000000300386584
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed8ccb17f479cb": {
-			"parent": "feed564a9fa4b0e9",
-			"name": "Museum_Book_C_02",
-			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_d_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_d_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -6.304908309584875,
-							"y": -0.6673964711518234,
-							"z": 123.72845132294061
-						},
-						"position": {
-							"x": -74.37776184082031,
-							"y": 59.62464904785156,
-							"z": -13.300149917602539
-						},
-						"scale": {
-							"x": 1.0000004190480531,
-							"y": 0.9999999778337083,
-							"z": 0.9999998101464842
+							"x": 59.76762390136719,
+							"y": -123.31407165527344,
+							"z": -5.4422807693481445
 						}
 					}
 				},
@@ -57402,7 +55541,7 @@
 			}
 		},
 		"feed0aa440b1fd90": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedf512272c69ba",
 			"name": "Cloth_beach_chair_A02",
 			"factory": "00AE5E95FEF7AE50",
 			"blueprint": "00CD3CB2B3C68A1B",
@@ -57411,19 +55550,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -5.134051933697512,
-							"y": 1.5617901400721317,
-							"z": 126.23381176319526
+							"x": -5.134077878961611,
+							"y": 1.5618655944021178,
+							"z": 7.136335924646922
 						},
 						"position": {
-							"x": -74.03263092041016,
-							"y": 61.481239318847656,
-							"z": -13.395609855651855
-						},
-						"scale": {
-							"x": 0.9999995625724295,
-							"y": 0.9999999699682185,
-							"z": 0.9999998472001508
+							"x": 27.056734085083008,
+							"y": -137.09523010253906,
+							"z": -5.935784339904785
 						}
 					}
 				},
@@ -57434,7 +55568,7 @@
 			}
 		},
 		"feed321144b9d876": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Inflatable_Crocodile_A001_03",
 			"factory": "00E0A9162E561BF7",
 			"blueprint": "0032053FAAF77AD7",
@@ -57443,19 +55577,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 7.767765805914741,
-							"y": -4.677210425441957,
-							"z": -76.56047882907619
+							"x": 0.5129848215404965,
+							"y": -6.358220244654168,
+							"z": -77.25909020331729
 						},
 						"position": {
-							"x": -78.8167495727539,
-							"y": 56.28702163696289,
-							"z": -13.637120246887207
-						},
-						"scale": {
-							"x": 1.000000790226203,
-							"y": 1.000000299702057,
-							"z": 0.9999989408780388
+							"x": 23.405628204345703,
+							"y": -135.2394561767578,
+							"z": -5.884522438049316
 						}
 					}
 				},
@@ -57486,7 +55615,7 @@
 			}
 		},
 		"feedaedd89ca911f": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Museum_Book_C_01",
 			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_c_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_c_00.entitytemplate].pc_entityblueprint",
@@ -57495,19 +55624,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 2.2932689717906287,
-							"y": -13.075157941925308,
-							"z": -151.02321347212822
+							"x": 7.533562101168069,
+							"y": 1.007226120559422,
+							"z": -152.3136580694177
 						},
 						"position": {
-							"x": -73.24796295166016,
-							"y": 55.80796813964844,
-							"z": -12.649330139160156
-						},
-						"scale": {
-							"x": 1.0000007569376033,
-							"y": 0.9999997497575077,
-							"z": 1.0000000145122439
+							"x": 65.54749298095703,
+							"y": -131.60507202148438,
+							"z": -5.972703456878662
 						}
 					}
 				},
@@ -57518,7 +55642,7 @@
 			}
 		},
 		"feed8e0fbfb44d3f": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Beach_Towel_B01",
 			"factory": "00B27C4C03974075",
 			"blueprint": "00855C3AA4C41ECD",
@@ -57527,19 +55651,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 1.568120424278599,
-							"y": -1.0330416120260333,
-							"z": -86.93730442337386
+							"x": 5.182019667061879,
+							"y": -0.08414902804661177,
+							"z": 173.677395060983
 						},
 						"position": {
-							"x": -75.05425262451172,
-							"y": 62.51158905029297,
-							"z": -13.438759803771973
-						},
-						"scale": {
-							"x": 0.9999998982732319,
-							"y": 0.9999992336934562,
-							"z": 1.000000001037704
+							"x": 19.239585876464844,
+							"y": -132.42747497558594,
+							"z": -5.596993923187256
 						}
 					}
 				},
@@ -57550,7 +55669,7 @@
 			}
 		},
 		"feedd7fe3c8ab7d9": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "SunTanningChair_B",
 			"factory": "00B5FD5F59F7FD11",
 			"blueprint": "006A219646430811",
@@ -57559,19 +55678,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -1.5981292345259968,
-							"y": -0.008136000906305329,
-							"z": 105.73389941978456
+							"x": -1.5982383454989268,
+							"y": -0.021780081401370416,
+							"z": 3.5672608828239007
 						},
 						"position": {
-							"x": -78.49519348144531,
-							"y": 59.856380462646484,
-							"z": -13.729000091552734
-						},
-						"scale": {
-							"x": 0.999999969590645,
-							"y": 0.9999994122566093,
-							"z": 1.0000000079808145
+							"x": 48.736610412597656,
+							"y": -132.568359375,
+							"z": -5.808842658996582
 						}
 					}
 				},
@@ -57582,7 +55696,7 @@
 			}
 		},
 		"feed1281930a8fc0": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Museum_Book_A_00",
 			"factory": "[assembly:/_pro/environment/templates/props/furniture/museum_furniture_a.template?/museum_book_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/museum_furniture_a.template?/museum_book_a_00.entitytemplate].pc_entityblueprint",
@@ -57591,19 +55705,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 28.25191712007147,
-							"y": 0.00016850119176322408,
-							"z": -35.79228792731552
+							"x": -4.4550208517257515,
+							"y": 6.32804417185618,
+							"z": -29.88504154731641
 						},
 						"position": {
-							"x": -81.8486328125,
-							"y": 54.59307098388672,
-							"z": -13.438300132751465
-						},
-						"scale": {
-							"x": 1.000000163783266,
-							"y": 0.9999997027870506,
-							"z": 0.9999998006476696
+							"x": 26.053131103515625,
+							"y": -129.32046508789062,
+							"z": -5.356308937072754
 						}
 					}
 				},
@@ -57614,7 +55723,7 @@
 			}
 		},
 		"feed32a3e95f4ddd": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Museum_Book_B_00",
 			"factory": "[assembly:/_pro/environment/templates/props/furniture/museum_furniture_a.template?/museum_book_b_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/museum_furniture_a.template?/museum_book_b_00.entitytemplate].pc_entityblueprint",
@@ -57623,19 +55732,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 11.844196902837389,
-							"y": 0,
-							"z": -86.56116452889955
+							"x": -1.0792730349166448,
+							"y": -0.5857516985205858,
+							"z": -4.681663556028289
 						},
 						"position": {
-							"x": -77.44835662841797,
-							"y": 55.3544807434082,
-							"z": -13.349390029907227
-						},
-						"scale": {
-							"x": 1.0000000520537402,
-							"y": 0.999999195582954,
-							"z": 0.9999992426426518
+							"x": 9.848928451538086,
+							"y": -130.62770080566406,
+							"z": -5.296019077301025
 						}
 					}
 				},
@@ -57646,7 +55750,7 @@
 			}
 		},
 		"feedbbaf89a365dc": {
-			"parent": "feed564a9fa4b0e9",
+			"parent": "feedec46dc690280",
 			"name": "Cloth_beach_chair_B01",
 			"factory": "00C6441BC6DBE718",
 			"blueprint": "00043A2BF4928EB3",
@@ -57655,19 +55759,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 20.232111961041642,
-							"y": -0.00011459164409603686,
-							"z": 92.3270748082306
+							"x": 20.232227996130167,
+							"y": -0.00012550472780035153,
+							"z": 92.32707371040627
 						},
 						"position": {
-							"x": -83.32208251953125,
-							"y": 47.555301666259766,
-							"z": -13.399999618530273
-						},
-						"scale": {
-							"x": 1.0000008652274026,
-							"y": 0.9999993963629699,
-							"z": 0.9999992551017801
+							"x": 47.7772216796875,
+							"y": -122.33760833740234,
+							"z": -5.492633819580078
 						}
 					}
 				},
@@ -57763,82 +55862,6 @@
 					"type": "SEntityTemplateReference",
 					"value": "feed010b7655c313"
 				}
-			}
-		},
-		"feeda4c4f9809a0c": {
-			"parent": "feed455a11ee115d",
-			"name": "Wine_Bottle_A_00",
-			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/wine_bottle_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/wine_bottle_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 29.508300610808895,
-							"y": -9.618143292763012,
-							"z": 142.46308096256837
-						},
-						"position": {
-							"x": -0.2156900018453598,
-							"y": 0.25578001141548157,
-							"z": 0.05023900046944618
-						},
-						"scale": {
-							"x": 0.9999998164244117,
-							"y": 1.0000002542123534,
-							"z": 1.0000002057258017
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "feed455a11ee115d",
-					"postInit": true
-				}
-			},
-			"subsets": {
-				"AudioEmitters": [
-					"fffffffffffffffe"
-				]
-			}
-		},
-		"feed351d59bd62ab": {
-			"parent": "feed455a11ee115d",
-			"name": "Wine_Bottle_B_00",
-			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/wine_bottle_b_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/wine_bottle_b_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 21.82967101054698,
-							"y": 11.715012246203731,
-							"z": 173.97141105231202
-						},
-						"position": {
-							"x": -7.440769195556641,
-							"y": 3.305177927017212,
-							"z": 1.4162720441818237
-						},
-						"scale": {
-							"x": 0.9999994749383544,
-							"y": 1.000000053635132,
-							"z": 1.0000006878655059
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "feed455a11ee115d",
-					"postInit": true
-				}
-			},
-			"subsets": {
-				"AudioEmitters": [
-					"fffffffffffffffe"
-				]
 			}
 		},
 		"feed5c592956865c": {
@@ -58147,6 +56170,2631 @@
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": "feedd7fe3c8ab7d9",
+					"postInit": true
+				}
+			}
+		},
+		"feedec46dc690280": {
+			"parent": "abcd5810e6df6c1e",
+			"name": "Beach props",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"feed500f1feaaec2": {
+			"parent": "feedec46dc690280",
+			"name": "Cloth_beach_chair_A",
+			"factory": "00AE5E95FEF7AE50",
+			"blueprint": "00CD3CB2B3C68A1B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.014569986038021477,
+							"y": 1.560153570607977,
+							"z": 5.592057192565046
+						},
+						"position": {
+							"x": 31.970582962036133,
+							"y": -133.7915802001953,
+							"z": -5.693687915802002
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed0623daf257ef": {
+			"parent": "feedec46dc690280",
+			"name": "Cloth_beach_chair_A",
+			"factory": "00AE5E95FEF7AE50",
+			"blueprint": "00CD3CB2B3C68A1B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.04647654808715902,
+							"y": -0.36395291949310127,
+							"z": -2.173647305726028
+						},
+						"position": {
+							"x": 35.703697204589844,
+							"y": -136.819091796875,
+							"z": -5.942533493041992
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed7520f18d0835": {
+			"parent": "feedec46dc690280",
+			"name": "Cloth_beach_chair_A",
+			"factory": "00AE5E95FEF7AE50",
+			"blueprint": "00CD3CB2B3C68A1B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.11029762386136924,
+							"y": -2.351680507965129,
+							"z": -2.1756707866707052
+						},
+						"position": {
+							"x": 36.98567199707031,
+							"y": -135.74594116210938,
+							"z": -5.857609272003174
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feeda4e021c23b19": {
+			"parent": "feedec46dc690280",
+			"name": "Cloth_beach_chair_A",
+			"factory": "00AE5E95FEF7AE50",
+			"blueprint": "00CD3CB2B3C68A1B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.029606326722828678,
+							"y": 1.5599406886800455,
+							"z": -2.1744534737925947
+						},
+						"position": {
+							"x": 74.58533477783203,
+							"y": -130.481689453125,
+							"z": -6.012537479400635
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed2f4992d9e3e4": {
+			"parent": "feedec46dc690280",
+			"name": "Cloth_beach_chair_A",
+			"factory": "00AE5E95FEF7AE50",
+			"blueprint": "00CD3CB2B3C68A1B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.029606326722828678,
+							"y": 1.5599406886800455,
+							"z": -2.1744534737925947
+						},
+						"position": {
+							"x": 30.99698257446289,
+							"y": -133.87191772460938,
+							"z": -5.71474027633667
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedfdf64460fa15": {
+			"parent": "feedec46dc690280",
+			"name": "Cloth_beach_chair_A",
+			"factory": "00AE5E95FEF7AE50",
+			"blueprint": "00CD3CB2B3C68A1B",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.04176657765073175,
+							"y": 1.5594115798808867,
+							"z": 19.206340551779117
+						},
+						"position": {
+							"x": 76.10894012451172,
+							"y": -130.8581085205078,
+							"z": -5.989091873168945
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedf12f79b38879": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Basic_A_NoBase",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -10.368561345447134,
+							"y": 6.675819973681049,
+							"z": 150.36159994867006
+						},
+						"position": {
+							"x": 25.36379623413086,
+							"y": -128.15049743652344,
+							"z": -5.397166728973389
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#d43e20"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed874a3e29a1d0": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Basic_A_NoBase",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -10.368561345447134,
+							"y": 6.675819973681049,
+							"z": 150.36159994867006
+						},
+						"position": {
+							"x": 14.338569641113281,
+							"y": -133.8360137939453,
+							"z": -6.225158214569092
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#d43e20"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed65cfa88c7629": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Basic_A_NoBase",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_basic_a_nobase.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -10.368561345447134,
+							"y": 6.675819973681049,
+							"z": 150.36159994867006
+						},
+						"position": {
+							"x": 27.97171974182129,
+							"y": -136.43040466308594,
+							"z": -6.51451301574707
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#d43e20"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed18d3b75912b7": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Decorated_Fancy_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 2.8493627948425786,
+							"z": 0
+						},
+						"position": {
+							"x": 70.43939971923828,
+							"y": -129.38233947753906,
+							"z": -6.788980007171631
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feeda782940e6166": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Decorated_Fancy_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 2.8493627948425786,
+							"z": 0
+						},
+						"position": {
+							"x": 68.56777954101562,
+							"y": -121.24398040771484,
+							"z": -5.201952934265137
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed161a5698bfa2": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Decorated_Fancy_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 2.8493627948425786,
+							"z": 0
+						},
+						"position": {
+							"x": 61.449546813964844,
+							"y": -130.33226013183594,
+							"z": -6.283013820648193
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed7bdd3edd0eed": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Decorated_Fancy_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 2.8493627948425786,
+							"z": 0
+						},
+						"position": {
+							"x": 31.58129119873047,
+							"y": -133.42050170898438,
+							"z": -6.516298294067383
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedd48dfe271036": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Decorated_Fancy_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.7479381265690546,
+							"y": 1.9846596603157676,
+							"z": 0.0826317603001652
+						},
+						"position": {
+							"x": 9.625524520874023,
+							"y": -129.5756072998047,
+							"z": -5.226868152618408
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedd7eda82d7600": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Decorated_Fancy_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/garden_props/parasols.template?/parasol_decorated_fancy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 2.8493627948425786,
+							"z": 0
+						},
+						"position": {
+							"x": 17.680355072021484,
+							"y": -130.47329711914063,
+							"z": -5.425125598907471
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedeb4fcf5fda69": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_A",
+			"factory": "00A536E8503CF831",
+			"blueprint": "008B4D10587511C5",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.2977469868477535,
+							"y": -0.23193939689174659,
+							"z": 8.115053113457838
+						},
+						"position": {
+							"x": 68.76891326904297,
+							"y": -130.0826873779297,
+							"z": -5.899786949157715
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed8fb382f7bd12": {
+			"parent": "feedeb4fcf5fda69",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed5ea06cd9f522",
+					"postInit": true
+				}
+			}
+		},
+		"feed5ea06cd9f522": {
+			"parent": "feedeb4fcf5fda69",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedeb4fcf5fda69",
+					"postInit": true
+				}
+			}
+		},
+		"feed56892fd6f7d3": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_A",
+			"factory": "00A536E8503CF831",
+			"blueprint": "008B4D10587511C5",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.2977469868477535,
+							"y": -0.23193939689174659,
+							"z": 8.115053113457838
+						},
+						"position": {
+							"x": 62.04603576660156,
+							"y": -131.87045288085938,
+							"z": -5.986456394195557
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed7434fafff1f8": {
+			"parent": "feed56892fd6f7d3",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedc64fc530bdb1",
+					"postInit": true
+				}
+			}
+		},
+		"feedc64fc530bdb1": {
+			"parent": "feed56892fd6f7d3",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed56892fd6f7d3",
+					"postInit": true
+				}
+			}
+		},
+		"feedf110d4b58f3d": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_A",
+			"factory": "00A536E8503CF831",
+			"blueprint": "008B4D10587511C5",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.2977469868477535,
+							"y": -0.23193939689174659,
+							"z": 8.115053113457838
+						},
+						"position": {
+							"x": 71.7645034790039,
+							"y": -130.23541259765625,
+							"z": -5.946226119995117
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed33dd9a3871d5": {
+			"parent": "feedf110d4b58f3d",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd76bdbe29a0a",
+					"postInit": true
+				}
+			}
+		},
+		"feedd76bdbe29a0a": {
+			"parent": "feedf110d4b58f3d",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedf110d4b58f3d",
+					"postInit": true
+				}
+			}
+		},
+		"feed4fbce5a354f1": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_A",
+			"factory": "00A536E8503CF831",
+			"blueprint": "008B4D10587511C5",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.2977469868477535,
+							"y": -0.23193939689174659,
+							"z": 8.115053113457838
+						},
+						"position": {
+							"x": 60.51702117919922,
+							"y": -132.222900390625,
+							"z": -5.964982986450195
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedf369791c0251": {
+			"parent": "feed4fbce5a354f1",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed199420407321",
+					"postInit": true
+				}
+			}
+		},
+		"feed199420407321": {
+			"parent": "feed4fbce5a354f1",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed4fbce5a354f1",
+					"postInit": true
+				}
+			}
+		},
+		"feed79dbd990689e": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_B",
+			"factory": "00B5FD5F59F7FD11",
+			"blueprint": "006A219646430811",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.5982383454989268,
+							"y": -0.021780081401370416,
+							"z": 3.5672608828239007
+						},
+						"position": {
+							"x": 52.964027404785156,
+							"y": -132.93272399902344,
+							"z": -5.921631813049316
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedb762b48dc469": {
+			"parent": "feed79dbd990689e",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed50c96c0c03f1",
+					"postInit": true
+				}
+			}
+		},
+		"feed50c96c0c03f1": {
+			"parent": "feed79dbd990689e",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed79dbd990689e",
+					"postInit": true
+				}
+			}
+		},
+		"feed912ead426b23": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_B",
+			"factory": "00B5FD5F59F7FD11",
+			"blueprint": "006A219646430811",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.5982383454989268,
+							"y": -0.021780081401370416,
+							"z": 3.5672608828239007
+						},
+						"position": {
+							"x": 54.38551712036133,
+							"y": -133.17474365234375,
+							"z": -5.951725482940674
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed3a5c7a81537f": {
+			"parent": "feed912ead426b23",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedfe0d050a03e2",
+					"postInit": true
+				}
+			}
+		},
+		"feedfe0d050a03e2": {
+			"parent": "feed912ead426b23",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed912ead426b23",
+					"postInit": true
+				}
+			}
+		},
+		"feedb4d039f1869d": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_B",
+			"factory": "00B5FD5F59F7FD11",
+			"blueprint": "006A219646430811",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -13.569447845295851,
+							"y": -0.7603121932884608,
+							"z": 3.4855484280105036
+						},
+						"position": {
+							"x": 67.77342987060547,
+							"y": -122.2428970336914,
+							"z": -5.037463188171387
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed0c8927b8a647": {
+			"parent": "feedb4d039f1869d",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed7e5672dcab27",
+					"postInit": true
+				}
+			}
+		},
+		"feed7e5672dcab27": {
+			"parent": "feedb4d039f1869d",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedb4d039f1869d",
+					"postInit": true
+				}
+			}
+		},
+		"feedbbc49d5d5426": {
+			"parent": "feedec46dc690280",
+			"name": "SunTanningChair_B",
+			"factory": "00B5FD5F59F7FD11",
+			"blueprint": "006A219646430811",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -8.89011732875566,
+							"y": -0.4695198210384939,
+							"z": 3.5366660007560844
+						},
+						"position": {
+							"x": 69.39925384521484,
+							"y": -121.71804809570312,
+							"z": -4.864287376403809
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed55e7c475a833": {
+			"parent": "feedbbc49d5d5426",
+			"name": "PFBox",
+			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.5580735182185506
+						},
+						"position": {
+							"x": 0.05662718042731285,
+							"y": 0.013310539536178112,
+							"z": -0.5748805999755859
+						},
+						"scale": {
+							"x": 1.0000004574070542,
+							"y": 1.0000004574070542,
+							"z": 1
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3803799152374268,
+						"y": 0.6440100073814392,
+						"z": 1.2931499481201172
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed918138b673e7",
+					"postInit": true
+				}
+			}
+		},
+		"feed918138b673e7": {
+			"parent": "feedbbc49d5d5426",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.003051913141672534,
+							"y": -1.6002093093273695,
+							"z": -90.1759061721495
+						},
+						"position": {
+							"x": -0.05056687816977501,
+							"y": 0.17093069851398468,
+							"z": 0.7493790984153748
+						},
+						"scale": {
+							"x": 0.9999996628425833,
+							"y": 0.9999997540080714,
+							"z": 0.9999999903791348
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.3140599727630615,
+						"y": 0.7467970252037048,
+						"z": 2.071160078048706
+					}
+				},
+				"m_bCollideHitman": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedbbc49d5d5426",
+					"postInit": true
+				}
+			}
+		},
+		"feed0b0e366471db": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Cafe_Italy_A05",
+			"factory": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 5.296647255373588
+						},
+						"position": {
+							"x": -15.658574104309082,
+							"y": -133.65725708007812,
+							"z": -5.727049827575684
+						}
+					}
+				},
+				"SFX_Loop": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "0030A6137E15CD49",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feeded712077da66": {
+			"parent": "feed0b0e366471db",
+			"name": "sunbed_wooden_b_03",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 6.183496942916256
+						},
+						"position": {
+							"x": 0.8308969736099243,
+							"y": -1.3748430013656616,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed0b0e366471db",
+					"postInit": true
+				}
+			}
+		},
+		"feed7af21c485dd5": {
+			"parent": "feed0b0e366471db",
+			"name": "sunbed_wooden_b_02",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -2.8171065578454333
+						},
+						"position": {
+							"x": -1.266402006149292,
+							"y": -1.547224998474121,
+							"z": -0.021431000903248787
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed0b0e366471db"
+				}
+			}
+		},
+		"feede2433da93c24": {
+			"parent": "feed0b0e366471db",
+			"name": "Sunbed_Table_Wooden_A_01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_table_wooden_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_table_wooden_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -2.8171065578454333
+						},
+						"position": {
+							"x": -0.22767199575901031,
+							"y": -1.4268629550933838,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed0b0e366471db"
+				}
+			}
+		},
+		"feedb4457941276d": {
+			"parent": "feeded712077da66",
+			"name": "Bathroom_Towel_Laying_A_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 108.7487626989299
+						},
+						"position": {
+							"x": 8.767608642578125,
+							"y": -13.953410148620605,
+							"z": 0.0019039999460801482
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 0.5218979716300964
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feeded712077da66",
+					"postInit": true
+				}
+			}
+		},
+		"feed567d64b0e632": {
+			"parent": "feeded712077da66",
+			"name": "Bathroom_Towel_Laying_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 136.887171991771
+						},
+						"position": {
+							"x": 0.9375,
+							"y": -0.4999620020389557,
+							"z": 0.0019049999536946416
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 0.5218979716300964
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feeded712077da66",
+					"postInit": true
+				}
+			}
+		},
+		"feed25295ddee213": {
+			"parent": "feeded712077da66",
+			"name": "slippers_nologo_a_02",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 165.18244193889075
+						},
+						"position": {
+							"x": 9.092681884765625,
+							"y": -12.165840148925781,
+							"z": 0.0019039999460801482
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feeded712077da66",
+					"postInit": true
+				}
+			}
+		},
+		"feed221bfbbca8ad": {
+			"parent": "feeded712077da66",
+			"name": "slippers_nologo_a_01",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -166.6790852114138
+						},
+						"position": {
+							"x": 0.7967219948768616,
+							"y": -1.2704349756240845,
+							"z": 0.0019049999536946416
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feeded712077da66",
+					"postInit": true
+				}
+			}
+		},
+		"feedf304202a73fc": {
+			"parent": "feeded712077da66",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 124.3445354993623,
+							"y": -0.0006302535795791543,
+							"z": -3.1428168631770617
+						},
+						"position": {
+							"x": -0.010894999839365482,
+							"y": 0.4987640082836151,
+							"z": 0.6602420210838318
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 1,
+							"z": 1
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feeded712077da66"
+				}
+			}
+		},
+		"feedafc0a3fe5a64": {
+			"parent": "feed7af21c485dd5",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.001281999982893467,
+							"y": -0.19872300326824188,
+							"z": 0.06890299916267395
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0494400262832642,
+						"y": 2.2355899810791016,
+						"z": 1.1378099918365479
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed7af21c485dd5",
+					"postInit": true
+				}
+			}
+		},
+		"feed33f0b80f70b0": {
+			"parent": "feede2433da93c24",
+			"name": "Sunglass_A",
+			"factory": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -160.00006892701202
+						},
+						"position": {
+							"x": -0.2590480148792267,
+							"y": 0.2597540020942688,
+							"z": 0.46049898862838745
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feede2433da93c24",
+					"postInit": true
+				}
+			}
+		},
+		"feed73fbed4e15fe": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Cafe_Italy_A05",
+			"factory": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 5.296647255373588
+						},
+						"position": {
+							"x": -23.431215286254883,
+							"y": -131.2959442138672,
+							"z": -5.517027378082275
+						}
+					}
+				},
+				"SFX_Loop": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "0030A6137E15CD49",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed209b6663f2de": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Cafe_Italy_A05",
+			"factory": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 5.296647255373588
+						},
+						"position": {
+							"x": 99.95661926269531,
+							"y": -127.44979858398438,
+							"z": -6.027197360992432
+						}
+					}
+				},
+				"SFX_Loop": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "0030A6137E15CD49",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedbb8930f4f0d7": {
+			"parent": "feed209b6663f2de",
+			"name": "sunbed_wooden_b_03",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 6.183496942916256
+						},
+						"position": {
+							"x": 0.8308969736099243,
+							"y": -1.3748430013656616,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed209b6663f2de",
+					"postInit": true
+				}
+			}
+		},
+		"feed481567cd4041": {
+			"parent": "feed209b6663f2de",
+			"name": "sunbed_wooden_b_02",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -2.8171065578454333
+						},
+						"position": {
+							"x": -1.266402006149292,
+							"y": -1.547224998474121,
+							"z": -0.021431000903248787
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed209b6663f2de"
+				}
+			}
+		},
+		"feedee3daf88912b": {
+			"parent": "feed209b6663f2de",
+			"name": "Sunbed_Table_Wooden_A_01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_table_wooden_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_table_wooden_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -2.8171065578454333
+						},
+						"position": {
+							"x": -0.22767199575901031,
+							"y": -1.4268629550933838,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed209b6663f2de"
+				}
+			}
+		},
+		"feed46ffd31cc7f5": {
+			"parent": "feedbb8930f4f0d7",
+			"name": "Bathroom_Towel_Laying_A_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 108.7487626989299
+						},
+						"position": {
+							"x": 8.767608642578125,
+							"y": -13.953410148620605,
+							"z": 0.0019039999460801482
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 0.5218979716300964
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedbb8930f4f0d7",
+					"postInit": true
+				}
+			}
+		},
+		"feed0f3084921111": {
+			"parent": "feedbb8930f4f0d7",
+			"name": "Bathroom_Towel_Laying_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 136.887171991771
+						},
+						"position": {
+							"x": 0.9375,
+							"y": -0.4999620020389557,
+							"z": 0.0019049999536946416
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 0.5218979716300964
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedbb8930f4f0d7",
+					"postInit": true
+				}
+			}
+		},
+		"feed561dca49e41c": {
+			"parent": "feedbb8930f4f0d7",
+			"name": "slippers_nologo_a_02",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 165.18244193889075
+						},
+						"position": {
+							"x": 9.092681884765625,
+							"y": -12.165840148925781,
+							"z": 0.0019039999460801482
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedbb8930f4f0d7",
+					"postInit": true
+				}
+			}
+		},
+		"feeda7478ea76a75": {
+			"parent": "feedbb8930f4f0d7",
+			"name": "slippers_nologo_a_01",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -166.6790852114138
+						},
+						"position": {
+							"x": 0.7967219948768616,
+							"y": -1.2704349756240845,
+							"z": 0.0019049999536946416
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedbb8930f4f0d7",
+					"postInit": true
+				}
+			}
+		},
+		"feedf10db6535b96": {
+			"parent": "feedbb8930f4f0d7",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 124.3445354993623,
+							"y": -0.0006302535795791543,
+							"z": -3.1428168631770617
+						},
+						"position": {
+							"x": -0.010894999839365482,
+							"y": 0.4987640082836151,
+							"z": 0.6602420210838318
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 1,
+							"z": 1
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedbb8930f4f0d7"
+				}
+			}
+		},
+		"feed9f4442ecbb73": {
+			"parent": "feed481567cd4041",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.001281999982893467,
+							"y": -0.19872300326824188,
+							"z": 0.06890299916267395
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0494400262832642,
+						"y": 2.2355899810791016,
+						"z": 1.1378099918365479
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed481567cd4041",
+					"postInit": true
+				}
+			}
+		},
+		"feed89d1f4d5178c": {
+			"parent": "feedee3daf88912b",
+			"name": "Hat_Wicker_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/hat_wicker_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/hat_wicker_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 91.01894439018561
+						},
+						"position": {
+							"x": 0.002624999964609742,
+							"y": -0.07677000015974045,
+							"z": 0.45788300037384033
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee3daf88912b",
+					"postInit": true
+				}
+			}
+		},
+		"feed600d893ff505": {
+			"parent": "feedee3daf88912b",
+			"name": "lemonade_glass_a",
+			"factory": "0008EE445F26B7CE",
+			"blueprint": "00C8F1353E6445C4",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 131.24382901589635
+						},
+						"position": {
+							"x": 0.2890320122241974,
+							"y": -0.31661900877952576,
+							"z": 0.46017399430274963
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee3daf88912b",
+					"postInit": true
+				}
+			}
+		},
+		"feed17a0ebffa7aa": {
+			"parent": "feedee3daf88912b",
+			"name": "Sunglass_A",
+			"factory": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -160.00006892701202
+						},
+						"position": {
+							"x": -0.2590480148792267,
+							"y": 0.2597540020942688,
+							"z": 0.46049898862838745
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee3daf88912b",
+					"postInit": true
+				}
+			}
+		},
+		"feed01472c70dc7b": {
+			"parent": "feedee3daf88912b",
+			"name": "lemonade_pitcher_a",
+			"factory": "009ABF2FB7CF58BA",
+			"blueprint": "000C346C544964A0",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 176.24345996486994
+						},
+						"position": {
+							"x": 0.225615993142128,
+							"y": 0.2804270088672638,
+							"z": 0.4514470100402832
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee3daf88912b",
+					"postInit": true
+				}
+			}
+		},
+		"feedec6d08ec8db2": {
+			"parent": "feedec46dc690280",
+			"name": "Parasol_Cafe_Italy_A05",
+			"factory": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/parasols_a.template?/parasol_cafe_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -1.5946077208543816,
+							"y": -0.14783999549370758,
+							"z": 5.294626390589851
+						},
+						"position": {
+							"x": 138.41738891601562,
+							"y": -131.74713134765625,
+							"z": -5.606084823608398
+						}
+					}
+				},
+				"SFX_Loop": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "0030A6137E15CD49",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed2c1bae22eb72": {
+			"parent": "feedec6d08ec8db2",
+			"name": "sunbed_wooden_b_03",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 6.183496942916256
+						},
+						"position": {
+							"x": 0.8308969736099243,
+							"y": -1.3748430013656616,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedec6d08ec8db2",
+					"postInit": true
+				}
+			}
+		},
+		"feed0b6bb1db3710": {
+			"parent": "feedec6d08ec8db2",
+			"name": "sunbed_wooden_b_02",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -2.8171065578454333
+						},
+						"position": {
+							"x": -1.266402006149292,
+							"y": -1.547224998474121,
+							"z": -0.021431000903248787
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedec6d08ec8db2"
+				}
+			}
+		},
+		"feedc586ed1a880f": {
+			"parent": "feedec6d08ec8db2",
+			"name": "Sunbed_Table_Wooden_A_01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_table_wooden_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_table_wooden_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -2.8171065578454333
+						},
+						"position": {
+							"x": -0.22767199575901031,
+							"y": -1.4268629550933838,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedec6d08ec8db2"
+				}
+			}
+		},
+		"feeda15cb0729ee0": {
+			"parent": "feed2c1bae22eb72",
+			"name": "Bathroom_Towel_Laying_A_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 108.7487626989299
+						},
+						"position": {
+							"x": 8.767608642578125,
+							"y": -13.953410148620605,
+							"z": 0.0019039999460801482
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 0.5218979716300964
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed2c1bae22eb72",
+					"postInit": true
+				}
+			}
+		},
+		"feed71e98321c6c8": {
+			"parent": "feed2c1bae22eb72",
+			"name": "Bathroom_Towel_Laying_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 136.887171991771
+						},
+						"position": {
+							"x": 0.9375,
+							"y": -0.4999620020389557,
+							"z": 0.0019049999536946416
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 0.5218979716300964
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed2c1bae22eb72",
+					"postInit": true
+				}
+			}
+		},
+		"feed95fb691ccca3": {
+			"parent": "feed2c1bae22eb72",
+			"name": "slippers_nologo_a_02",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 165.18244193889075
+						},
+						"position": {
+							"x": 9.092681884765625,
+							"y": -12.165840148925781,
+							"z": 0.0019039999460801482
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed2c1bae22eb72",
+					"postInit": true
+				}
+			}
+		},
+		"feed89d6b0788f49": {
+			"parent": "feed2c1bae22eb72",
+			"name": "slippers_nologo_a_01",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/slippers_nologo_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -166.6790852114138
+						},
+						"position": {
+							"x": 0.7967219948768616,
+							"y": -1.2704349756240845,
+							"z": 0.0019049999536946416
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed2c1bae22eb72",
+					"postInit": true
+				}
+			}
+		},
+		"feeddf1b001211c6": {
+			"parent": "feed2c1bae22eb72",
+			"name": "Cushion_Modern_A_Tintable_SizeC_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 124.3445354993623,
+							"y": -0.0006302535795791543,
+							"z": -3.1428168631770617
+						},
+						"position": {
+							"x": -0.010894999839365482,
+							"y": 0.4987640082836151,
+							"z": 0.6602420210838318
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 1,
+							"z": 1
+						}
+					}
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#94e6ff"
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.800000011920929,
+						"y": 0.800000011920929,
+						"z": 0.800000011920929
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed2c1bae22eb72"
+				}
+			}
+		},
+		"feedd844a2ecd6b0": {
+			"parent": "feed0b6bb1db3710",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.001281999982893467,
+							"y": -0.19872300326824188,
+							"z": 0.06890299916267395
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0494400262832642,
+						"y": 2.2355899810791016,
+						"z": 1.1378099918365479
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed0b6bb1db3710",
+					"postInit": true
+				}
+			}
+		},
+		"feeddb7aabba5cda": {
+			"parent": "feedc586ed1a880f",
+			"name": "lemonade_glass_a",
+			"factory": "0008EE445F26B7CE",
+			"blueprint": "00C8F1353E6445C4",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 131.24382901589635
+						},
+						"position": {
+							"x": 0.2890320122241974,
+							"y": -0.31661900877952576,
+							"z": 0.46017399430274963
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedc586ed1a880f",
+					"postInit": true
+				}
+			}
+		},
+		"feedc51acd7076df": {
+			"parent": "feedc586ed1a880f",
+			"name": "lemonade_pitcher_a",
+			"factory": "009ABF2FB7CF58BA",
+			"blueprint": "000C346C544964A0",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 176.24345996486994
+						},
+						"position": {
+							"x": 0.225615993142128,
+							"y": 0.2804270088672638,
+							"z": 0.4514470100402832
+						},
+						"scale": {
+							"x": 0.9999999999999999,
+							"y": 0.9999999999999999,
+							"z": 1
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedc586ed1a880f",
 					"postInit": true
 				}
 			}
