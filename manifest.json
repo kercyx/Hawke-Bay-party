@@ -551,6 +551,46 @@
 			"runtimeID":"0009732DE17DF410",
 			"toChunk": 9,
 			"comment":  "Sapi sunglasses"
+		},
+		{
+			"runtimeID":"0094A0EB7C7F016E",
+			"toChunk": 1,
+			"comment":  "Charset Female Tourist Beach2"
+		},
+		{
+			"runtimeID":"0089AE50A82230DD",
+			"toChunk": 1,
+			"comment":  "Charset Female Tourist Beach"
+		},
+		{
+			"runtimeID":"00F2B080B4965421",
+			"toChunk": 1,
+			"comment":  "Charset Female Tourist Beach3"
+		},
+		{
+			"runtimeID":"003FD61822ED0B83",
+			"toChunk": 1,
+			"comment":  "Act_FH_Stand_Phone_Talk"
+		},
+		{
+			"runtimeID":"00069EA674124EDD",
+			"toChunk": 1,
+			"comment":  "Act_FR_Lie_Back_01"
+		},
+		{
+			"runtimeID":"00C5E7DFD16C47AD",
+			"toChunk": 1,
+			"comment":  "Act_FR_Lie_Back_02"
+		},
+		{
+			"runtimeID":"0020FDEB5AFE2D6E",
+			"toChunk": 1,
+			"comment":  "Act_MR_BeachChair_Lie_SunBathing_Enter_L"
+		},
+		{
+			"runtimeID":"00A321AEEA59C08C",
+			"toChunk": 1,
+			"comment":  "Act_MR_BeachChair_Lie_SunBathing_Enter_R"
 		}
 		
 		
