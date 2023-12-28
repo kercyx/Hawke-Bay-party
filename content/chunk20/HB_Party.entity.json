@@ -58910,9 +58910,9 @@
 				"m_rDefaultVoiceVariations": {
 					"type": "TArray<EActorVoiceVariation>",
 					"value": [
-						"eAVV_civfem04",
-						"eAVV_civfem09",
-						"eAVV_civfem10"
+						"eAVV_CIVFEM04",
+						"eAVV_CIVFEM09",
+						"eAVV_CIVFEM10"
 					]
 				}
 			}
