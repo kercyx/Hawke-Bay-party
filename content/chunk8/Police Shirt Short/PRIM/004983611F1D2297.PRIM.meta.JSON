@@ -1,0 +1,21 @@
+{
+    "hash_value": "004983611F1D2297",
+    "hash_offset": 106311973,
+    "hash_size": 2147752679,
+    "hash_resource_type": "PRIM",
+    "hash_reference_table_size": 22,
+    "hash_reference_table_dummy": 0,
+    "hash_size_final": 401168,
+    "hash_size_in_memory": 4294967295,
+    "hash_size_in_video_memory": 4294967295,
+    "hash_reference_data": [
+        {
+            "hash": "0055AD4EF8271586",
+            "flag": "1F"
+        },
+        {
+            "hash": "0006131906A753DB",
+            "flag": "5F"
+        }
+    ]
+}

@@ -61062,6 +61062,503 @@
 					]
 				}
 			}
+		},
+		"feed3a269bbfb8ff": {
+			"parent": "feed6ae0a17e2ba5",
+			"name": "Sheep_Guard_NZPolice_M",
+			"factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
+			"blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
+			"properties": {
+				"m_DamageMultipliers": {
+					"type": "SBodyPartDamageMultipliers",
+					"value": {
+						"m_fHeadDamageMultiplier": 3,
+						"m_fFaceDamageMultiplier": 3,
+						"m_fArmDamageMultiplier": 1,
+						"m_fLArmDamageScalar": 0,
+						"m_fRArmDamageScalar": 0,
+						"m_fHandDamageMultiplier": 0.5,
+						"m_fLHandDamageScalar": 0,
+						"m_fRHandDamageScalar": 0,
+						"m_fLegDamageMultiplier": 0.6000000238418579,
+						"m_fLLegDamageScalar": 0,
+						"m_fRLegDamageScalar": 0,
+						"m_fTorsoDamageMultiplier": 1,
+						"m_bApplyLeftRightScalars": false
+					}
+				},
+				"m_bHeroDisguiseAvailable": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bWeaponsAllowed": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eSoundFootwearType": {
+					"type": "EHM5SoundFootwearType",
+					"value": "EFWT_RUBBER_BOOTS"
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "b210be64-ea03-4983-aa0f-8d18882a23c7"
+				},
+				"m_pParentOutfit": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "958ef354a73d986e",
+						"externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+					}
+				},
+				"m_sCommonName": {
+					"type": "ZString",
+					"value": "Skunk_Guard_PrivateSecurityOfficer_M_PRO108145"
+				},
+				"m_sTitle": {
+					"type": "ZString",
+					"value": "Police Officer"
+				},
+				"m_eOutfitAICategory": {
+					"type": "EOutfitAICategory",
+					"value": "OAC_Cop"
+				},
+				"m_rNameTextResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_skunk.sweetmenutext?/outfits_skunk_guard_privatesecurityofficer_m_pro108145_name_b210be64-ea03-4983-aa0f-8d18882a23c7.sweetline].pc_sweetline",
+						"flag": "5F"
+					}
+				},
+				"m_rDescriptionTextResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_skunk.sweetmenutext?/outfits_skunk_guard_privatesecurityofficer_m_pro108145_description_b210be64-ea03-4983-aa0f-8d18882a23c7.sweetline].pc_sweetline",
+						"flag": "5F"
+					}
+				},
+				"m_rDefaultVoiceVariations": {
+					"type": "TArray<EActorVoiceVariation>",
+					"value": [
+						"eAVV_BDYGRD04",
+						"eAVV_SPECOPS02",
+						"eAVV_BDYGRD05",
+						"eAVV_BDYGRD07"
+					]
+				},
+				"m_eOutfitType": {
+					"type": "EOutfitType",
+					"value": "eOT_Guard"
+				},
+				"m_aCharSets": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed55443531b8ac"
+					],
+					"postInit": true
+				},
+				"m_AvailableWeaponKeys": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feeda7396a874159",
+						"feedb2a5d4e95d35",
+						"feed816f0d471993"
+					],
+					"postInit": true
+				},
+				"m_aWeaponsAllowedExceptionKeywords": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed5f87e281c646"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"feedc2d1cb9cd7d8": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "Prof_Skunk_Unique_PrivateSecurityOfficer",
+			"factory": "[assembly:/_pro/design/actor/profession.template?/prof_skunk_unique_privatesecurityofficer.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_skunk_unique_privatesecurityofficer.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed3a269bbfb8ff"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"feed7714fad42b23": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "Keyword_Prof_Class_Default",
+			"factory": "007A51A2AFEC0D1A",
+			"blueprint": "00B0282A41C1CF2E",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed3a269bbfb8ff"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"feedced46f46c7c7": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "Keyword_Prof_Class_Guard_Heavy",
+			"factory": "00364659808ED13C",
+			"blueprint": "003A7D4D8810414B",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed3a269bbfb8ff"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"feeda7396a874159": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "ItemKey__Pistol_ Hackl 9R",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "1cae7d71-55c8-401a-9dfb-cd0909c4f6ee"
+				}
+			}
+		},
+		"feedb2a5d4e95d35": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "ItemKey__Shotgun_ _NPC_ Tactical Bartoli 12G",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "901a3b51-51a0-4236-bdf2-23d20696b358"
+				}
+			}
+		},
+		"feed55443531b8ac": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "charset_nzpolice_m",
+			"factory": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/charset_nzpolice_m.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/charset_nzpolice_m.entitytemplate].pc_entityblueprint"
+		},
+		"feed658b594421ff": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "Prof_Sheep",
+			"factory": "[assembly:/_pro/design/actor/profession.template?/prof_sheep.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sheep.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed3a269bbfb8ff"
+					]
+				}
+			}
+		},
+		"feed3349cda80c90": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "KeywordEntity_FOLEY_OUTFIT_GUARD",
+			"factory": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_guard.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_guard.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rHolder": {
+					"type": "SEntityTemplateReference",
+					"value": "feed3a269bbfb8ff"
+				}
+			}
+		},
+		"feed816f0d471993": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "ItemKey__AR_ _NPC_ Fusil G1_4",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "16edb112-58cc-4069-a7dd-ebd258b14044"
+				}
+			}
+		},
+		"feed5f87e281c646": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "Keyword_ITEM_SNIPER_RIFLE",
+			"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_sniper_rifle.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_sniper_rifle.entitytemplate].pc_entityblueprint"
+		},
+		"feedfc43a1bb9b8d": {
+			"parent": "feed3a269bbfb8ff",
+			"name": "prof_sheep_guard",
+			"factory": "[assembly:/_pro/design/actor/profession.template?/prof_sheep_guard.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sheep_guard.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed3a269bbfb8ff"
+					]
+				}
+			}
+		},
+		"feeda341247df702": {
+			"parent": "feedecf06f565d00",
+			"name": "CHAR_NZPolice_M_01",
+			"factory": "[assembly:/templates/gameplay/ai2/actors.template?/npcactor.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/gameplay/ai2/actors.template?/npcactor.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": -0.000004473733042686945,
+							"z": 0
+						}
+					}
+				},
+				"RepositoryId": {
+					"type": "ZGuid",
+					"value": "f63d8f4a-103a-4364-a542-9c4cc53c0773"
+				},
+				"m_OutfitRepositoryID": {
+					"type": "ZGuid",
+					"value": "b210be64-ea03-4983-aa0f-8d18882a23c7"
+				},
+				"m_nOutfitVariation": {
+					"type": "int32",
+					"value": 0
+				},
+				"m_sActorName": {
+					"type": "ZString",
+					"value": "Malcolm Hammer"
+				},
+				"m_nOutfitCharset": {
+					"type": "int32",
+					"value": 0
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed7ddfff91beed",
+					"postInit": true
+				},
+				"m_nWeaponIndex": {
+					"type": "int32",
+					"value": 2
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"fffffffffffffffe"
+				],
+				"Replicable": [
+					"fffffffffffffffe"
+				]
+			}
+		},
+		"feed450c631ab194": {
+			"parent": "feeda341247df702",
+			"name": "Police Officer Loop",
+			"factory": "[assembly:/_pro/design/actor/dramasystem2.template?/dramasituation.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/dramasystem2.template?/dramasituation.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aRoles": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feed19cc060319b2"
+					]
+				},
+				"m_aHigherPriority": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+
+					]
+				}
+			}
+		},
+		"feeda062ad827a99": {
+			"parent": "feed450c631ab194",
+			"name": "act_mr_guard_stand_armsside",
+			"factory": "[assembly:/_pro/design/actor/acts/mr_guard.template?/act_mr_guard_stand_armsside.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/acts/mr_guard.template?/act_mr_guard_stand_armsside.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 18.30565658889558
+						},
+						"position": {
+							"x": 97.34146,
+							"y": -123.90599,
+							"z": -5.918606
+						}
+					}
+				},
+				"m_fActTimeout": {
+					"type": "float32",
+					"value": 32
+				},
+				"m_pActor": {
+					"type": "SEntityTemplateReference",
+					"value": "feed19cc060319b2",
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"events": {
+				"OnActTimeout": {
+					"Start": [
+						"feed026ae78ab4b0"
+					]
+				}
+			},
+			"subsets": {
+
+			}
+		},
+		"feed026ae78ab4b0": {
+			"parent": "feed450c631ab194",
+			"name": "Act_MR_Stand_Phone_ArmsSide",
+			"factory": "[assembly:/_pro/design/actor/acts/mr.template?/act_mr_stand_phone_armsside.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/acts/mr.template?/act_mr_stand_phone_armsside.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -87.45294983089954
+						},
+						"position": {
+							"x": -37.216106,
+							"y": -138.50307,
+							"z": -5.91832
+						}
+					}
+				},
+				"m_fActTimeout": {
+					"type": "float32",
+					"value": 22
+				},
+				"m_pActor": {
+					"type": "SEntityTemplateReference",
+					"value": "feed19cc060319b2",
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"events": {
+				"OnActTimeout": {
+					"Start": [
+						"feed7ddfff91beed"
+					]
+				}
+			},
+			"subsets": {
+				"Replicable": [
+					"fffffffffffffffe"
+				]
+			}
+		},
+		"feed19cc060319b2": {
+			"parent": "feed450c631ab194",
+			"name": "Police Officer",
+			"factory": "[assembly:/_pro/design/actor/dramasystem2.template?/role.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/dramasystem2.template?/role.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rActorProvider": {
+					"type": "SEntityTemplateReference",
+					"value": "feeda341247df702",
+					"postInit": true
+				}
+			}
+		},
+		"feed7b129dfa56d1": {
+			"parent": "feed450c631ab194",
+			"name": "DramaSituationProxy",
+			"factory": "[assembly:/_pro/design/actor/dramasystem2.template?/dramasituationproxy.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/dramasystem2.template?/dramasituationproxy.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rOriginalDrama": {
+					"type": "SEntityTemplateReference",
+					"value": "feed450c631ab194",
+					"postInit": true
+				}
+			},
+			"events": {
+				"OnStart": {
+					"Start": [
+						"feed7ddfff91beed"
+					]
+				}
+			}
+		},
+		"feed7ddfff91beed": {
+			"parent": "feed450c631ab194",
+			"name": "Act_MR_Stand_ArmsCrossed",
+			"factory": "[assembly:/_pro/design/actor/acts/mr.template?/act_mr_stand_armscrossed.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/acts/mr.template?/act_mr_stand_armscrossed.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -50.94800660414757
+						},
+						"position": {
+							"x": 210.38683,
+							"y": -133.28325,
+							"z": -5.3581567
+						}
+					}
+				},
+				"m_fActTimeout": {
+					"type": "float32",
+					"value": 20
+				},
+				"m_pActor": {
+					"type": "SEntityTemplateReference",
+					"value": "feed19cc060319b2",
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"events": {
+				"OnActTimeout": {
+					"Start": [
+						"feeda062ad827a99"
+					]
+				}
+			}
 		}
 	},
 	"propertyOverrides": [

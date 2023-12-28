@@ -1,0 +1,1734 @@
+{
+	"tempHash": "0060E76C7F4974A7",
+	"tbluHash": "00C25965250B6AA9",
+	"rootEntity": "694b225c05d13af7",
+	"entities": {
+		"7d3b3d5df8d57bf0": {
+			"parent": "3712d82619bb270a",
+			"name": "Var18",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"38dca2a93a679276": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var11",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v11.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"7966cbf6a2a72ce4": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var24",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v24.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"0d15835e46a732da": {
+			"parent": "694b225c05d13af7",
+			"name": "HeroA",
+			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
+			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"af3b35eabbff2f58",
+						"09f371269ace5c4f",
+						"5c1d3df859223481",
+						"f7f4aad913d7b784",
+						"f3cfc5738e6fe4ea",
+						"88645b0801e1250e",
+						"fb3bb74dac5b5289",
+						"2ddccfadcc595e0a",
+						"c9940417f0ef82d5",
+						"ea7d64f71776bb21",
+						"ad5f3eb609ad6592",
+						"a7b06e81882a3f90",
+						"07d76308d8c528b6",
+						"d5c7aabb4ddf80a1",
+						"c73c8d68a9eb7713",
+						"189062fe8f1c0c85",
+						"d423d26195439a5d",
+						"f2eb26c2b84b08ec",
+						"62b083291f38605f",
+						"389bad4d14b7d88f",
+						"9ea0a7d7ed55b14c",
+						"9dc70f3b91380298",
+						"cad828aa4dac3e15",
+						"7bfbc950c5ae8e46",
+						"6fa9de0e9ddc4958",
+						"49464bd25a1ad6fe"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"f11688f7d3521dc1": {
+			"parent": "3712d82619bb270a",
+			"name": "Var25",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"6916fe05bc3b5f26": {
+			"parent": "3712d82619bb270a",
+			"name": "Var9",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"8a014ff04769ead7": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var6",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v6.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"0172c0080f0cd294": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var23",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v23.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"401f14aa5318a025": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var7",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v7.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"d25ecf60016ea8e7": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var12",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"63782088a37232a9": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "20",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v20.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"de23f6fb73039291": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "6",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v6.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"bbbd3a439f5550f8": {
+			"parent": "3712d82619bb270a",
+			"name": "Var14",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"ee5d093b51191166": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "10",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v10.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"5823f0db4057b909": {
+			"parent": "3712d82619bb270a",
+			"name": "Var2",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"d3b05cae1377f358": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var6",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"09f371269ace5c4f": {
+			"parent": "0d15835e46a732da",
+			"name": "Var1",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v1.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"50deaa9ab33f1dfe": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var7",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"639684c7149b7eac": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "22",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v22.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"9a784e856e14a2e7": {
+			"parent": "3712d82619bb270a",
+			"name": "Var8",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"6fa9de0e9ddc4958": {
+			"parent": "0d15835e46a732da",
+			"name": "Var24",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v24.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"fe3d95c17a098f8e": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var19",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"61703fe5f1989f4a": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "11",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v11.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"d423d26195439a5d": {
+			"parent": "0d15835e46a732da",
+			"name": "Var16",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v16.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"b59f148372fd1573": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var4",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v4.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"2bedeee4163abe6c": {
+			"parent": "3712d82619bb270a",
+			"name": "Var10",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"83f4049b51b0fdbe": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var22",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"ae13485201dee1a4": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var22",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v22.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"8b1c5dd72a43f744": {
+			"parent": "3712d82619bb270a",
+			"name": "Var19",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"af3b35eabbff2f58": {
+			"parent": "0d15835e46a732da",
+			"name": "Var0",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/outfit_nzpolice_m_hero_v0.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"4575826988c608cc": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var3",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"9d6c9140d4448744": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var3",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v3.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"001b259eb6f63261": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var11",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"ca43a97e729f8c71": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "16",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v16.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"189062fe8f1c0c85": {
+			"parent": "0d15835e46a732da",
+			"name": "Var15",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v15.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c000cb5cf9a05e88": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "19",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v19.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"21c061580e576196": {
+			"parent": "3712d82619bb270a",
+			"name": "Var22",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"1fefa017b82ed9cd": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var18",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v18.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"48cb6d5ce6a0e4e6": {
+			"parent": "3712d82619bb270a",
+			"name": "Var11",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"c4fc6ef9cb09f579": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var24",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"2d24dbbd064da0e4": {
+			"parent": "3712d82619bb270a",
+			"name": "Var7",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"ea7d64f71776bb21": {
+			"parent": "0d15835e46a732da",
+			"name": "Var9",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v9.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"a8f48554695c089f": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var9",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"4abc46082ef0a1cb": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var14",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"d00e3a813738c20a": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var20",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v20.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"49464bd25a1ad6fe": {
+			"parent": "0d15835e46a732da",
+			"name": "Var25",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v25.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"f21da3e30aa4eda4": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var10",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v10.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"1234ec2fb52c3f7f": {
+			"parent": "694b225c05d13af7",
+			"name": "Actor",
+			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
+			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"4f65960d86a44a13",
+						"baec68b85b6d43d2",
+						"65680d945895b55a",
+						"e1519bacb5f06514",
+						"104449a09e88f434",
+						"5bba4b6d9b4e96d1",
+						"de23f6fb73039291",
+						"bf2cdf4f2abbb55a",
+						"7f5ab5129262082f",
+						"2415b9d983611d1d",
+						"ee5d093b51191166",
+						"61703fe5f1989f4a",
+						"c103b3e8fec59c6f",
+						"1a38aea9bc8e76bc",
+						"0868debeb56dbe26",
+						"c2429a67a6425631",
+						"ca43a97e729f8c71",
+						"3f8bfbc38aff896e",
+						"5970af6080021377",
+						"c000cb5cf9a05e88",
+						"63782088a37232a9",
+						"14691b82039be6ec",
+						"639684c7149b7eac",
+						"37efc29e9ae584d6",
+						"bad2899ee35d615c",
+						"73663efcfba73e14"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"3712d82619bb270a": {
+			"parent": "694b225c05d13af7",
+			"name": "HeroB",
+			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
+			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"c3f92f050a486287",
+						"6b09fd77a29e600a",
+						"5823f0db4057b909",
+						"d1f3b3acf6f69ae1",
+						"0126c9b45c665245",
+						"c70b0771619e2e61",
+						"1ca8ec12acb6d5b0",
+						"2d24dbbd064da0e4",
+						"9a784e856e14a2e7",
+						"6916fe05bc3b5f26",
+						"2bedeee4163abe6c",
+						"48cb6d5ce6a0e4e6",
+						"e70f33ba5ac7d47d",
+						"c3ce4b01f15db63d",
+						"bbbd3a439f5550f8",
+						"a9a2a7f98a2a7ca9",
+						"790d65bc6bf91438",
+						"c7e9d3742d498de8",
+						"7d3b3d5df8d57bf0",
+						"8b1c5dd72a43f744",
+						"d9ec902fa6fc8ffb",
+						"820afe7c84587be7",
+						"21c061580e576196",
+						"6b28040e9fe1ca5a",
+						"f47e138bdf865832",
+						"f11688f7d3521dc1"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"1dbed0fcc2009eef": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var19",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v19.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"73663efcfba73e14": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "25",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v25.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"bad2899ee35d615c": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "24",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v24.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"4bf9ac906844339c": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var4",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"0868debeb56dbe26": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "14",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v14.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"da237cb087b24e0d": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var2",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v2.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"d23dbce94371a76b": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var13",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v13.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"eed3621d5ebc5812": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var1",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v1.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"820afe7c84587be7": {
+			"parent": "3712d82619bb270a",
+			"name": "Var21",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"7f5ab5129262082f": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "8",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v8.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"cad828aa4dac3e15": {
+			"parent": "0d15835e46a732da",
+			"name": "Var22",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v22.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c7e9d3742d498de8": {
+			"parent": "3712d82619bb270a",
+			"name": "Var17",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"2415b9d983611d1d": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "9",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v9.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"f2eb26c2b84b08ec": {
+			"parent": "0d15835e46a732da",
+			"name": "Var17",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v17.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"6ecb5a95dca31f98": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var1",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"b547003198b4d2c8": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var0",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"f47e138bdf865832": {
+			"parent": "3712d82619bb270a",
+			"name": "Var24",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"389bad4d14b7d88f": {
+			"parent": "0d15835e46a732da",
+			"name": "Var19",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v19.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"0f8b262167aaa7db": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var25",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"0126c9b45c665245": {
+			"parent": "3712d82619bb270a",
+			"name": "Var4",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"f7f4aad913d7b784": {
+			"parent": "0d15835e46a732da",
+			"name": "Var3",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v3.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"fb3bb74dac5b5289": {
+			"parent": "0d15835e46a732da",
+			"name": "Var6",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v6.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"88645b0801e1250e": {
+			"parent": "0d15835e46a732da",
+			"name": "Var5",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v5.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"4e1df98720f56c6e": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var18",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"65680d945895b55a": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "2",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v2.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"9ea0a7d7ed55b14c": {
+			"parent": "0d15835e46a732da",
+			"name": "Var20",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v20.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"7f3cfd73874c0adc": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var12",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v12.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"5c1d3df859223481": {
+			"parent": "0d15835e46a732da",
+			"name": "Var2",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v2.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c3f92f050a486287": {
+			"parent": "3712d82619bb270a",
+			"name": "Var0",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"d9ec902fa6fc8ffb": {
+			"parent": "3712d82619bb270a",
+			"name": "Var20",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"31d151c3d90ae0ec": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var8",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v8.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"5970af6080021377": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "18",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v18.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"bf2cdf4f2abbb55a": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "7",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v7.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"e17ed6d6f74794c7": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var20",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"104449a09e88f434": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "4",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v4.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"32fed7d274d4b3bf": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var15",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"10fc1ac9169c6945": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var2",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"c2429a67a6425631": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "15",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v15.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c70b0771619e2e61": {
+			"parent": "3712d82619bb270a",
+			"name": "Var5",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"05e23d6983e199e6": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var23",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"f3cfc5738e6fe4ea": {
+			"parent": "0d15835e46a732da",
+			"name": "Var4",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v4.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"58eab59677540676": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var17",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"3f8bfbc38aff896e": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "17",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v17.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"8cfa06563e69c3d5": {
+			"parent": "694b225c05d13af7",
+			"name": "Nude",
+			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
+			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"808df9cb1254acbc",
+						"eed3621d5ebc5812",
+						"da237cb087b24e0d",
+						"9d6c9140d4448744",
+						"b59f148372fd1573",
+						"fd4caafe7c932b87",
+						"8a014ff04769ead7",
+						"401f14aa5318a025",
+						"31d151c3d90ae0ec",
+						"24a982bfbde4cba4",
+						"f21da3e30aa4eda4",
+						"38dca2a93a679276",
+						"7f3cfd73874c0adc",
+						"d23dbce94371a76b",
+						"b1e2d2f2f2a441d0",
+						"95e668cf535ee4ec",
+						"d5f8af7686c66fff",
+						"8c76dce8f4c5fd0c",
+						"1fefa017b82ed9cd",
+						"1dbed0fcc2009eef",
+						"d00e3a813738c20a",
+						"60f1d33c5d841b00",
+						"ae13485201dee1a4",
+						"0172c0080f0cd294",
+						"7966cbf6a2a72ce4",
+						"2b0ee3a5721b0ba3"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"d5f8af7686c66fff": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var16",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v16.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"95e668cf535ee4ec": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var15",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v15.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"baec68b85b6d43d2": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "1",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v1.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"1ca8ec12acb6d5b0": {
+			"parent": "3712d82619bb270a",
+			"name": "Var6",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"8cbf8165f4fe0c02": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var13",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"b1e2d2f2f2a441d0": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var14",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v14.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"a9a2a7f98a2a7ca9": {
+			"parent": "3712d82619bb270a",
+			"name": "Var15",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"c103b3e8fec59c6f": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "12",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v12.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"7bfbc950c5ae8e46": {
+			"parent": "0d15835e46a732da",
+			"name": "Var23",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v23.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"6b28040e9fe1ca5a": {
+			"parent": "3712d82619bb270a",
+			"name": "Var23",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"f599fa65b8c98836": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var8",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"60f1d33c5d841b00": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var21",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v21.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c9940417f0ef82d5": {
+			"parent": "0d15835e46a732da",
+			"name": "Var8",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v8.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"2ddccfadcc595e0a": {
+			"parent": "0d15835e46a732da",
+			"name": "Var7",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v7.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"694b225c05d13af7": {
+			"parent": null,
+			"name": "CHARSET_NZPolice_M",
+			"factory": "[modules:/zoutfitvariationcollection.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariationcollection.class].pc_entityblueprint",
+			"properties": {
+				"m_aCharacters": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"1234ec2fb52c3f7f",
+						"8cfa06563e69c3d5",
+						"0d15835e46a732da",
+						"3712d82619bb270a",
+						"3c13ba1829877ee8"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"b382783571c3b55d": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var16",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"07d76308d8c528b6": {
+			"parent": "0d15835e46a732da",
+			"name": "Var12",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v12.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"14691b82039be6ec": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "21",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v21.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"e70f33ba5ac7d47d": {
+			"parent": "3712d82619bb270a",
+			"name": "Var12",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"62b083291f38605f": {
+			"parent": "0d15835e46a732da",
+			"name": "Var18",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v18.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"790d65bc6bf91438": {
+			"parent": "3712d82619bb270a",
+			"name": "Var16",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"d1f3b3acf6f69ae1": {
+			"parent": "3712d82619bb270a",
+			"name": "Var3",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"24a982bfbde4cba4": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var9",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v9.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"bbdeacc362c9f9d8": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var5",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"9dc70f3b91380298": {
+			"parent": "0d15835e46a732da",
+			"name": "Var21",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v21.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"fd4caafe7c932b87": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var5",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v5.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"3c13ba1829877ee8": {
+			"parent": "694b225c05d13af7",
+			"name": "HeroC",
+			"factory": "[modules:/zcharsetcharactertype.class].pc_entitytype",
+			"blueprint": "[modules:/zcharsetcharactertype.class].pc_entityblueprint",
+			"properties": {
+				"m_aVariations": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"b547003198b4d2c8",
+						"6ecb5a95dca31f98",
+						"10fc1ac9169c6945",
+						"4575826988c608cc",
+						"4bf9ac906844339c",
+						"bbdeacc362c9f9d8",
+						"d3b05cae1377f358",
+						"50deaa9ab33f1dfe",
+						"f599fa65b8c98836",
+						"a8f48554695c089f",
+						"f00daa5aad001fac",
+						"001b259eb6f63261",
+						"d25ecf60016ea8e7",
+						"8cbf8165f4fe0c02",
+						"4abc46082ef0a1cb",
+						"32fed7d274d4b3bf",
+						"b382783571c3b55d",
+						"58eab59677540676",
+						"4e1df98720f56c6e",
+						"fe3d95c17a098f8e",
+						"e17ed6d6f74794c7",
+						"66c074ad16b91f10",
+						"83f4049b51b0fdbe",
+						"05e23d6983e199e6",
+						"c4fc6ef9cb09f579",
+						"0f8b262167aaa7db"
+					],
+					"postInit": true
+				}
+			}
+		},
+		"37efc29e9ae584d6": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "23",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v23.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"ad5f3eb609ad6592": {
+			"parent": "0d15835e46a732da",
+			"name": "Var10",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v10.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"f00daa5aad001fac": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var10",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"8c76dce8f4c5fd0c": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var17",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v17.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"a7b06e81882a3f90": {
+			"parent": "0d15835e46a732da",
+			"name": "Var11",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v11.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"66c074ad16b91f10": {
+			"parent": "3c13ba1829877ee8",
+			"name": "Var21",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"5bba4b6d9b4e96d1": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "5",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v5.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c3ce4b01f15db63d": {
+			"parent": "3712d82619bb270a",
+			"name": "Var13",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		},
+		"1a38aea9bc8e76bc": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "13",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v13.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"808df9cb1254acbc": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var0",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v0.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"4f65960d86a44a13": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "0",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/outfit_nzpolice_m_actor_v0.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"c73c8d68a9eb7713": {
+			"parent": "0d15835e46a732da",
+			"name": "Var14",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v14.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"d5c7aabb4ddf80a1": {
+			"parent": "0d15835e46a732da",
+			"name": "Var13",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v13.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"2b0ee3a5721b0ba3": {
+			"parent": "8cfa06563e69c3d5",
+			"name": "Var25",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_nude_v25.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"e1519bacb5f06514": {
+			"parent": "1234ec2fb52c3f7f",
+			"name": "3",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
+			"properties": {
+				"m_Outfit": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v3.entitytemplate].pc_entitytemplate",
+						"flag": "9F"
+					}
+				}
+			}
+		},
+		"6b09fd77a29e600a": {
+			"parent": "3712d82619bb270a",
+			"name": "Var1",
+			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
+			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [
+
+	],
+	"overrideDeletes": [
+
+	],
+	"pinConnectionOverrides": [
+
+	],
+	"pinConnectionOverrideDeletes": [
+
+	],
+	"externalScenes": [
+
+	],
+	"subType": "template",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [
+
+	],
+	"extraBlueprintDependencies": [
+
+	],
+	"comments": [
+
+	]
+}

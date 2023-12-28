@@ -591,6 +591,16 @@
 			"runtimeID":"00A321AEEA59C08C",
 			"toChunk": 1,
 			"comment":  "Act_MR_BeachChair_Lie_SunBathing_Enter_R"
+		},
+		{
+			"runtimeID":"0031B71AECF15ABE",
+			"toChunk": 1,
+			"comment":  "Ny Belt Buckle"
+		},
+		{
+			"runtimeID":"0052AE3D06BAAB3C",
+			"toChunk": 1,
+			"comment":  "Ny Pants"
 		}
 		
 		
