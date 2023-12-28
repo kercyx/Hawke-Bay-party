@@ -61308,7 +61308,7 @@
 			}
 		},
 		"feeda341247df702": {
-			"parent": "feedecf06f565d00",
+			"parent": "feed37fd6398bc07",
 			"name": "CHAR_NZPolice_M_01",
 			"factory": "[assembly:/templates/gameplay/ai2/actors.template?/npcactor.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/templates/gameplay/ai2/actors.template?/npcactor.entitytemplate].pc_entityblueprint",
@@ -61338,7 +61338,7 @@
 				},
 				"m_nOutfitVariation": {
 					"type": "int32",
-					"value": 0
+					"value": 1
 				},
 				"m_sActorName": {
 					"type": "ZString",

@@ -214,7 +214,7 @@
 				"m_Outfit": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_heroa_v1.entitytemplate].pc_entitytemplate",
+						"resource": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/outfit_nzpolice_m_hero_v1.entitytemplate].pc_entitytemplate",
 						"flag": "9F"
 					}
 				}
@@ -912,7 +912,7 @@
 				"m_Outfit": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v2.entitytemplate].pc_entitytemplate",
+						"resource": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/outfit_nzpolice_m_actor_v0.entitytemplate].pc_entitytemplate",
 						"flag": "9F"
 					}
 				}
@@ -1188,14 +1188,14 @@
 		},
 		"baec68b85b6d43d2": {
 			"parent": "1234ec2fb52c3f7f",
-			"name": "1",
+			"name": "1 - Tattoos, beard and no hat",
 			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
 			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
 			"properties": {
 				"m_Outfit": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/characters/templates/marrakesh/char_marrakesh_guards.template?/outfit_embassysecurity_m_actor_v1.entitytemplate].pc_entitytemplate",
+						"resource": "[assembly:/_pro/characters/templates/sheep/char_sheep_guard.template?/outfit_nzpolice_m_actor_v1.entitytemplate].pc_entitytemplate",
 						"flag": "9F"
 					}
 				}
@@ -1625,7 +1625,7 @@
 		},
 		"4f65960d86a44a13": {
 			"parent": "1234ec2fb52c3f7f",
-			"name": "0",
+			"name": "0 - Hat and slight beard",
 			"factory": "[modules:/zoutfitvariation.class].pc_entitytype",
 			"blueprint": "[modules:/zoutfitvariation.class].pc_entityblueprint",
 			"properties": {
