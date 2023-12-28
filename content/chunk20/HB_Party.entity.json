@@ -58906,6 +58906,14 @@
 					"value": [
 						"feed276b81b87c5a"
 					]
+				},
+				"m_rDefaultVoiceVariations": {
+					"type": "TArray<EActorVoiceVariation>",
+					"value": [
+						"eAVV_civfem04",
+						"eAVV_civfem09",
+						"eAVV_civfem10"
+					]
 				}
 			}
 		},
@@ -59068,6 +59076,15 @@
 				"m_eOutfitAICategory": {
 					"type": "EOutfitAICategory",
 					"value": "OAC_Fallback"
+				},
+				"m_rDefaultVoiceVariations": {
+					"type": "TArray<EActorVoiceVariation>",
+					"value": [
+						"eAVV_CIVMALE11",
+						"eAVV_CIVMALE05",
+						"eAVV_CIVMALE06",
+						"eAVV_BDYGRD05"
+					]
 				}
 			}
 		},
@@ -59537,10 +59554,6 @@
 				"m_nOutfitCharset": {
 					"type": "int32",
 					"value": 1
-				},
-				"m_eRequiredVoiceVariation": {
-					"type": "EActorVoiceVariation",
-					"value": "eAVV_CIVFEM01"
 				},
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
@@ -61111,6 +61124,10 @@
 		},
 		{
 			"ref": "b6fd57404a303a39",
+			"externalScene": "[assembly:/_pro/scenes/missions/sheep/elusive_adonis.brick].pc_entitytype"
+		},
+		{
+			"ref": "585c52d173fa0f94",
 			"externalScene": "[assembly:/_pro/scenes/missions/sheep/elusive_adonis.brick].pc_entitytype"
 		}
 	],
