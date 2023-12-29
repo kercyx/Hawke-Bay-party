@@ -666,6 +666,82 @@
 					}
 				}
 			}
+		},
+		"feedaeeb52846090": {
+			"parent": "c1e434f458c274df",
+			"name": "Attacher_Wrist_L",
+			"factory": "[assembly:/templates/aspectdummy.aspect]([modules:/zcompositeentity.class].entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zcompositeentity.class].entitytype,[modules:/zboneattachaspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_BoneName": {
+					"type": "ZString",
+					"value": "L_Forearm"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_linkedEntity": {
+					"type": "SEntityTemplateReference",
+					"value": "c1e434f458c274df",
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "c1e434f458c274df",
+					"postInit": true
+				}
+			}
+		},
+		"feed491405469230": {
+			"parent": "feedaeeb52846090",
+			"name": "watch_sporty_3crown",
+			"factory": "008B2E9F9C87B4FE",
+			"blueprint": "001D0A50CC8378B5",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -6.541115504360202,
+							"y": 1.9386848042958067,
+							"z": -81.01549909786802
+						},
+						"position": {
+							"x": 0.2498680055141449,
+							"y": -0.0013010000111535192,
+							"z": 0.0006040000007487833
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0301400423049927,
+						"y": 1.0617300271987915,
+						"z": 1.0336500406265259
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedaeeb52846090"
+				},
+				"Diffuse_Color_01_Value": {
+					"type": "SColorRGB",
+					"value": "#000000"
+				}
+			}
 		}
 	},
 	"propertyOverrides": [
