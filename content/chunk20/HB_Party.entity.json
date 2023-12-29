@@ -54755,14 +54755,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 5.070896380766943,
-							"y": 0.6685102213730891,
-							"z": -169.14923641360411
+							"x": 4.295286976080756,
+							"y": -0.93776576313571,
+							"z": -169.16460657002645
 						},
 						"position": {
-							"x": 25.555755615234375,
-							"y": -129.8129425048828,
-							"z": -5.425422191619873
+							"x": 25.555756,
+							"y": -129.81294,
+							"z": -5.4382715
 						}
 					}
 				},
@@ -59241,6 +59241,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feede8fabe46eae9",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59297,6 +59301,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feed4f6cf9233382",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59357,6 +59365,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feed981e411bfc1a",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59413,6 +59425,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feedc1a4ae816527",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59473,6 +59489,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feed556ad31bad15",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59559,6 +59579,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feed0070443fdbd6",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59761,6 +59785,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feedc3f2dc8c49fe",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -59843,6 +59871,10 @@
 					"type": "SEntityTemplateReference",
 					"value": "feed5f7f5aaed81f",
 					"postInit": true
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -60134,6 +60166,12 @@
 					"type": "SEntityTemplateReference",
 					"value": "fffffffffffffffe",
 					"postInit": true
+				},
+				"m_aApproachPath": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedc082998c00ad"
+					]
 				}
 			},
 			"events": {
@@ -60186,6 +60224,12 @@
 					"type": "SEntityTemplateReference",
 					"value": "fffffffffffffffe",
 					"postInit": true
+				},
+				"m_aApproachPath": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedc082998c00ad"
+					]
 				}
 			},
 			"events": {
@@ -61338,7 +61382,7 @@
 				},
 				"m_nOutfitVariation": {
 					"type": "int32",
-					"value": 1
+					"value": 0
 				},
 				"m_sActorName": {
 					"type": "ZString",
@@ -61356,6 +61400,10 @@
 				"m_nWeaponIndex": {
 					"type": "int32",
 					"value": 2
+				},
+				"m_AgentVisionConfiguration": {
+					"type": "SEntityTemplateReference",
+					"value": "feedd95b2c339497"
 				}
 			},
 			"subsets": {
@@ -61557,6 +61605,40 @@
 					"Start": [
 						"feeda062ad827a99"
 					]
+				}
+			}
+		},
+		"feedd95b2c339497": {
+			"parent": "feed65adc37d26d5",
+			"name": "DefaultActorVision_StingrayONLY",
+			"factory": "007133D143A1675D",
+			"blueprint": "002404B938C33752"
+		},
+		"feedc082998c00ad": {
+			"parent": "feed47b1fd923bfb",
+			"name": "Spatial",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -111.59893896208024
+						},
+						"position": {
+							"x": 35.107758,
+							"y": -121.82195,
+							"z": -4.9074073
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
 				}
 			}
 		}

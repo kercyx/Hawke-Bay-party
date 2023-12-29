@@ -466,6 +466,21 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
+				"Rifle_Holster_Attacher_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 10
+						},
+						"position": {
+							"x": 0.035,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
 				"m_aBodyParts": {
 					"type": "TArray<SEntityTemplateReference>",
 					"value": [
@@ -476,7 +491,8 @@
 						"637003535601e69a",
 						"a4d89cb4392bcf9b",
 						"d7920184b78105af",
-						"feed5a19b7f4fe6d"
+						"feed5a19b7f4fe6d",
+						"feedc6663bbd1f29"
 					],
 					"postInit": true
 				}
@@ -596,6 +612,21 @@
 				"Diffuse_Color_01_Value": {
 					"type": "SColorRGB",
 					"value": "#6373a7"
+				}
+			}
+		},
+		"feedc6663bbd1f29": {
+			"parent": "c1e434f458c274df",
+			"name": "Mesh_Accessories04",
+			"factory": "[modules:/zbodypartentity.class].pc_entitytype",
+			"blueprint": "[modules:/zbodypartentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pMeshResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/holster_01.weightedprim](bodypart).pc_weightedprim",
+						"flag": "5F"
+					}
 				}
 			}
 		}

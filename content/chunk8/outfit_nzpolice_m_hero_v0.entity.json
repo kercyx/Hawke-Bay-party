@@ -395,16 +395,29 @@
 		"c1e434f458c274df": {
 			"parent": null,
 			"name": "OUTFIT_NZPolice_M_Hero_v0",
-			"factory": "00EC23CD5ED3321D",
-			"blueprint": "00F08545F4143973",
+			"factory": "00C0753FBF784C66",
+			"blueprint": "007294473357329E",
 			"properties": {
-				"m_ResourceID": {
-					"type": "ZRuntimeResourceID",
-					"value": null
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+
+					]
 				},
-				"m_fLODScale": {
-					"type": "float32",
-					"value": 1
+				"Rifle_Holster_Attacher_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 10
+						},
+						"position": {
+							"x": 0.035,
+							"y": 0,
+							"z": 0
+						}
+					}
 				},
 				"m_mTransform": {
 					"type": "SMatrix43",
@@ -415,96 +428,11 @@
 							"z": 0
 						},
 						"position": {
-							"x": -6.645205020904541,
-							"y": 1.3339450359344482,
-							"z": 0
+							"x": 0.4149650037288666,
+							"y": -3.040994882583618,
+							"z": 0.013648999854922295
 						}
 					}
-				},
-				"m_pBonesAndCollisionResource": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "0017416135CF879C",
-						"flag": "5F"
-					}
-				},
-				"m_bUsePerVertexStiffness": {
-					"type": "bool",
-					"value": false
-				},
-				"m_LocalColliders": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-
-					]
-				},
-				"m_bGlobalCollidersEnabled": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bUsePerVertexDamping": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bUseSkinningPosNormalConstrains": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bUseSkinningNegNormalConstrains": {
-					"type": "bool",
-					"value": false
-				},
-				"m_fLODOffset": {
-					"type": "float32",
-					"value": 100
-				},
-				"m_bLimitTranslation": {
-					"type": "bool",
-					"value": false
-				},
-				"m_fDamping": {
-					"type": "float32",
-					"value": 0.5
-				},
-				"m_fWindConstant": {
-					"type": "float32",
-					"value": 0.10000000149011612
-				},
-				"m_eRootBone": {
-					"type": "BoneId.Enum",
-					"value": "PELVIS"
-				},
-				"m_bEnableAngularVelocityScale": {
-					"type": "bool",
-					"value": true
-				},
-				"m_eBendConstrainType": {
-					"type": "EClothBendConstrainType",
-					"value": "eClothBendConstrainType_Stick"
-				},
-				"m_fBendStiffness": {
-					"type": "float32",
-					"value": 0.5
-				},
-				"m_fShearStiffness": {
-					"type": "float32",
-					"value": 0.20000000298023224
-				},
-				"m_fFrequency": {
-					"type": "float32",
-					"value": 60
-				},
-				"m_nIterations": {
-					"type": "uint32",
-					"value": 4
-				},
-				"m_eStretchConstrainType": {
-					"type": "EClothStretchConstrainType",
-					"value": "eClothBendConstrainType_None"
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
 				},
 				"m_aBodyParts": {
 					"type": "TArray<SEntityTemplateReference>",
@@ -516,7 +444,8 @@
 						"637003535601e69a",
 						"a4d89cb4392bcf9b",
 						"d7920184b78105af",
-						"feed5a19b7f4fe6d"
+						"feed5a19b7f4fe6d",
+						"feedc1bc54e571e0"
 					],
 					"postInit": true
 				}
@@ -636,6 +565,21 @@
 				"Diffuse_Color_01_Value": {
 					"type": "SColorRGB",
 					"value": "#6373a7"
+				}
+			}
+		},
+		"feedc1bc54e571e0": {
+			"parent": "c1e434f458c274df",
+			"name": "Mesh_Accessories04",
+			"factory": "[modules:/zbodypartentity.class].pc_entitytype",
+			"blueprint": "[modules:/zbodypartentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pMeshResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/holster_01.weightedprim](bodypart).pc_weightedprim",
+						"flag": "5F"
+					}
 				}
 			}
 		}

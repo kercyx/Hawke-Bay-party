@@ -525,7 +525,8 @@
 						"a4d89cb4392bcf9b",
 						"d7920184b78105af",
 						"feed5a19b7f4fe6d",
-						"feed0d37abb77dee"
+						"feed0d37abb77dee",
+						"feed96acf402550b"
 					],
 					"postInit": true
 				}
@@ -669,6 +670,21 @@
 				"ConstantColorRGB_03_Value": {
 					"type": "SColorRGB",
 					"value": "#4c453f"
+				}
+			}
+		},
+		"feed96acf402550b": {
+			"parent": "c1e434f458c274df",
+			"name": "Mesh_Accessories04",
+			"factory": "[modules:/zbodypartentity.class].pc_entitytype",
+			"blueprint": "[modules:/zbodypartentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pMeshResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/characters/assets/guards/globalsecurity_01/geometry/malereg_globalsecurity.wl2?/holster_01.weightedprim](bodypart).pc_weightedprim",
+						"flag": "5F"
+					}
 				}
 			}
 		}
