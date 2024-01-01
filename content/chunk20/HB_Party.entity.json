@@ -63060,6 +63060,955 @@
 					"value": "ROOM_DYNAMIC"
 				}
 			}
+		},
+		"feedbc0167b85b05": {
+			"parent": "feed16c61db14963",
+			"name": "roundabout_planterbox_a",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/roundabout_planterbox_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/roundabout_planterbox_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -33.99614348456554
+						},
+						"position": {
+							"x": -51.001853942871094,
+							"y": 43.706016540527344,
+							"z": 2.5636632442474365
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedb377c207c223": {
+			"parent": "feed16c61db14963",
+			"name": "roundabout_a",
+			"factory": "00C5E251A177C84B",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -131.60769185523662
+						},
+						"position": {
+							"x": -50.75437927246094,
+							"y": 43.71732711791992,
+							"z": 3.2157907485961914
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1.34483003616333
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed6336da4b2d9f": {
+			"parent": "feedb377c207c223",
+			"name": "modern_winery_roundabout_a_01",
+			"factory": "[assembly:/_pro/_test/martinsa/setpieces_test.template?/modern_winery_roundabout_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_test/martinsa/setpieces_test.template?/modern_winery_roundabout_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 131.60778686905942
+						},
+						"position": {
+							"x": 0.006773000117391348,
+							"y": -0.0020099999383091927,
+							"z": -0.15063799917697906
+						},
+						"scale": {
+							"x": 1.000000457108861,
+							"y": 1.000000457108861,
+							"z": 1
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedb377c207c223"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"fffffffffffffffe"
+				]
+			}
+		},
+		"feed44d31d73c424": {
+			"parent": "feedc8110ea66f8d",
+			"name": "BIG tree",
+			"factory": "00FFAFF82A2DC311",
+			"blueprint": "006BD2FBA9510838",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 128.7592110464153
+						},
+						"position": {
+							"x": 19.664249420166016,
+							"y": -197.9788055419922,
+							"z": -21.92207908630371
+						},
+						"scale": {
+							"x": 1.0000004517568541,
+							"y": 1.0000004517568541,
+							"z": 1
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"MainLoopEvent": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00CB451E5FFD27B0",
+						"flag": "5F"
+					}
+				},
+				"WindEvent": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				},
+				"WindBurst": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				},
+				"m_bValue": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"fffffffffffffffe"
+				]
+			}
+		},
+		"feedb4af230d974c": {
+			"parent": "feed44d31d73c424",
+			"name": "FX_E_Leaves_Falling_Elegant_12",
+			"factory": "[assembly:/_pro/effects/templates/misc/fx_leaves.template?/fx_e_leaves_falling_elegant.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/misc/fx_leaves.template?/fx_e_leaves_falling_elegant.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 4.174210764504095,
+							"y": -1.8825053212236955,
+							"z": 2.7062309530216795
+						},
+						"position": {
+							"x": 4.557253837585449,
+							"y": -2.044203996658325,
+							"z": 23.315109252929688
+						},
+						"scale": {
+							"x": 1.0000000940507356,
+							"y": 1.0000001197731783,
+							"z": 0.9999998792973839
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed44d31d73c424"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"fffffffffffffffe"
+				]
+			}
+		},
+		"feed35c5b0c6737e": {
+			"parent": "feedc8110ea66f8d",
+			"name": "Sculptures",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"feed055e2ccdb50b": {
+			"parent": "feed35c5b0c6737e",
+			"name": "llama_geometrical_sculpture_d_02",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_d.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_d.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -26.60589514961407
+						},
+						"position": {
+							"x": 16.06294059753418,
+							"y": -206.2563018798828,
+							"z": -7.205465793609619
+						},
+						"scale": {
+							"x": 0.9999996312320221,
+							"y": 0.9999996312320221,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5040000081062317,
+						"y": 0.5040000081062317,
+						"z": 0.5040000081062317
+					}
+				}
+			}
+		},
+		"feed94228d23be74": {
+			"parent": "feed35c5b0c6737e",
+			"name": "llama_geometrical_sculpture_b",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"2295380355": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/levels/llama/llama_dark_metal_tileable_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"4171487513": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/levels/llama/llama_copper_trims_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 8.856627464294434,
+							"y": -172.9683074951172,
+							"z": -7.206171035766602
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.225000023841858,
+						"y": 1.225000023841858,
+						"z": 1.225000023841858
+					}
+				},
+				"assembly:/_pro/environment/materials/levels/llama/llama_copper_tileable_a.mi": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/_licensed/quixel/materials/generic/metal/llama_copper_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_b_7ef8643e82a24eeba35f84802af9865b.vertexpaint].vertexpaint"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_b_7ef8643e82a24eeba35f84802af9865b.vertexdata].pc_vertexdata",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		"feedee3772a6aefe": {
+			"parent": "feed35c5b0c6737e",
+			"name": "llama_geometrical_sculpture_a",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"4171487513": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/levels/llama/llama_copper_trims_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 79.66553229387847
+						},
+						"position": {
+							"x": 3.843337059020996,
+							"y": -162.00680541992188,
+							"z": -20.399940490722656
+						},
+						"scale": {
+							"x": 0.9999993690120768,
+							"y": 0.9999993690120768,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.4249999523162842,
+						"y": 1.4249999523162842,
+						"z": 1.4249999523162842
+					}
+				},
+				"assembly:/_pro/environment/materials/levels/llama/llama_copper_tileable_a.mi": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/_licensed/quixel/materials/generic/metal/llama_copper_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_a_1c942bcfd0534733bd847f8c3c76acc2.vertexpaint].vertexpaint"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_a_1c942bcfd0534733bd847f8c3c76acc2.vertexdata].pc_vertexdata",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		"feedee1ab21d150a": {
+			"parent": "feed35c5b0c6737e",
+			"name": "llama_geometrical_sculpture_c",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_geometrical_sculpture_a.template?/llama_geometrical_sculpture_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"2295380355": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/levels/llama/llama_dark_metal_tileable_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 35.7688107173845
+						},
+						"position": {
+							"x": -27.69709014892578,
+							"y": -111.11820220947266,
+							"z": -7.206348896026611
+						},
+						"scale": {
+							"x": 0.999999684104445,
+							"y": 0.999999684104445,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1,
+						"y": 1,
+						"z": 1
+					}
+				},
+				"assembly:/_pro/environment/materials/levels/llama/llama_copper_tileable_a.mi": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/_licensed/quixel/materials/generic/metal/llama_copper_oxidized_blend_a.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_c_1020a0357f874a9fa8fb8bb92c62721d.vertexpaint].vertexpaint"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_c_1020a0357f874a9fa8fb8bb92c62721d.vertexdata].pc_vertexdata",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		"feed1320a1b51c4d": {
+			"parent": "feed16c61db14963",
+			"name": "modern_windery_planterbox_g_01",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_g.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_g.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 54.71759430203538
+						},
+						"position": {
+							"x": 0.24299800395965576,
+							"y": -187.5928955078125,
+							"z": -7.206352233886719
+						},
+						"scale": {
+							"x": 0.9999999902945618,
+							"y": 0.9999999902945618,
+							"z": 1
+						}
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_g_01_8ebd639f49324badbdfb793f0c2fec00.vertexpaint].vertexpaint"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_g_01_8ebd639f49324badbdfb793f0c2fec00.vertexdata].pc_vertexdata",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feeda46f9225ce79": {
+			"parent": "feed16c61db14963",
+			"name": "modern_windery_planterbox_g",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_g.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_g.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.0000068301724784617504
+						},
+						"position": {
+							"x": -38.17189025878906,
+							"y": -88.66500091552734,
+							"z": -0.039619918912649155
+						},
+						"scale": {
+							"x": 1.0000000000000142,
+							"y": 1.0000000000000142,
+							"z": 1
+						}
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_g_69e2d5fd02c24a32867096b3622910ef.vertexpaint].vertexpaint"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_g_69e2d5fd02c24a32867096b3622910ef.vertexdata].pc_vertexdata",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feede65dff1b91e1": {
+			"parent": "feed16c61db14963",
+			"name": "modern_windery_planterbox_f",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_f.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_f.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.0000068301724784617504
+						},
+						"position": {
+							"x": -27.57649040222168,
+							"y": -76.19699096679688,
+							"z": -0.039619918912649155
+						},
+						"scale": {
+							"x": 1.0000000000000142,
+							"y": 1.0000000000000142,
+							"z": 1
+						}
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_f_90f27b9fca1844108950849c16125f20.vertexpaint].vertexpaint"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed4539d267c519": {
+			"parent": "feed16c61db14963",
+			"name": "modern_windery_planterbox_i",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_i.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_i.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.0000068301724784617504
+						},
+						"position": {
+							"x": -38.17189025878906,
+							"y": -88.66500091552734,
+							"z": -0.039619918912649155
+						},
+						"scale": {
+							"x": 1.0000000000000142,
+							"y": 1.0000000000000142,
+							"z": 1
+						}
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_i_499ad5cbe6da416da613f129485001af.vertexpaint].vertexpaint"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_i_499ad5cbe6da416da613f129485001af.vertexdata].pc_vertexdata",
+						"flag": "5F"
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feedff0ab5d2b9ce": {
+			"parent": "feed16c61db14963",
+			"name": "modern_windery_planterbox_a",
+			"factory": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/levels/llama/llama_modern_winery_terrace_assets.template?/modern_windery_planterbox_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -102.68015368095143
+						},
+						"position": {
+							"x": -57.970436096191406,
+							"y": 62.28789520263672,
+							"z": 3.2960729598999023
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			}
+		},
+		"feed16dc1f904c86": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_b_02",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 34.17600437342251
+						},
+						"position": {
+							"x": -2.628117084503174,
+							"y": 4.788825988769531,
+							"z": 0.3889569938182831
+						},
+						"scale": {
+							"x": 1.000000199177613,
+							"y": 1.000000199177613,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9845000505447388,
+						"y": 1.9845000505447388,
+						"z": 1.9845000505447388
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce",
+					"postInit": true
+				}
+			}
+		},
+		"feed4e89686c4cd9": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_square_top_a_11",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_square_top_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_square_top_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 71.16941130792603
+						},
+						"position": {
+							"x": -1.0589599609375,
+							"y": 2.3109281063079834,
+							"z": 1.0362520217895508
+						},
+						"scale": {
+							"x": 0.9999998305460238,
+							"y": 0.9999998305460238,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.2295401096343994,
+						"y": 1.8257900476455688,
+						"z": 2.1338601112365723
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce",
+					"postInit": true
+				}
+			}
+		},
+		"feed6de52027a0ff": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_square_top_a_12",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_square_top_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_square_top_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 139.43831835601094
+						},
+						"position": {
+							"x": -2.5006470680236816,
+							"y": -2.9479598999023438,
+							"z": 1.0362520217895508
+						},
+						"scale": {
+							"x": 0.999999097309658,
+							"y": 0.999999097309658,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.2295401096343994,
+						"y": 1.8257900476455688,
+						"z": 2.1338601112365723
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce",
+					"postInit": true
+				}
+			}
+		},
+		"feed17377bedbda9": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_square_top_a_10",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_square_top_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_square_top_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 49.65197124375517
+						},
+						"position": {
+							"x": -1.9739669561386108,
+							"y": 3.8593978881835938,
+							"z": 1.0362520217895508
+						},
+						"scale": {
+							"x": 1.000000379703696,
+							"y": 1.000000379703696,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.2295401096343994,
+						"y": 1.8257900476455688,
+						"z": 2.1338601112365723
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce",
+					"postInit": true
+				}
+			}
+		},
+		"feed2739e37ee656": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_b_04",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 161.7835792517234
+						},
+						"position": {
+							"x": -3.4207420349121094,
+							"y": -3.8756330013275146,
+							"z": 0.21001000702381134
+						},
+						"scale": {
+							"x": 0.9999988890152522,
+							"y": 0.9999988890152522,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9845000505447388,
+						"y": 1.9845000505447388,
+						"z": 1.9845000505447388
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce"
+				}
+			}
+		},
+		"feed63e5e1a82551": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_b_03",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0006576204611505904,
+							"y": 16.58753165659164,
+							"z": 119.15396877917595
+						},
+						"position": {
+							"x": -1.2295360565185547,
+							"y": -1.9636000394821167,
+							"z": 0.25142601132392883
+						},
+						"scale": {
+							"x": 0.9999998048810401,
+							"y": 0.9999990649550103,
+							"z": 1.0000006166959095
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9845000505447388,
+						"y": 1.9845000505447388,
+						"z": 1.9845000505447388
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce"
+				}
+			}
+		},
+		"feed40df08a4bf3e": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_b_01",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 86.52798744730086
+						},
+						"position": {
+							"x": -0.4699229896068573,
+							"y": 1.3007739782333374,
+							"z": 0.2315720021724701
+						},
+						"scale": {
+							"x": 1.0000010248735869,
+							"y": 1.0000010248735869,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9845000505447388,
+						"y": 1.9845000505447388,
+						"z": 1.9845000505447388
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce"
+				}
+			}
+		},
+		"feed6269d5ccd768": {
+			"parent": "feedff0ab5d2b9ce",
+			"name": "quixel_ivy_climber_b_05",
+			"factory": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/_licensed/quixel/templates/quixel_nature_rocks_a.template?/quixel_ivy_climber_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 102.1346618169058
+						},
+						"position": {
+							"x": -0.863090991973877,
+							"y": -1.0586930513381958,
+							"z": -0.06378199905157089
+						},
+						"scale": {
+							"x": 0.9999995098691921,
+							"y": 0.9999995098691921,
+							"z": 1
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.9845000505447388,
+						"y": 1.9845000505447388,
+						"z": 1.9845000505447388
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedff0ab5d2b9ce"
+				}
+			}
+		},
+		"feed16c61db14963": {
+			"parent": "feedc8110ea66f8d",
+			"name": "Cactus",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
 		}
 	},
 	"propertyOverrides": [
