@@ -51685,186 +51685,6 @@
 				}
 			}
 		},
-		"abcd16248401bc04": {
-			"parent": "abcd5810e6df6c1e",
-			"name": "sunbed_wooden_b_09",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/terrasse_furniture_a.template?/sunbed_wooden_b.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 1.8232750295921218
-						},
-						"position": {
-							"x": -31.267832,
-							"y": -133.21498,
-							"z": -5.620886
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcd39e7ce9a7da5": {
-			"parent": "abcd16248401bc04",
-			"name": "Cushion_Modern_A_Tintable_SizeC_00_01",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 124.3445354993623,
-							"y": -0.00011459155873692516,
-							"z": 0.42078400367201724
-						},
-						"position": {
-							"x": 0.02639799937605858,
-							"y": 0.5041030049324036,
-							"z": 0.681672990322113
-						}
-					}
-				},
-				"ConstantColorRGB_02_Value": {
-					"type": "SColorRGB",
-					"value": "#94e6ff"
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.800000011920929,
-						"y": 0.800000011920929,
-						"z": 0.800000011920929
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd16248401bc04",
-					"postInit": true
-				}
-			}
-		},
-		"abcd76bec52726b3": {
-			"parent": "abcd16248401bc04",
-			"name": "CollisionBox",
-			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -0.001281999982893467,
-							"y": -0.19872300326824188,
-							"z": 0.06890299916267395
-						}
-					}
-				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.0494400262832642,
-						"y": 2.2355899810791016,
-						"z": 1.1378099918365479
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd16248401bc04",
-					"postInit": true
-				}
-			}
-		},
-		"abcd7c5e94bb94c9": {
-			"parent": "abcd16248401bc04",
-			"name": "Hat_Wicker_A_00",
-			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/hat_wicker_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/hat_wicker_a_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 92.32363640556488
-						},
-						"position": {
-							"x": 0.015838999301195145,
-							"y": -0.7804650068283081,
-							"z": 0.4900420010089874
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd16248401bc04",
-					"postInit": true
-				}
-			}
-		},
-		"abcdc61b6bddf04c": {
-			"parent": "abcd16248401bc04",
-			"name": "Cushion_Modern_A_Tintable_SizeC_00_02",
-			"factory": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/bedrooms_furniture_a.template?/cushion_modern_a_tintable_sizec_00.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 147.5523101559652,
-							"y": -0.42055479858915806,
-							"z": 0.5059419501718735
-						},
-						"position": {
-							"x": 0.01809700019657612,
-							"y": 0.17165100574493408,
-							"z": 0.6271669864654541
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999998,
-							"z": 1
-						}
-					}
-				},
-				"ConstantColorRGB_02_Value": {
-					"type": "SColorRGB",
-					"value": "#94e6ff"
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.800000011920929,
-						"y": 0.800000011920929,
-						"z": 0.800000011920929
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd16248401bc04"
-				}
-			}
-		},
 		"abcd39a8dea3d327": {
 			"parent": "abcd5810e6df6c1e",
 			"name": "sunbed_wooden_b_03",
@@ -54730,6 +54550,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_bKinematic": {
+					"type": "bool",
+					"value": false
 				}
 			},
 			"subsets": {
@@ -56722,123 +56546,6 @@
 				}
 			}
 		},
-		"feed4fbce5a354f1": {
-			"parent": "feedec46dc690280",
-			"name": "SunTanningChair_A",
-			"factory": "00A536E8503CF831",
-			"blueprint": "008B4D10587511C5",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0.2977469868477535,
-							"y": -0.23193939689174659,
-							"z": 8.115053113457838
-						},
-						"position": {
-							"x": 60.51702117919922,
-							"y": -132.222900390625,
-							"z": -5.964982986450195
-						}
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feedf369791c0251": {
-			"parent": "feed4fbce5a354f1",
-			"name": "PFBox",
-			"factory": "[modules:/zpfboxentity.class].pc_entitytype",
-			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -0.5580735182185506
-						},
-						"position": {
-							"x": 0.05662718042731285,
-							"y": 0.013310539536178112,
-							"z": -0.5748805999755859
-						},
-						"scale": {
-							"x": 1.0000004574070542,
-							"y": 1.0000004574070542,
-							"z": 1
-						}
-					}
-				},
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 2.3803799152374268,
-						"y": 0.6440100073814392,
-						"z": 1.2931499481201172
-					}
-				},
-				"m_eType": {
-					"type": "EPathFinderBoxType",
-					"value": "PFBT_EXCLUDE_MESH_COLLISION"
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "feed199420407321",
-					"postInit": true
-				}
-			}
-		},
-		"feed199420407321": {
-			"parent": "feed4fbce5a354f1",
-			"name": "CollisionBox",
-			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0.003051913141672534,
-							"y": -1.6002093093273695,
-							"z": -90.1759061721495
-						},
-						"position": {
-							"x": -0.05056687816977501,
-							"y": 0.17093069851398468,
-							"z": 0.7493790984153748
-						},
-						"scale": {
-							"x": 0.9999996628425833,
-							"y": 0.9999997540080714,
-							"z": 0.9999999903791348
-						}
-					}
-				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 2.3140599727630615,
-						"y": 0.7467970252037048,
-						"z": 2.071160078048706
-					}
-				},
-				"m_bCollideHitman": {
-					"type": "bool",
-					"value": true
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "feed4fbce5a354f1",
-					"postInit": true
-				}
-			}
-		},
 		"feed79dbd990689e": {
 			"parent": "feedec46dc690280",
 			"name": "SunTanningChair_B",
@@ -56849,14 +56556,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -1.5982383454989268,
-							"y": -0.021780081401370416,
-							"z": 3.5672608828239007
+							"x": -1.5982383324084788,
+							"y": -0.021780080878415545,
+							"z": 3.5672609544305045
 						},
 						"position": {
-							"x": 52.964027404785156,
-							"y": -132.93272399902344,
-							"z": -5.921631813049316
+							"x": 52.482994,
+							"y": -132.93272,
+							"z": -5.921632
 						}
 					}
 				},
@@ -61432,14 +61139,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 1.2339390873749192,
-							"y": 0.0638386964518815,
-							"z": -79.53385230287057
+							"x": 1.2337807189570678,
+							"y": 0.063836615509592,
+							"z": -90.19967625467432
 						},
 						"position": {
-							"x": 225.21102905273438,
-							"y": -138.98724365234375,
-							"z": -5.342078685760498
+							"x": 223.98169,
+							"y": -127.99891,
+							"z": -3.4631743
 						}
 					}
 				},
@@ -61467,14 +61174,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 1.1355150145014579,
-							"y": 0.053446077922960085,
-							"z": -177.43107186295194
+							"x": -3.041204907198,
+							"y": -3.998809808551658,
+							"z": 3.5675198612887304
 						},
 						"position": {
-							"x": 237.28579711914062,
-							"y": -145.43630981445312,
-							"z": -5.382087230682373
+							"x": 234.12807,
+							"y": -115.074295,
+							"z": -4.6692467
 						}
 					}
 				},
@@ -62760,7 +62467,7 @@
 			}
 		},
 		"feed4b9cabd1581f": {
-			"parent": "feedec46dc690280",
+			"parent": "abcd5810e6df6c1e",
 			"name": "Towels",
 			"factory": "[modules:/zentity.class].pc_entitytype",
 			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
@@ -62829,14 +62536,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 6.036865007544654,
-							"y": 0.6575922862223152,
-							"z": -174.3870874473721
+							"x": -10.056038849911937,
+							"y": -8.562864728472416,
+							"z": 5.318058285418682
 						},
 						"position": {
-							"x": 73.1613540649414,
-							"y": -124.59693145751953,
-							"z": -5.248445510864258
+							"x": 84.10418,
+							"y": -122.23813,
+							"z": -5.4461684
 						}
 					}
 				},
@@ -62856,14 +62563,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 6.909802324491384,
-							"y": -0.27675391112096126,
-							"z": 173.6826232469679
+							"x": -1.4773314976596768,
+							"y": -0.011022788900986673,
+							"z": 0.8549369128446117
 						},
 						"position": {
-							"x": 71.71263885498047,
-							"y": -124.51759338378906,
-							"z": -5.2157697677612305
+							"x": 81.58649,
+							"y": -126.431366,
+							"z": -5.797562
 						}
 					}
 				},
@@ -63073,12 +62780,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": -33.99614348456554
+							"z": -70.26821436971497
 						},
 						"position": {
-							"x": -51.001853942871094,
-							"y": 43.706016540527344,
-							"z": 2.5636632442474365
+							"x": 175.1988,
+							"y": -68.03434,
+							"z": -3.6933093
 						}
 					}
 				},
@@ -63086,78 +62793,6 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				}
-			}
-		},
-		"feedb377c207c223": {
-			"parent": "feed16c61db14963",
-			"name": "roundabout_a",
-			"factory": "00C5E251A177C84B",
-			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -131.60769185523662
-						},
-						"position": {
-							"x": -50.75437927246094,
-							"y": 43.71732711791992,
-							"z": 3.2157907485961914
-						}
-					}
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 1,
-						"y": 1,
-						"z": 1.34483003616333
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"feed6336da4b2d9f": {
-			"parent": "feedb377c207c223",
-			"name": "modern_winery_roundabout_a_01",
-			"factory": "[assembly:/_pro/_test/martinsa/setpieces_test.template?/modern_winery_roundabout_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/_test/martinsa/setpieces_test.template?/modern_winery_roundabout_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 131.60778686905942
-						},
-						"position": {
-							"x": 0.006773000117391348,
-							"y": -0.0020099999383091927,
-							"z": -0.15063799917697906
-						},
-						"scale": {
-							"x": 1.000000457108861,
-							"y": 1.000000457108861,
-							"z": 1
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "feedb377c207c223"
-				}
-			},
-			"subsets": {
-				"AudioEmitters": [
-					"fffffffffffffffe"
-				]
 			}
 		},
 		"feed44d31d73c424": {
@@ -63279,17 +62914,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": -26.60589514961407
+							"z": 96.48806066877582
 						},
 						"position": {
-							"x": 16.06294059753418,
-							"y": -206.2563018798828,
-							"z": -7.205465793609619
-						},
-						"scale": {
-							"x": 0.9999996312320221,
-							"y": 0.9999996312320221,
-							"z": 1
+							"x": -44.445446,
+							"y": -132.44379,
+							"z": -5.55156
 						}
 					}
 				},
@@ -63300,6 +62930,10 @@
 						"y": 0.5040000081062317,
 						"z": 0.5040000081062317
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			}
 		},
@@ -63329,12 +62963,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 0
+							"z": 123.85959297511668
 						},
 						"position": {
-							"x": 8.856627464294434,
-							"y": -172.9683074951172,
-							"z": -7.206171035766602
+							"x": 140.81532,
+							"y": -78.489204,
+							"z": -2.7374113
 						}
 					}
 				},
@@ -63363,6 +62997,10 @@
 						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_b_7ef8643e82a24eeba35f84802af9865b.vertexdata].pc_vertexdata",
 						"flag": "5F"
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			}
 		},
@@ -63385,17 +63023,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 79.66553229387847
+							"z": 4.646502133391981
 						},
 						"position": {
-							"x": 3.843337059020996,
-							"y": -162.00680541992188,
-							"z": -20.399940490722656
-						},
-						"scale": {
-							"x": 0.9999993690120768,
-							"y": 0.9999993690120768,
-							"z": 1
+							"x": 161.47299,
+							"y": -114.20703,
+							"z": -1.1007695
 						}
 					}
 				},
@@ -63424,6 +63057,10 @@
 						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_a_1c942bcfd0534733bd847f8c3c76acc2.vertexdata].pc_vertexdata",
 						"flag": "5F"
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			}
 		},
@@ -63446,17 +63083,12 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 35.7688107173845
+							"z": 75.72380064850597
 						},
 						"position": {
-							"x": -27.69709014892578,
-							"y": -111.11820220947266,
-							"z": -7.206348896026611
-						},
-						"scale": {
-							"x": 0.999999684104445,
-							"y": 0.999999684104445,
-							"z": 1
+							"x": 63.85795,
+							"y": -63.240173,
+							"z": -1.3588647
 						}
 					}
 				},
@@ -63485,6 +63117,10 @@
 						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/llama_geometrical_sculpture_c_1020a0357f874a9fa8fb8bb92c62721d.vertexdata].pc_vertexdata",
 						"flag": "5F"
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			}
 		},

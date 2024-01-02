@@ -1,7 +1,7 @@
 {
-	"version": "1.3.0",
+	"version": "0.6.0",
 	"id": "Kercyx.HawkeBayParty2",
-	"name": "Hawke's Bay Festival'",
+	"name": "Hawke's Bay Festival",
 	"description": "A fun day out at a New Zealand beach",
 	"authors": [
 		"kercyx"
@@ -634,16 +634,6 @@
 		},
 		{
 			"runtimeID":"00213A14173627AB",
-			"toChunk": 9,
-			"comment":  "cactus round from Mendozer"
-		},
-		{
-			"runtimeID":"00C5E251A177C84B",
-			"toChunk": 9,
-			"comment":  "cactus round from Mendozer"
-		},
-		{
-			"runtimeID":"0002BCAA00400596",
 			"toChunk": 9,
 			"comment":  "cactus round from Mendozer"
 		},
