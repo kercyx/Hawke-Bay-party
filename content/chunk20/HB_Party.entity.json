@@ -27325,28 +27325,28 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 10.256083991644209,
-							"y": 6.188635050802154,
-							"z": 47.139493122948465
+							"x": -4.107972453187741,
+							"y": -9.295199318828475,
+							"z": 46.74474575496216
 						},
 						"position": {
-							"x": 47.5737,
-							"y": -8.801501,
+							"x": 55.01234,
+							"y": -9.148412,
 							"z": -1.5369852
 						}
 					}
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 100
+					"value": 400
 				},
 				"GlowColorA": {
 					"type": "SColorRGB",
-					"value": "#d54dfa"
+					"value": "#df2a2a"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 25
+					"value": 125
 				},
 				"GlowColorB": {
 					"type": "SColorRGB",
@@ -63925,11 +63925,11 @@
 				},
 				"m_OutfitRepositoryID": {
 					"type": "ZGuid",
-					"value": "b210be64-ea03-4983-aa0f-8d18882a23c7"
+					"value": "d01c8adc-735c-44f0-9105-b28d85062def"
 				},
 				"m_nOutfitVariation": {
 					"type": "int32",
-					"value": 1
+					"value": 0
 				},
 				"m_sActorName": {
 					"type": "ZString",
@@ -64754,6 +64754,302 @@
 					]
 				}
 			}
+		},
+		"feedee4162b2de43": {
+			"parent": "feed6ae0a17e2ba5",
+			"name": "Sheep_Guard_BodyGuard_M",
+			"factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
+			"blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
+			"properties": {
+				"m_DamageMultipliers": {
+					"type": "SBodyPartDamageMultipliers",
+					"value": {
+						"m_fHeadDamageMultiplier": 3,
+						"m_fFaceDamageMultiplier": 3,
+						"m_fArmDamageMultiplier": 1,
+						"m_fLArmDamageScalar": 0,
+						"m_fRArmDamageScalar": 0,
+						"m_fHandDamageMultiplier": 0.5,
+						"m_fLHandDamageScalar": 0,
+						"m_fRHandDamageScalar": 0,
+						"m_fLegDamageMultiplier": 0.6000000238418579,
+						"m_fLLegDamageScalar": 0,
+						"m_fRLegDamageScalar": 0,
+						"m_fTorsoDamageMultiplier": 1,
+						"m_bApplyLeftRightScalars": false
+					}
+				},
+				"m_bHeroDisguiseAvailable": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bWeaponsAllowed": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eSoundFootwearType": {
+					"type": "EHM5SoundFootwearType",
+					"value": "EFWT_LEATHER"
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "d01c8adc-735c-44f0-9105-b28d85062def"
+				},
+				"m_pParentOutfit": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "1357f3657950d38e",
+						"externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+					}
+				},
+				"m_sCommonName": {
+					"type": "ZString",
+					"value": "Bangkok_Guard_CrossBodyGuard_M_HPA1062"
+				},
+				"m_sTitle": {
+					"type": "ZString",
+					"value": "Bodyguard"
+				},
+				"m_eOutfitAICategory": {
+					"type": "EOutfitAICategory",
+					"value": "OAC_Bodyguard"
+				},
+				"m_rNameTextResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_greenland.sweetmenutext?/outfits_greenland_guard_bodyguard_m_hpa2055_name_cf170965-5582-48d7-8dd7-774ae0a144dd.sweetline].pc_sweetline",
+						"flag": "5F"
+					}
+				},
+				"m_rDescriptionTextResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_greenland.sweetmenutext?/outfits_greenland_guard_bodyguard_m_hpa2055_description_cf170965-5582-48d7-8dd7-774ae0a144dd.sweetline].pc_sweetline",
+						"flag": "5F"
+					}
+				},
+				"m_aCharSets": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feeddb7de32a51b4"
+					],
+					"postInit": true
+				},
+				"m_aAnimationSets": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedd4f400b645b6",
+						"feed5247847ae33d",
+						"feed9f16a4cf7860"
+					],
+					"postInit": true
+				},
+				"m_AvailableWeaponKeys": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedfde33f976a0e",
+						"feed043237671fed",
+						"feed912920565a24",
+						"feed2d7b653d0403"
+					],
+					"postInit": true
+				},
+				"m_aWeaponsAllowedExceptionKeywords": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedaefb80a1f23b"
+					],
+					"postInit": true
+				},
+				"m_rDefaultVoiceVariations": {
+					"type": "TArray<EActorVoiceVariation>",
+					"value": [
+						"eAVV_BDYGRD04",
+						"eAVV_SPECOPS01",
+						"eAVV_SPECOPS02",
+						"eAVV_BDYGRD01",
+						"eAVV_BDYGRD02",
+						"eAVV_BDYGRD03",
+						"eAVV_BDYGRD05",
+						"eAVV_BDYGRD06",
+						"eAVV_BDYGRD07"
+					]
+				}
+			}
+		},
+		"feed1faebb280c8d": {
+			"parent": "feedee4162b2de43",
+			"name": "Prof_Sheep",
+			"factory": "[assembly:/_pro/design/actor/profession.template?/prof_sheep.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sheep.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedee4162b2de43"
+					]
+				}
+			}
+		},
+		"feed5247847ae33d": {
+			"parent": "feedee4162b2de43",
+			"name": "VRI_Bodyguard_AssaultRifle_Evacuate_VIP",
+			"factory": "[assembly:/_pro/design/actor/animvariation.template?/vri_bodyguard_assaultrifle_evacuate_vip.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/animvariation.template?/vri_bodyguard_assaultrifle_evacuate_vip.entitytemplate].pc_entityblueprint"
+		},
+		"feedfc82d2f27d36": {
+			"parent": "feedee4162b2de43",
+			"name": "Keyword_ActorIdentifier_Guard",
+			"factory": "[assembly:/_pro/design/actor/actoridentifierkeywords.template?/keyword_actoridentifier_guard.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/actoridentifierkeywords.template?/keyword_actoridentifier_guard.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedee4162b2de43"
+					]
+				}
+			}
+		},
+		"feedb01461e4bd31": {
+			"parent": "feedee4162b2de43",
+			"name": "KeywordEntity_FOLEY_BODYGUARD",
+			"factory": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_bodyguard.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_bodyguard.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rHolder": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee4162b2de43"
+				}
+			}
+		},
+		"feed699cec9b8ada": {
+			"parent": "feedee4162b2de43",
+			"name": "Prof_Bangkok_Guard_CrossBodyGuard",
+			"factory": "[assembly:/_pro/design/actor/profession.template?/prof_bangkok_guard_hotelsecurity.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_bangkok_guard_hotelsecurity.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedee4162b2de43"
+					]
+				}
+			}
+		},
+		"feed9f16a4cf7860": {
+			"parent": "feedee4162b2de43",
+			"name": "VRI_Bodyguard_Smg_Ump_Evacuate_VIP",
+			"factory": "[assembly:/_pro/design/actor/animvariation.template?/vri_bodyguard_smg_ump_evacuate_vip.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/animvariation.template?/vri_bodyguard_smg_ump_evacuate_vip.entitytemplate].pc_entityblueprint"
+		},
+		"feed2d7b653d0403": {
+			"parent": "feedee4162b2de43",
+			"name": "ItemKey_AssaultRifle01 NPC",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "d8aa6eba-0cb7-4ed4-ab99-975f2793d731"
+				}
+			}
+		},
+		"feed2cc429ee82b0": {
+			"parent": "feedee4162b2de43",
+			"name": "Keyword_Prof_Class_Guard_Light",
+			"factory": "003F8A8A859AE133",
+			"blueprint": "0059DEB85AA5AFED",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedee4162b2de43"
+					]
+				}
+			}
+		},
+		"feedaefb80a1f23b": {
+			"parent": "feedee4162b2de43",
+			"name": "Keyword_ITEM_SNIPER_RIFLE",
+			"factory": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_sniper_rifle.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/keywords/keyworditems.template?/keyword_item_sniper_rifle.entitytemplate].pc_entityblueprint"
+		},
+		"feed912920565a24": {
+			"parent": "feedee4162b2de43",
+			"name": "ItemKey_Shotgun01 NPC",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "901a3b51-51a0-4236-bdf2-23d20696b358"
+				}
+			}
+		},
+		"feed2e380f05288d": {
+			"parent": "feedee4162b2de43",
+			"name": "Keyword_Prof_Class_Default",
+			"factory": "007A51A2AFEC0D1A",
+			"blueprint": "00B0282A41C1CF2E",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedee4162b2de43"
+					]
+				}
+			}
+		},
+		"feed043237671fed": {
+			"parent": "feedee4162b2de43",
+			"name": "ItemKey_SMG02 NPC Shaurya",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "3fd9825d-8aa5-48e0-97a9-ec8f541f871a"
+				}
+			}
+		},
+		"feedfde33f976a0e": {
+			"parent": "feedee4162b2de43",
+			"name": "ItemKey_Pistol01 NPC",
+			"factory": "[modules:/zitemrepositorykeyentity.class].pc_entitytype",
+			"blueprint": "[modules:/zitemrepositorykeyentity.class].pc_entityblueprint",
+			"properties": {
+				"m_RepositoryId": {
+					"type": "ZGuid",
+					"value": "55ed7196-2303-4af6-9fa3-45b691134561"
+				}
+			}
+		},
+		"feedd4f400b645b6": {
+			"parent": "feedee4162b2de43",
+			"name": "VRI_Bodyguard_Pistol_Evacuate_VIP",
+			"factory": "[assembly:/_pro/design/actor/animvariation.template?/vri_bodyguard_pistol_evacuate_vip.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/animvariation.template?/vri_bodyguard_pistol_evacuate_vip.entitytemplate].pc_entityblueprint"
+		},
+		"feedd3ebc69d6cbe": {
+			"parent": "feedee4162b2de43",
+			"name": "prof_sheep_guard",
+			"factory": "[assembly:/_pro/design/actor/profession.template?/prof_sheep_guard.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_sheep_guard.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_aHolders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"feedee4162b2de43"
+					]
+				}
+			}
+		},
+		"feeddb7de32a51b4": {
+			"parent": "feedee4162b2de43",
+			"name": "CHARSET_BandSecurity_M",
+			"factory": "[assembly:/_pro/characters/templates/bangkok/char_bangkok_guards.template?/charset_bandsecurity_m.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/characters/templates/bangkok/char_bangkok_guards.template?/charset_bandsecurity_m.entitytemplate].pc_entityblueprint"
 		}
 	},
 	"propertyOverrides": [
@@ -64789,6 +65085,92 @@
 				"AmbBio_PublicZone": {
 					"type": "bool",
 					"value": true
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "c8121843cf010680",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "becbadf62eed1baa",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "698e82dc03763b90",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "285992e1198e6b40",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "071be87d90f9d818",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "ca69275e1b124d0d",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "3a5cd3d8bf170ae9",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "93c0b37ca79449a3",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "38cd8bc6e1a45185",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "d3c01cb81a6e52bb",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "374a0fb3a975dd45",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "e9d78975a6cfc4d7",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "8fcc200443c9c93f",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "65a8f0ebe04fd86e",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "0d1aa332d9aee826",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "c6c9d75be93cc0ce",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "691f2d86a3d43fa0",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "0c0cc33a46082843",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 130
 				}
 			}
 		}
