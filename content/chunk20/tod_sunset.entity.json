@@ -1845,11 +1845,252 @@
 					"value": 100
 				}
 			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "f57a3ea72b6f7466",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "657433de7865e667",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "a720aeb4fb324438",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "2897c5c64083d765",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "6cb2eaea0901c252",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "ca69275e1b124d0d",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "3a5cd3d8bf170ae9",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"DiffusePower": {
+					"type": "float32",
+					"value": 300
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 300
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "dae4df19cf8bb146",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"DiffusePower": {
+					"type": "float32",
+					"value": 200
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "c8121843cf010680",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "becbadf62eed1baa",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "698e82dc03763b90",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "285992e1198e6b40",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "071be87d90f9d818",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "ca69275e1b124d0d",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "3a5cd3d8bf170ae9",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "93c0b37ca79449a3",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "38cd8bc6e1a45185",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "d3c01cb81a6e52bb",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "374a0fb3a975dd45",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "e9d78975a6cfc4d7",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "8fcc200443c9c93f",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "65a8f0ebe04fd86e",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "0d1aa332d9aee826",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "c6c9d75be93cc0ce",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "691f2d86a3d43fa0",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "0c0cc33a46082843",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 130
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "0a5806864f4c11a3",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "b39f5d3ee0affeb7",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "29120560d80c1a3b",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "5ea07355454be3e1",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "6a25baa80f25c89e",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "f5d84f1497fb487e",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "e1a5e4251b665ed4",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "d1b22bb267b2a1c5",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "4b2d1c646a018ecf",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "c6b065cd2fdeb213",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},{
+					"ref": "6417eab6e2ad2f5d",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"DiffusePower": {
+					"type": "float32",
+					"value": 60
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 80
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "ff08789b33e82519",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"Spotlight_Inside_DiffusePower": {
+					"type": "float32",
+					"value": 150
+				},"Spotlight_DiffusePower": {
+					"type": "float32",
+					"value": 150
+				},"MainShadow": {
+					"type": "bool",
+					"value": true
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "de7ef23dbeecb830",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"DiffusePower": {
+					"type": "float32",
+					"value": 130
+				},"GlowPower": {
+					"type": "float32",
+					"value": 11130
+				},"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {"rotation":{"x":-0,"y":0,"z":44.27708378520118},"position":{"x":4.695598,"y":1.3138962,"z":0.99662924}}
+				}
+			}
 		}
 	],
 	"overrideDeletes": [
 		{
 			"ref": "fa25a9b475835a77",
+			"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+		},
+		{
+			"ref": "b64a4b2a3ad22fed",
+			"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+		},
+		{
+			"ref": "05894ce45156c57f",
 			"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
 		}
 	],
