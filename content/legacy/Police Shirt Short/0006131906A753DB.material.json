@@ -1,0 +1,65 @@
+{
+	"id": "0006131906A753DB",
+	"name": "facilityguard_shirt.mi",
+	"type": "Standard",
+	"class": "[[assembly:/_pro/characters/materialclasses/basic_fabric.materialclass].fx](dx11).pc_mate",
+	"descriptor": "[assembly:/_pro/effects/templates/materialdescriptors/fx_md_char_cloth.template?/fx_md_char_cloth.entitytemplate].pc_entityresource",
+	"classFlags": {
+		"lighting": true,
+		"primStandard": true,
+		"usesDefaultVS": true,
+		"usesSimpleShader": true
+	},
+	"instanceFlags": { "opaqueLit": true, "disableShaderLod": true },
+	"renderState": {
+		"enabled": true,
+		"blendEnabled": false,
+		"decalBlendDiffuse": 0,
+		"decalBlendNormal": 0,
+		"decalBlendSpecular": 0,
+		"decalBlendRoughness": 0,
+		"decalBlendEmission": 0,
+		"alphaTestEnabled": false,
+		"alphaReference": 255,
+		"fogEnabled": true,
+		"cullingMode": "DontCare",
+		"zBias": 0,
+		"zOffset": 0.0,
+		"subsurfaceRed": 2.3,
+		"subsurfaceGreen": 1.4,
+		"subsurfaceBlue": 1.1,
+		"subsurfaceValue": 10.0
+	},
+	"properties": {
+		"ConstantVector1D_06_Value": { "enabled": true, "value": 1.0 },
+		"gm_mTransform2D_01": {
+			"enabled": true,
+			"value": [1.0, -0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0]
+		},
+		"ConstantVector1D_14_Value": { "enabled": true, "value": 0.0 },
+		"ConstantVector1D_15_Value": { "enabled": true, "value": 0.5 },
+		"ConstantVector1D_01_Value": { "enabled": true, "value": 0.5 },
+		"Diffuse_Saturation_01_Value": { "enabled": true, "value": 1.0 },
+		"Diffuse_Hue_Shift_01_Value": { "enabled": true, "value": 0.0 },
+		"ConstantVector1D_03_Value": { "enabled": true, "value": 0.3 },
+		"ConstantVector1D_13_Value": { "enabled": true, "value": 0.0 },
+		"ConstantVector1D_05_Value": { "enabled": true, "value": 0.0 },
+		"ConstantVector1D_16_Value": { "enabled": true, "value": 0.5 },
+		"mapTexture2DNormal_01": {
+			"enabled": true,
+			"value": "00E55FA71A3F245C",
+			"type": "AsNormalMap"
+		},
+		"mapTexture2D_03": {
+			"enabled": true,
+			"value": "[assembly:/_pro/characters/assets/guards/rat/facilityguard_m/textures/rat_facilityguard_m_shirt.texture?/specular_a.tex](ascolormap).pc_tex",
+			"type": "AsColorMap"
+		},
+		"mapTexture2D_01": {
+			"enabled": true,
+			"value": "0011BCC47D1BF9E6",
+			"type": "AsColorMap"
+		},
+		"Diffuse_Color_01_Value": { "enabled": true, "value": "#ffffff" }
+	}
+}
