@@ -2,13 +2,21 @@
 	"id": "Kercyx.HawkeBayParty2",
 	"name": "Hawke's Bay Festival",
 	"description": "A fun day out at a New Zealand beach",
-	"authors": ["kercyx"],
+	"authors": [
+		"kercyx"
+	],
 	"version": "0.6.0",
 	"frameworkVersion": "3.0.0-rc.17",
 	"url": null,
-	"conditions": { "supportedGames": ["h3"] },
+	"conditions": {
+		"supportedGames": [
+			"h3"
+		]
+	},
 	"data": {
-		"contentFolders": ["content"],
+		"contentFolders": [
+			"content"
+		],
 		"packageDefinition": [
 			{
 				"partition": "sheep",
