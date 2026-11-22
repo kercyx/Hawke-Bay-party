@@ -1,1 +1,5 @@
-{"id": "[assembly:/_pro/scenes/missions/sheep/hb_crowd_outside.crmd].pc_crmd", "type": "CRMD", "references": []}
+{
+	"id": "[assembly:/_pro/scenes/missions/sheep/hb_crowd_outside.crmd].pc_crmd",
+	"type": "CRMD",
+	"references": []
+}

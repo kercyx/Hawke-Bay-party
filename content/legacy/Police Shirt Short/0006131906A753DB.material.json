@@ -10,7 +10,10 @@
 		"usesDefaultVS": true,
 		"usesSimpleShader": true
 	},
-	"instanceFlags": { "opaqueLit": true, "disableShaderLod": true },
+	"instanceFlags": {
+		"opaqueLit": true,
+		"disableShaderLod": true
+	},
 	"renderState": {
 		"enabled": true,
 		"blendEnabled": false,
@@ -31,20 +34,59 @@
 		"subsurfaceValue": 10.0
 	},
 	"properties": {
-		"ConstantVector1D_06_Value": { "enabled": true, "value": 1.0 },
+		"ConstantVector1D_06_Value": {
+			"enabled": true,
+			"value": 1.0
+		},
 		"gm_mTransform2D_01": {
 			"enabled": true,
-			"value": [1.0, -0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0]
+			"value": [
+				1.0,
+				-0.0,
+				0.0,
+				0.0,
+				0.0,
+				1.0,
+				0.0,
+				0.0
+			]
 		},
-		"ConstantVector1D_14_Value": { "enabled": true, "value": 0.0 },
-		"ConstantVector1D_15_Value": { "enabled": true, "value": 0.5 },
-		"ConstantVector1D_01_Value": { "enabled": true, "value": 0.5 },
-		"Diffuse_Saturation_01_Value": { "enabled": true, "value": 1.0 },
-		"Diffuse_Hue_Shift_01_Value": { "enabled": true, "value": 0.0 },
-		"ConstantVector1D_03_Value": { "enabled": true, "value": 0.3 },
-		"ConstantVector1D_13_Value": { "enabled": true, "value": 0.0 },
-		"ConstantVector1D_05_Value": { "enabled": true, "value": 0.0 },
-		"ConstantVector1D_16_Value": { "enabled": true, "value": 0.5 },
+		"ConstantVector1D_14_Value": {
+			"enabled": true,
+			"value": 0.0
+		},
+		"ConstantVector1D_15_Value": {
+			"enabled": true,
+			"value": 0.5
+		},
+		"ConstantVector1D_01_Value": {
+			"enabled": true,
+			"value": 0.5
+		},
+		"Diffuse_Saturation_01_Value": {
+			"enabled": true,
+			"value": 1.0
+		},
+		"Diffuse_Hue_Shift_01_Value": {
+			"enabled": true,
+			"value": 0.0
+		},
+		"ConstantVector1D_03_Value": {
+			"enabled": true,
+			"value": 0.3
+		},
+		"ConstantVector1D_13_Value": {
+			"enabled": true,
+			"value": 0.0
+		},
+		"ConstantVector1D_05_Value": {
+			"enabled": true,
+			"value": 0.0
+		},
+		"ConstantVector1D_16_Value": {
+			"enabled": true,
+			"value": 0.5
+		},
 		"mapTexture2DNormal_01": {
 			"enabled": true,
 			"value": "00E55FA71A3F245C",
@@ -60,6 +102,9 @@
 			"value": "0011BCC47D1BF9E6",
 			"type": "AsColorMap"
 		},
-		"Diffuse_Color_01_Value": { "enabled": true, "value": "#ffffff" }
+		"Diffuse_Color_01_Value": {
+			"enabled": true,
+			"value": "#ffffff"
+		}
 	}
 }

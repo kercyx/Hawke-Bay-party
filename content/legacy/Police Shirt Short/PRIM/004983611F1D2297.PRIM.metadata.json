@@ -1,1 +1,11 @@
-{"id":"004983611F1D2297","type":"PRIM","references":["[assembly:/_pro/characters/assets/guards/rat/facilityguard_m/geometry/male_reg_facilityguard.wl2?/facilityguard_shirt.weightedprim](bodypart).pc_bonerig",{"resource":"0006131906A753DB","type":"normal"}]}
+{
+	"id": "004983611F1D2297",
+	"type": "PRIM",
+	"references": [
+		"[assembly:/_pro/characters/assets/guards/rat/facilityguard_m/geometry/male_reg_facilityguard.wl2?/facilityguard_shirt.weightedprim](bodypart).pc_bonerig",
+		{
+			"resource": "0006131906A753DB",
+			"type": "normal"
+		}
+	]
+}
