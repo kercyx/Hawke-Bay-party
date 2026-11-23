@@ -1,0 +1,10 @@
+{
+	"id": "[assembly:/_pro/environment/geometry/levels/new_zealand/terrain_a.wl2?/terrain_c_03_flat.prim].pc_prim",
+	"type": "PRIM",
+	"references": [
+		{
+			"resource": "[assembly:/_pro/environment/materials/generic/ground/blend_dunegrass_sandbeach_sandsmooth.mi].pc_mi",
+			"type": "normal"
+		}
+	]
+}

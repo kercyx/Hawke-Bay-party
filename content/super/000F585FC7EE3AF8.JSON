@@ -174,12 +174,8 @@
 		"ScenePath": "assembly:/_pro/scenes/missions/sheep/scene_sheep.entity",
 		"Type": "mission",
 		"Release": "2.2.x",
-		"Drops": [
-			"ACCESS_HIT_FLAMINGO"
-		],
-		"Entitlements": [
-			"H2_LEGACY_STANDARD"
-		]
+		"Drops": [],
+		"Entitlements": []
 	},
 	"UserData": null
 }
