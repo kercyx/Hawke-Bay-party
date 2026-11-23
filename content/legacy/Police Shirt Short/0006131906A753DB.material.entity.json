@@ -17,15 +17,15 @@
 		},
 		"Diffuse_Color_01_Value": {
 			"type": "color",
-			"value": "ffffff"
+			"value": "#ffffff"
 		},
 		"ConstantVector1D_06_Value": {
 			"type": "float",
-			"value": 1.0
+			"value": 1
 		},
 		"ConstantVector1D_14_Value": {
 			"type": "float",
-			"value": 0.0
+			"value": 0
 		},
 		"ConstantVector1D_15_Value": {
 			"type": "float",
@@ -37,11 +37,11 @@
 		},
 		"Diffuse_Saturation_01_Value": {
 			"type": "float",
-			"value": 1.0
+			"value": 1
 		},
 		"Diffuse_Hue_Shift_01_Value": {
 			"type": "float",
-			"value": 0.0
+			"value": 0
 		},
 		"ConstantVector1D_03_Value": {
 			"type": "float",
@@ -49,11 +49,11 @@
 		},
 		"ConstantVector1D_13_Value": {
 			"type": "float",
-			"value": 0.0
+			"value": 0
 		},
 		"ConstantVector1D_05_Value": {
 			"type": "float",
-			"value": 0.0
+			"value": 0
 		},
 		"ConstantVector1D_16_Value": {
 			"type": "float",

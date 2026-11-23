@@ -161,10 +161,9 @@
 		]
 	},
 	"Metadata": {
-		"Id": "c65019e5-43a8-4a33-8a2a-84c750a5eeb3",
+		"Id": "c65019e5-43b8-4a33-8a2a-84c750a5eeb3",
 		"IsPublished": true,
-		"TileImage": "images/contracts/sheep/tile.jpg",
-		"DebriefingVideo": "debriefing_sheep",
+		"TileImage": "images/hbfest_tile.jpg",
 		"CreationTimestamp": "2017-11-28T14:51:25.5705635+01:00",
 		"CreatorUserId": "00000000-0000-0000-0000-000000000000",
 		"Title": "UI_CONTRACT_SHEEP_TITLE",
@@ -172,10 +171,17 @@
 		"CodeName_Hint": "Sheep",
 		"Location": "LOCATION_NEWZEALAND",
 		"ScenePath": "assembly:/_pro/scenes/missions/sheep/scene_sheep.entity",
-		"Type": "mission",
+		"Type": "flashback",
 		"Release": "2.2.x",
 		"Drops": [],
 		"Entitlements": []
 	},
-	"UserData": null
+	"UserData": null,
+    "SMF": {
+        "destinations": {
+            "addToDestinations": true,
+            "peacockIntegration": false,
+            "narrativeContext": "Mission"
+        }
+    }
 }

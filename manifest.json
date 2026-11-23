@@ -1,27 +1,12 @@
 {
-	"id": "Kercyx.HawkeBayParty2",
+	"id": "TeamRuddcy.HBFestival",
 	"name": "Hawke's Bay Festival",
-	"description": "A fun day out at a New Zealand beach",
-	"authors": [
-		"kercyx"
-	],
-	"version": "0.6.0",
+	"description": "A mission at the Hawke's Bay Anniversay Day festival",
+	"authors": ["Team Ruddcy"],
+	"version": "0.4.0",
 	"frameworkVersion": "3.0.0-rc.17",
 	"url": null,
-	"conditions": {
-		"supportedGames": [
-			"h3"
-		]
-	},
-	"data": {
-		"contentFolders": [
-			"content"
-		],
-		"packageDefinition": [
-			{
-				"partition": "sheep",
-				"path": "[assembly:/_pro/scenes/missions/sheep/hb_party.brick].entitytype"
-			}
-		]
-	}
+	"conditions": { "supportedGames": ["h3"] },
+	"data": { "contentFolders": ["content"],
+	"blobFolders": ["blobs"]  }
 }
