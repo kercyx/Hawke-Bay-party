@@ -6,9 +6,7 @@
 				"assembly:/_pro/scenes/missions/sheep/tod_midday.brick"
 			]
 		},
-		"Objectives": [
-			
-		],
+		"Objectives": [],
 
 		"Bricks": [
 			"assembly:/_pro/scenes/missions/sheep/hb_party.brick"
@@ -78,11 +76,11 @@
 		"Entitlements": []
 	},
 	"UserData": null,
-    "SMF": {
-        "destinations": {
-            "addToDestinations": true,
-            "peacockIntegration": false,
-            "narrativeContext": "Mission"
-        }
-    }
+	"SMF": {
+		"destinations": {
+			"addToDestinations": true,
+			"peacockIntegration": false,
+			"narrativeContext": "Mission"
+		}
+	}
 }
