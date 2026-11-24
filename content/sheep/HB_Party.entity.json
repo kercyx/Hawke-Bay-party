@@ -35,9 +35,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -228,9 +229,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -339,9 +344,13 @@
 					"type": "int32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -384,9 +393,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -418,10 +431,6 @@
 						"y": 1,
 						"z": 0.8999999761581421
 					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
 				},
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
@@ -1450,9 +1459,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1543,9 +1556,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1654,9 +1671,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1728,9 +1749,13 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1767,9 +1792,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -1794,13 +1820,17 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1861,9 +1891,13 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1894,9 +1928,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -1949,9 +1987,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -2016,9 +2058,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -2043,9 +2089,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -2070,9 +2120,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -2115,9 +2169,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -2156,9 +2211,10 @@
 					"type": "SColorRGB",
 					"value": "#ff9ee4"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -4484,9 +4540,10 @@
 					"type": "SColorRGB",
 					"value": "#ff9ee4"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -6730,9 +6787,10 @@
 					"type": "SColorRGB",
 					"value": "#5fc2bf"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -12104,9 +12162,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -12374,9 +12433,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -12598,9 +12658,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -13711,9 +13772,10 @@
 					"type": "SColorRGB",
 					"value": "#ff9ee4"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14508,9 +14570,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14535,9 +14598,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14574,9 +14638,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14613,9 +14678,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14696,9 +14762,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14723,9 +14790,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14901,9 +14969,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14940,9 +15009,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -14967,9 +15037,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15181,9 +15252,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15290,9 +15362,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15329,9 +15402,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15411,9 +15485,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15485,9 +15560,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15602,9 +15678,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15715,9 +15792,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15750,9 +15828,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15785,9 +15864,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -15820,9 +15900,10 @@
 					"type": "SColorRGB",
 					"value": "#6be8a1"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16061,9 +16142,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16088,9 +16170,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -16115,9 +16201,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16142,9 +16229,13 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			}
 		},
@@ -16169,9 +16260,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16196,9 +16288,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16223,9 +16316,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16250,9 +16344,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16277,9 +16372,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16304,13 +16400,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
-					"value": "fffffffffffffffe"
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16335,9 +16428,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16362,10 +16456,6 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_PrimitiveScale": {
 					"type": "SVector3",
 					"value": {
@@ -16373,6 +16463,11 @@
 						"y": 1.0,
 						"z": 1.0
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16397,9 +16492,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16424,9 +16520,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16477,9 +16574,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16616,9 +16714,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16755,9 +16854,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -16894,9 +16994,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17033,9 +17134,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17172,9 +17274,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17311,9 +17414,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17450,9 +17554,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17589,9 +17694,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17728,9 +17834,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -17867,9 +17974,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18006,9 +18114,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18145,9 +18254,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18284,9 +18394,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18423,9 +18534,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18562,9 +18674,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18701,9 +18814,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18840,9 +18954,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -18979,9 +19094,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19118,9 +19234,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19257,9 +19374,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19396,9 +19514,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19535,9 +19654,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19674,9 +19794,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19813,9 +19934,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -19952,9 +20074,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20091,9 +20214,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20230,9 +20354,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20369,9 +20494,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20508,9 +20634,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20647,9 +20774,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20786,9 +20914,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -20925,9 +21054,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21064,9 +21194,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21203,9 +21334,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21342,9 +21474,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21481,9 +21614,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21620,9 +21754,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21759,9 +21894,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -21898,9 +22034,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22037,9 +22174,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22176,9 +22314,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22315,9 +22454,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22454,9 +22594,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22593,9 +22734,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22732,9 +22874,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -22871,9 +23014,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -23010,9 +23154,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -23149,9 +23294,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -23288,9 +23434,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -23415,9 +23562,10 @@
 						"z": 1.227120041847229
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -23631,9 +23779,10 @@
 						"z": 1.2242300510406494
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24162,9 +24311,10 @@
 					"type": "SColorRGB",
 					"value": "#fab6ba"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24640,9 +24790,10 @@
 						"z": 1.2264900207519531
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24747,9 +24898,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24778,9 +24930,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24809,9 +24962,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24840,9 +24994,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24871,9 +25026,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24902,9 +25058,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24937,9 +25094,10 @@
 						"z": 1
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -24972,9 +25130,10 @@
 						"z": 1.25
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25041,9 +25200,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -25157,9 +25317,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25296,9 +25457,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25435,9 +25597,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25574,9 +25737,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25713,9 +25877,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25834,9 +25999,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25869,9 +26035,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25904,9 +26071,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25939,9 +26107,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -25974,9 +26143,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -26024,13 +26194,14 @@
 						"y": 6
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"IsTrap": {
 					"type": "bool",
 					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -26078,13 +26249,14 @@
 						"y": 6
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"IsTrap": {
 					"type": "bool",
 					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -26132,13 +26304,14 @@
 						"y": 6
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"IsTrap": {
 					"type": "bool",
 					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -26163,9 +26336,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -30143,9 +30317,10 @@
 					"type": "SColorRGB",
 					"value": "#ff5a54"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31143,9 +31318,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31178,9 +31354,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31213,9 +31390,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31248,9 +31426,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31283,9 +31462,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31318,9 +31498,10 @@
 						"z": 1.328879952430725
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31345,9 +31526,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31408,9 +31590,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31443,9 +31626,10 @@
 						"z": 0.8350639939308167
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31565,9 +31749,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31663,9 +31848,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31690,9 +31876,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31796,9 +31983,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -31982,9 +32170,10 @@
 						"z": 0.8350639939308167
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -32200,9 +32389,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -32457,9 +32647,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -33094,9 +33285,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -33470,9 +33662,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -34107,9 +34300,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -34744,9 +34938,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -35381,9 +35576,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -35757,9 +35953,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -36133,9 +36330,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -36509,9 +36707,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -36885,9 +37084,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -36983,9 +37183,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -37359,9 +37560,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -37735,9 +37937,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38111,9 +38314,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38138,9 +38342,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38201,9 +38406,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38264,9 +38470,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38291,9 +38498,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38354,9 +38562,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38611,9 +38820,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -38887,9 +39097,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -39163,9 +39374,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -40469,9 +40681,10 @@
 					"type": "ZGuid",
 					"value": "35f3ad0c-f017-4ed9-8fea-69bf12665a83"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -40496,9 +40709,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -40527,9 +40741,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -40586,9 +40801,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -40623,8 +40839,18 @@
 		"abcd2f2cca287ad3": {
 			"parent": "abcd55a3fc7c4409",
 			"name": "Driveway/Entrance",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"abcd544ba49d47ed": {
 			"parent": "abcd2f2cca287ad3",
@@ -40663,9 +40889,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40694,10 +40921,6 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": true
@@ -40713,6 +40936,11 @@
 						"y": 0.75,
 						"z": 0.75
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40745,9 +40973,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40788,9 +41017,10 @@
 						"z": 0.75
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40823,9 +41053,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40858,9 +41089,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40901,9 +41133,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40944,9 +41177,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -40987,9 +41221,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41030,9 +41265,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41073,9 +41309,10 @@
 						"z": 0.4749999940395355
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41104,10 +41341,6 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": true
@@ -41123,6 +41356,11 @@
 						"y": 0.75,
 						"z": 0.75
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41151,10 +41389,6 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": true
@@ -41170,6 +41404,11 @@
 						"y": 0.75,
 						"z": 0.75
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41198,10 +41437,6 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": true
@@ -41217,6 +41452,11 @@
 						"y": 0.75,
 						"z": 0.75
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41245,10 +41485,6 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": true
@@ -41264,6 +41500,11 @@
 						"y": 0.75,
 						"z": 0.75
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41292,10 +41533,6 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bCastShadows": {
 					"type": "bool",
 					"value": true
@@ -41311,6 +41548,11 @@
 						"y": 0.75,
 						"z": 0.75
 					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2f2cca287ad3",
+					"postInit": true
 				}
 			}
 		},
@@ -41353,9 +41595,10 @@
 					"type": "float32",
 					"value": 900
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -43333,9 +43576,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -43498,9 +43742,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -43663,9 +43908,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -43828,9 +44074,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -43994,9 +44241,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -44159,9 +44407,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -44306,8 +44555,18 @@
 		"abcd3e4b5b59b486": {
 			"parent": "abcd55a3fc7c4409",
 			"name": "Wedding area",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"abcdf45f88f5e78e": {
 			"parent": "abcd3e4b5b59b486",
@@ -44350,9 +44609,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -44962,9 +45222,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45293,9 +45554,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45324,9 +45586,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45359,9 +45622,10 @@
 					"type": "float32",
 					"value": 1
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45386,9 +45650,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45413,9 +45678,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45737,9 +46003,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45768,9 +46035,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45799,9 +46067,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45830,9 +46099,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45861,9 +46131,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45892,9 +46163,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45923,9 +46195,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45954,9 +46227,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -45985,9 +46259,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46016,9 +46291,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46047,9 +46323,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46078,9 +46355,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46109,9 +46387,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46140,9 +46419,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46171,9 +46451,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46202,9 +46483,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46233,9 +46515,10 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46260,9 +46543,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46299,9 +46583,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46365,9 +46650,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46431,9 +46717,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46497,9 +46784,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46563,9 +46851,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46629,9 +46918,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46695,9 +46985,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -46731,8 +47022,18 @@
 		"abcd5810e6df6c1e": {
 			"parent": "abcd55a3fc7c4409",
 			"name": "Beach",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"abcd0f9464c15f5d": {
 			"parent": "abcd5810e6df6c1e",
@@ -46755,9 +47056,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -47017,9 +47319,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -47697,9 +48000,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -48572,9 +48876,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -48791,9 +49096,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -49000,9 +49306,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -49440,9 +49747,10 @@
 						"z": 0.8324999809265137
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50658,9 +50966,10 @@
 					"type": "float32",
 					"value": 50
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50718,9 +51027,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50745,9 +51055,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50772,9 +51083,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50799,9 +51111,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50826,9 +51139,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50853,9 +51167,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50880,9 +51195,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50907,9 +51223,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50934,9 +51251,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50961,9 +51279,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -50988,9 +51307,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51015,9 +51335,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51042,9 +51363,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			},
 			"subsets": {
@@ -51078,9 +51400,10 @@
 					"type": "SColorRGB",
 					"value": "#d43e20"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51105,9 +51428,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51132,9 +51456,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51159,9 +51484,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51186,9 +51512,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51213,9 +51540,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51240,9 +51568,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51275,9 +51604,10 @@
 					"type": "SColorRGB",
 					"value": "#ffffff"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51302,9 +51632,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51329,9 +51660,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51356,9 +51688,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			},
 			"subsets": {
@@ -51388,9 +51721,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51427,13 +51761,14 @@
 					"type": "float32",
 					"value": 0.05000000074505806
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_bKinematic": {
 					"type": "bool",
 					"value": false
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			},
 			"subsets": {
@@ -51467,9 +51802,10 @@
 					"type": "SColorRGB",
 					"value": "#59991d"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51494,9 +51830,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51521,9 +51858,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51548,9 +51886,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51575,9 +51914,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51602,9 +51942,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51629,9 +51970,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51656,9 +51998,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51683,9 +52026,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51710,9 +52054,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51737,9 +52082,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51764,9 +52110,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51791,9 +52138,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51818,9 +52166,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51845,9 +52194,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			},
 			"subsets": {
@@ -51877,9 +52227,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51904,9 +52255,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51931,9 +52283,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51958,9 +52311,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -51985,9 +52339,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52012,9 +52367,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52039,9 +52395,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52074,15 +52431,16 @@
 					"type": "ZGuid",
 					"value": "5e292dfb-646c-4a5b-9233-f4fbe5d5c033"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
 				"m_LocalColliders": {
 					"type": "TArray<SEntityTemplateReference>",
 					"value": [
 						"feed31e1ff717ed9"
 					],
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
 					"postInit": true
 				}
 			},
@@ -52113,9 +52471,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52140,9 +52499,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52167,9 +52527,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52194,9 +52555,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52221,9 +52583,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52248,9 +52611,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52634,9 +52998,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52661,9 +53026,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52688,9 +53054,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52715,9 +53082,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52742,9 +53110,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52769,9 +53138,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52800,9 +53170,10 @@
 					"type": "SColorRGB",
 					"value": "#d43e20"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52831,9 +53202,10 @@
 					"type": "SColorRGB",
 					"value": "#d43e20"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52862,9 +53234,10 @@
 					"type": "SColorRGB",
 					"value": "#d43e20"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52889,9 +53262,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52916,9 +53290,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52943,9 +53318,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52970,9 +53346,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -52997,9 +53374,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53024,9 +53402,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53051,9 +53430,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53158,9 +53538,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53265,9 +53646,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53372,9 +53754,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53479,9 +53862,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53586,9 +53970,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53693,9 +54078,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -53807,9 +54193,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -54162,9 +54549,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -54196,9 +54584,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -54635,9 +55024,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -57860,9 +58250,10 @@
 						"z": 1
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -57899,9 +58290,13 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			},
 			"subsets": {
@@ -57916,8 +58311,18 @@
 		"feedee1c6c21a1f9": {
 			"parent": "feedc8110ea66f8d",
 			"name": "Wedding Props",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"feed7aad52a0dcbb": {
 			"parent": "feedee1c6c21a1f9",
@@ -57944,9 +58349,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -57979,9 +58385,10 @@
 						"z": 1.375
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58010,9 +58417,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58049,9 +58457,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58088,9 +58497,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58119,9 +58529,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58158,9 +58569,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58189,9 +58601,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58224,9 +58637,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58255,9 +58669,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58286,9 +58701,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58321,9 +58737,10 @@
 						"z": 1.375
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58352,9 +58769,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58383,9 +58801,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58414,9 +58833,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58445,9 +58865,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58480,9 +58901,10 @@
 						"z": 0.05000000074505806
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58511,9 +58933,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58542,9 +58965,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58573,9 +58997,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -58604,9 +59029,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feedee1c6c21a1f9",
+					"postInit": true
 				}
 			}
 		},
@@ -59058,9 +59484,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -59085,9 +59512,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -59112,9 +59540,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -59139,9 +59568,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -59166,9 +59596,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -59193,9 +59624,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd5810e6df6c1e",
+					"postInit": true
 				}
 			}
 		},
@@ -59234,9 +59666,10 @@
 						"z": 1
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -59273,9 +59706,10 @@
 					"type": "float32",
 					"value": 1.399999976158142
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -59312,9 +59746,10 @@
 					"type": "float32",
 					"value": 1.399999976158142
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd3e4b5b59b486",
+					"postInit": true
 				}
 			}
 		},
@@ -59339,9 +59774,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed16c61db14963",
+					"postInit": true
 				}
 			}
 		},
@@ -59396,6 +59832,14 @@
 				"m_bValue": {
 					"type": "bool",
 					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
 				}
 			},
 			"subsets": {
@@ -59439,8 +59883,18 @@
 		"feed35c5b0c6737e": {
 			"parent": "feedc8110ea66f8d",
 			"name": "Sculptures",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"feed055e2ccdb50b": {
 			"parent": "feed35c5b0c6737e",
@@ -59471,9 +59925,10 @@
 						"z": 0.5040000081062317
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed35c5b0c6737e",
+					"postInit": true
 				}
 			}
 		},
@@ -59538,9 +59993,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed35c5b0c6737e",
+					"postInit": true
 				}
 			}
 		},
@@ -59598,9 +60054,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed35c5b0c6737e",
+					"postInit": true
 				}
 			}
 		},
@@ -59658,9 +60115,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed35c5b0c6737e",
+					"postInit": true
 				}
 			}
 		},
@@ -59696,9 +60154,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed16c61db14963",
+					"postInit": true
 				}
 			}
 		},
@@ -59734,9 +60193,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed16c61db14963",
+					"postInit": true
 				}
 			}
 		},
@@ -59765,9 +60225,10 @@
 					"type": "ZString",
 					"value": "[assembly:/runtimeresources/vertexpaint/_pro/scenes/missions/elegant/scenario_llama/modern_windery_planterbox_f_90f27b9fca1844108950849c16125f20.vertexpaint].vertexpaint"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed16c61db14963",
+					"postInit": true
 				}
 			}
 		},
@@ -59803,9 +60264,10 @@
 						"type": "normal"
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed16c61db14963",
+					"postInit": true
 				}
 			}
 		},
@@ -59830,9 +60292,10 @@
 						}
 					}
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed16c61db14963",
+					"postInit": true
 				}
 			}
 		},
@@ -60123,14 +60586,34 @@
 		"feed16c61db14963": {
 			"parent": "feedc8110ea66f8d",
 			"name": "Cactus",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"feed9f665763f1c6": {
 			"parent": "abcd55a3fc7c4409",
 			"name": "Festival Zone",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
 		},
 		"feed0e8e2cd4d695": {
 			"parent": "feed751beefe9a42",
@@ -72137,12 +72620,6 @@
 				}
 			}
 		},
-		"cafe06ad0232ce76": {
-			"parent": "feed9f665763f1c6",
-			"name": "ground",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
-		},
 		"cafe43caf5d1a1bd": {
 			"parent": "cafe097f6c3ae630",
 			"name": "Flowboxes",
@@ -72194,7 +72671,7 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": 88.455063,
+							"x": 88.45506,
 							"y": -0.2,
 							"z": 0.0
 						},
@@ -72474,9 +72951,10 @@
 					"type": "bool",
 					"value": false
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "feed9f665763f1c6",
+					"postInit": true
 				}
 			}
 		},
@@ -72703,6 +73181,50 @@
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": "cafe097f6c3ae630"
+				}
+			}
+		},
+		"cafe149418f7302b": {
+			"parent": "abcd55a3fc7c4409",
+			"name": "Festival accom",
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
+		},
+		"cafe0c5a0b24d8f1": {
+			"parent": "cafe149418f7302b",
+			"name": "beachhouse_outside_terrace_a",
+			"factory": "[assembly:/_pro/environment/geometry/kits/apartment/beachhouse_a.wl2?/beachhouse_outside_terrace_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 116.83128,
+							"y": -12.159898,
+							"z": -1.0598435
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe149418f7302b",
+					"postInit": true
 				}
 			}
 		}
