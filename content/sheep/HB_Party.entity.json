@@ -23545,7 +23545,7 @@
 						"position": {
 							"x": 77.468315,
 							"y": -7.861222,
-							"z": -0.132877
+							"z": -0.022325695
 						},
 						"rotation": {
 							"x": -0.0,
@@ -64186,8 +64186,8 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": 0.0,
-							"y": 0.0,
+							"x": -0.67606163,
+							"y": 6.08576,
 							"z": 0.0
 						},
 						"rotation": {
@@ -64200,8 +64200,8 @@
 				"m_vGlobalSize": {
 					"type": "SVector3",
 					"value": {
-						"x": 60.85897445678711,
-						"y": 60.0,
+						"x": 76.52073669433594,
+						"y": 108.11448669433594,
 						"z": 2.0
 					}
 				},
@@ -64359,7 +64359,9 @@
 				},
 				"m_aCrowdGroupBoxes": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": []
+					"value": [
+						"cafedf9a398eafa0"
+					]
 				},
 				"m_aCrowdExclusionVolumeShapes": {
 					"type": "TArray<SEntityTemplateReference>",
@@ -64369,8 +64371,17 @@
 					"type": "TArray<SEntityTemplateReference>",
 					"value": [
 						"cafe93070ac5f4a5",
-						"cafe8fa80815beec"
+						"cafe8fa80815beec",
+						"cafea9ab4c700f55",
+						"cafe612756dd3083",
+						"cafe20dd56d9c73e",
+						"cafe832988093199",
+						"cafe069bc1549aab"
 					]
+				},
+				"m_aCrowdPanicOnlyBoxes": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
 				}
 			},
 			"subsets": {
@@ -64389,8 +64400,8 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": 26.988064,
-							"y": 24.894136,
+							"x": 33.519363,
+							"y": 55.916374,
 							"z": 0.0
 						},
 						"rotation": {
@@ -64403,8 +64414,8 @@
 				"m_vGlobalSize": {
 					"type": "SVector3",
 					"value": {
-						"x": 0.9,
-						"y": 8.1,
+						"x": 6.699999809265137,
+						"y": 4.400000095367432,
 						"z": 2.0
 					}
 				},
@@ -64444,9 +64455,9 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": -34.104534,
-							"y": -27.25426,
-							"z": 1.1632326
+							"x": -28.540062,
+							"y": -23.814268,
+							"z": 1.1632134
 						},
 						"rotation": {
 							"x": -0.0,
@@ -64458,8 +64469,8 @@
 				"m_vGlobalSize": {
 					"type": "SVector3",
 					"value": {
-						"x": 2.7,
-						"y": 0.9,
+						"x": 7.0,
+						"y": 3.900000095367432,
 						"z": 2.0
 					}
 				},
@@ -64574,11 +64585,11 @@
 					"value": {
 						"position": {
 							"x": 4.343225,
-							"y": 1.53314,
+							"y": 2.2330055,
 							"z": 0.0
 						},
 						"rotation": {
-							"x": 0.0,
+							"x": -0.0,
 							"y": 0.0,
 							"z": 84.6
 						}
@@ -65627,8 +65638,8 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": 21.187325,
-							"y": -33.87466,
+							"x": 29.830229,
+							"y": -23.079,
 							"z": -0.0028255507
 						},
 						"rotation": {
@@ -65641,9 +65652,9 @@
 				"m_vGlobalSize": {
 					"type": "SVector3",
 					"value": {
-						"x": 40,
-						"y": 35,
-						"z": 5
+						"x": 22.799999237060547,
+						"y": 17.899999618530273,
+						"z": 5.0
 					}
 				},
 				"m_eidParent": {
@@ -68018,9 +68029,11 @@
 						"cafeca3f556ebc46"
 					]
 				},
-				"m_aCrowdExclusionVolumeShapes": {
+				"m_aCrowdExclusionSpheres": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": []
+					"value": [
+						"cafe8b80e1f769ab"
+					]
 				},
 				"m_aCrowdExclusionBoxes": {
 					"type": "TArray<SEntityTemplateReference>",
@@ -68032,7 +68045,9 @@
 						"cafef525ca5227ad",
 						"cafe9ed1d2f9a9e8",
 						"cafe569fbc9a3ba6",
-						"cafe32a9e81bef1a"
+						"cafe32a9e81bef1a",
+						"cafebe0c953b86ea",
+						"cafea1935b48765c"
 					]
 				}
 			},
@@ -72545,7 +72560,7 @@
 					"value": {
 						"position": {
 							"x": -0.45914078,
-							"y": -14.36135,
+							"y": -13.608891,
 							"z": -0.03543091
 						},
 						"rotation": {
@@ -72559,7 +72574,7 @@
 					"type": "SVector3",
 					"value": {
 						"x": 73.9000015258789,
-						"y": 49.0,
+						"y": 47.5,
 						"z": 4.0
 					}
 				},
@@ -72663,7 +72678,7 @@
 		},
 		"cafe5c2693b12e4b": {
 			"parent": "cafe43caf5d1a1bd",
-			"name": "FlowEnabler_InsidePortaloos",
+			"name": "FlowEnabler_ExitCatcher",
 			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 			"properties": {
@@ -72671,21 +72686,21 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": 88.45506,
-							"y": -0.2,
+							"x": 54.026,
+							"y": -3.987883,
 							"z": 0.0
 						},
 						"rotation": {
-							"x": 0.0,
+							"x": -0.0,
 							"y": 0.0,
-							"z": 0.0
+							"z": -113.46955
 						}
 					}
 				},
 				"m_vGlobalSize": {
 					"type": "SVector3",
 					"value": {
-						"x": 2.0,
+						"x": 4.900000095367432,
 						"y": 2.0,
 						"z": 4.0
 					}
@@ -73210,9 +73225,9 @@
 					"type": "SMatrix43",
 					"value": {
 						"position": {
-							"x": 116.83128,
-							"y": -12.159898,
-							"z": -1.0598435
+							"x": 116.80292,
+							"y": -11.042079,
+							"z": -1.0597916
 						},
 						"rotation": {
 							"x": -0.0,
@@ -73225,6 +73240,605 @@
 					"type": "SEntityTemplateReference",
 					"value": "cafe149418f7302b",
 					"postInit": true
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.0,
+						"y": 2.0,
+						"z": 1.0
+					}
+				}
+			}
+		},
+		"cafe8b80e1f769ab": {
+			"parent": "cafec33ce4ade97a",
+			"name": "Crowd_ExclusionSphere_EntryOutside",
+			"factory": "[modules:/zspherevolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspherevolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -19.238934,
+							"y": -0.22627783,
+							"z": -0.0001758337
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_fRadius": {
+					"type": "float32",
+					"value": 3.700000047683716
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe097f6c3ae630"
+				}
+			}
+		},
+		"cafebe0c953b86ea": {
+			"parent": "cafec33ce4ade97a",
+			"name": "Crowd_Exclusion_EntryOutside",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -14.039654,
+							"y": -2.4472005,
+							"z": 1.2974893
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 45.326054
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 9.5,
+						"y": 5.0,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe097f6c3ae630"
+				}
+			}
+		},
+		"cafea1935b48765c": {
+			"parent": "cafec33ce4ade97a",
+			"name": "Crowd_Exclusion_OutsideFestivalEntry",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -24.813858,
+							"y": 11.930688,
+							"z": -0.00011372566
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 14.100000381469728,
+						"y": 5.0,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe097f6c3ae630"
+				}
+			}
+		},
+		"cafea9ab4c700f55": {
+			"parent": "cafee7b4896df431",
+			"name": "Crowd_Exclusion_BeachEvac",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -25.552864,
+							"y": -11.117056,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 30.5,
+						"y": 17.899999618530273,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafeff014a05f201": {
+			"parent": "cafe48d2b1bc1f3b",
+			"name": "CrowdActivity_llama_cluster_5actors_13",
+			"factory": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_5actors.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_5actors.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 17.227213,
+							"y": -15.627207,
+							"z": -0.000565423
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_rCrowd": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe8a17f3606974"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				},
+				"m_rParentArea": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3aa781f728cb32bc",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"cafe01f5d0867e82": {
+			"parent": "cafe48d2b1bc1f3b",
+			"name": "CrowdActivity_llama_cluster_3actors_52",
+			"factory": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_3actors.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_3actors.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 12.3263855,
+							"y": -21.629408,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 45.000004
+						}
+					}
+				},
+				"m_rCrowd": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe8a17f3606974"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				},
+				"m_rParentArea": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3aa781f728cb32bc",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"cafeeff84b3be222": {
+			"parent": "cafedfbf2110a18b",
+			"name": "Groups",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cafe6268db221934": {
+			"parent": "cafedf9a398eafa0",
+			"name": "Walker_Exclusion_HouseSideCorner",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 20.65609,
+							"y": -33.96663,
+							"z": 1.2970092
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 32.70000076293945,
+						"y": 10.300000190734863,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafedf9a398eafa0": {
+			"parent": "cafeeff84b3be222",
+			"name": "CrowdGroup_Walkers",
+			"factory": "[assembly:/_pro/design/gamecore/crowd.template?/crowdgroup.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/crowd.template?/crowdgroup.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.45914078,
+							"y": -14.36135,
+							"z": -0.03543091
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 73.9000015258789,
+						"y": 49.0,
+						"z": 4.0
+					}
+				},
+				"m_nGroupSize": {
+					"type": "uint32",
+					"value": 10
+				},
+				"m_nIdleRatio": {
+					"type": "float32",
+					"value": 0.3
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b",
+					"postInit": true
+				},
+				"m_aExclusionBoxes": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"cafe08b4ce710c08",
+						"cafe6268db221934",
+						"cafe6c5f148b5cbe"
+					]
+				}
+			}
+		},
+		"cafe08b4ce710c08": {
+			"parent": "cafedf9a398eafa0",
+			"name": "Walker_Exclusion_HouseSide",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.9522085,
+							"y": -1.300787,
+							"z": 1.2999411
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -90.01979
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 16.0,
+						"y": 14.699999809265137,
+						"z": 4.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafe6c5f148b5cbe": {
+			"parent": "cafedf9a398eafa0",
+			"name": "Walker_Exclusion_BeachTeleport",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -24.236427,
+							"y": -14.780924,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 29.399999618530273,
+						"y": 51.900001525878906,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafe069bc1549aab": {
+			"parent": "cafee7b4896df431",
+			"name": "Crowd_Exclusion_Windows",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.3384433,
+							"y": -18.509657,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 10.300000190734863,
+						"y": 4.300000190734863,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafe612756dd3083": {
+			"parent": "cafee7b4896df431",
+			"name": "Crowd_Exclusion_PoolWindows",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -7.2831097,
+							"y": -16.543524,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 3.5,
+						"y": 0.5,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafe7d66559582f9": {
+			"parent": "cafe48d2b1bc1f3b",
+			"name": "CrowdActivity_llama_cluster_5actors_13",
+			"factory": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_5actors.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_5actors.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 16.46993,
+							"y": -26.923494,
+							"z": -0.0017929577
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_rCrowd": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe8a17f3606974"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				},
+				"m_rParentArea": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3aa781f728cb32bc",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"cafe42164a6bf0d0": {
+			"parent": "cafe48d2b1bc1f3b",
+			"name": "CrowdActivity_llama_cluster_5actors_13",
+			"factory": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_5actors.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/crowd/levels/s03_l05_llama.template?/crowdactivity_llama_cluster_5actors.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.6833286,
+							"y": -30.87131,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_rCrowd": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe8a17f3606974"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				},
+				"m_rParentArea": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3aa781f728cb32bc",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					}
+				}
+			}
+		},
+		"cafe20dd56d9c73e": {
+			"parent": "cafee7b4896df431",
+			"name": "Crowd_Exclusion_PoolWindows2",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -1.5615683,
+							"y": -16.540369,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.400000095367432,
+						"y": 0.5,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
+				}
+			}
+		},
+		"cafe832988093199": {
+			"parent": "cafee7b4896df431",
+			"name": "Crowd_Exclusion_PoolWindows3",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -10.206978,
+							"y": -23.028452,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -1.1791197e-9,
+							"y": 0.03956468,
+							"z": 90.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.400000095367432,
+						"y": 0.5,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
 				}
 			}
 		}
@@ -73270,10 +73884,26 @@
 				{
 					"ref": "f675dc5510790cfd",
 					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				},
+				{
+					"ref": "2737558347dc51f0",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
 				}
 			],
 			"properties": {
 				"m_bIsLocked": {
+					"type": "bool",
+					"value": false
+				},
+				"m_InitialState": {
+					"type": "IHM5Door.EInitialState",
+					"value": "IS_OPEN"
+				},
+				"m_bAutoClose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bManualClose": {
 					"type": "bool",
 					"value": false
 				}
@@ -73430,7 +74060,8 @@
 							"ref": "5c45c10d8da7c6a4",
 							"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
 						},
-						"cafe37dd28a5683c"
+						"cafe37dd28a5683c",
+						"cafe8a17f3606974"
 					]
 				}
 			}
