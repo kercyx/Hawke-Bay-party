@@ -1,0 +1,5419 @@
+{
+	"factory": "[assembly:/_pro/scenes/missions/sheep/vehicles/movie_set_trailer_star_a_paintable.entitytemplate].pc_entitytype",
+	"blueprint": "[assembly:/_pro/scenes/missions/sheep/vehicles/movie_set_trailer_star_a_paintable.entitytemplate].pc_entityblueprint",
+	"subType": "template",
+	"rootEntity": "7366fb9144a3622b",
+	"subEntities": {
+		"358522d4eeff8649": {
+			"parent": "7366fb9144a3622b",
+			"name": "hifi_vinyplayer_cable",
+			"factory": "[assembly:/_pro/environment/geometry/props/electronics/hifi_vinyplayer_cable_a.wl2?/hifi_vinyplayer_cable.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.729551,
+							"y": -2.041096,
+							"z": 2.054536
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.22901183
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"d6e09224a1a0c264": {
+			"parent": "7366fb9144a3622b",
+			"name": "ShoeBox_D02",
+			"factory": "[assembly:/_pro/environment/templates/props/shop_props/shop_props_b.template?/shoebox_d.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/shop_props/shop_props_b.template?/shoebox_d.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.435041,
+							"y": -1.994572,
+							"z": 1.562603
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -86.0002
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"5b159d2c414789a8": {
+			"parent": "7366fb9144a3622b",
+			"name": "Chair_Leather_Modern_A",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_leather_modern_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_leather_modern_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.614186,
+							"y": 1.892088,
+							"z": 1.059563
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -80.00007
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"9aff3ab5d2da2994": {
+			"parent": "7366fb9144a3622b",
+			"name": "Food_Plate_B_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.997795,
+							"y": -2.129986,
+							"z": 2.032846
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 165.07419
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"ae4544803f935b5b": {
+			"parent": "7366fb9144a3622b",
+			"name": "Bottle_Water_A_Pack_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_pack_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_pack_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.201541,
+							"y": -1.159373,
+							"z": 1.031458
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"40070d4ed64fe71a": {
+			"parent": "7366fb9144a3622b",
+			"name": "Restaurant_Bar_Stool_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/restaurant_furniture_a.template?/restaurant_bar_stool_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/restaurant_furniture_a.template?/restaurant_bar_stool_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.261418,
+							"y": -1.284676,
+							"z": 1.056286
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 99.78758
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"d77b6cfc24e8cbf9": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a04",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.991288,
+							"y": 1.911063,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90,
+							"y": 0.00005729575,
+							"z": 90.00006
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"3c9a9ae920b28bad": {
+			"parent": "ae170a3b883e8e0d",
+			"name": "Bag_Bread_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bag_bread_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bag_bread_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.912307,
+							"y": 7.910375,
+							"z": 2.193299
+						},
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": -23.686687
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "ae170a3b883e8e0d",
+					"postInit": true
+				}
+			}
+		},
+		"2af0fc22be27bb21": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Beer_Bottle_B_Open_00_14",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.1501669,
+							"y": 0.1028979,
+							"z": 0.745279
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -160.92055
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"0765fa1628cd4b18": {
+			"parent": "7366fb9144a3622b",
+			"name": "Travel_Case_Small_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/travel_cases_a.template?/travel_case_small_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/travel_cases_a.template?/travel_case_small_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.538709,
+							"y": -1.695401,
+							"z": 1.57674
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.78605
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"93f24111a5cdc84d": {
+			"parent": "b5225c758305ec66",
+			"name": "metal_painted_matte_a",
+			"factory": "[assembly:/_pro/environment/materials/generic/metal/metal_painted_matte_a.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/generic/metal/metal_painted_matte_a.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 24.36473,
+							"y": 51.33069,
+							"z": 7.92551
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -90
+						}
+					}
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantVector1D_05_Value": {
+					"type": "float32",
+					"value": 0.4000000059604645
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 1
+				},
+				"Global": {
+					"type": "bool",
+					"value": false
+				},
+				"ConstantVector1D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantVector1D_05_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantColorRGB_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eLeave"
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#595959"
+				},
+				"Texture2D_01_enab": {
+					"type": "bool",
+					"value": false
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"b5225c758305ec66"
+					],
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "b5225c758305ec66",
+					"postInit": true
+				}
+			}
+		},
+		"fa2298a3bf80dc90": {
+			"parent": "7366fb9144a3622b",
+			"name": "Cafe_Sugar_A",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/cafe_sugar_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/cafe_sugar_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.761721,
+							"y": -2.180635,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"50c73b977f798eb0": {
+			"parent": "7366fb9144a3622b",
+			"name": "Beer_Bottle_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.155853,
+							"y": -2.211106,
+							"z": 2.010029
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 14.794266
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"c3883724356fdf14": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Canned_Fruit_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/canned_fruit_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/canned_fruit_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.090553,
+							"y": -0.096747,
+							"z": 0
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -176.7955
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"b0d2dd7b8dc1bd5b": {
+			"parent": "7366fb9144a3622b",
+			"name": "Chair_Leather_Modern_A01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_leather_modern_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/chair_leather_modern_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.746302,
+							"y": 1.892088,
+							"z": 1.059563
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.999886
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"661aed2bea2b8880": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane02",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.713402,
+							"y": 1.44183,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.4617899954319,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"d78f780ae944e193": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Book_Italy_I_00",
+			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_i_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_i_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.2498012,
+							"y": -0.298382,
+							"z": 0.42478
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -15.210324
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			}
+		},
+		"8eeee797551e9af3": {
+			"parent": "7366fb9144a3622b",
+			"name": "Kitchen_Trivet_Wood_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_trivet_wood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_trivet_wood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.449931,
+							"y": -2.170602,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"8cdbf5e5acbfb20c": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailers_a_glass",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_glass.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"29c10513dcf420cf": {
+			"parent": "7366fb9144a3622b",
+			"name": "Shoes_Display_C",
+			"factory": "[assembly:/_pro/environment/templates/props/shop_props/shop_props_b.template?/shoes_display_c.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/shop_props/shop_props_b.template?/shoes_display_c.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.739262,
+							"y": -1.954591,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"1d145662b9e13c89": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Cookies_Plastic_Bag_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.761978,
+							"y": -0.119823,
+							"z": 0.009496
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 90
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"deacf6199a0b28cc": {
+			"parent": "7366fb9144a3622b",
+			"name": "Loudspeaker_E_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/electronics_sound_a.template?/loudspeaker_e_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/electronics_sound_a.template?/loudspeaker_e_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.268499,
+							"y": -2.218091,
+							"z": 2.942943
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -170.00008
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"5ce3fe36bfa0c0d8": {
+			"parent": "7366fb9144a3622b",
+			"name": "Coffee_Machine_B_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/kitchen_electronics_a.template?/coffee_machine_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/kitchen_electronics_a.template?/coffee_machine_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.087803,
+							"y": -2.093859,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 174.78973
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"f0e065d2af6234c6": {
+			"parent": "ae170a3b883e8e0d",
+			"name": "Jar_Plastic_B_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/jar_plastic_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/jar_plastic_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.911669,
+							"y": 7.351093,
+							"z": 2.020403
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "ae170a3b883e8e0d",
+					"postInit": true
+				}
+			}
+		},
+		"8903e30c8bf76d4a": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Cookies_Plastic_Bag_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.567948,
+							"y": -0.143113,
+							"z": 0.000431
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -97.78476
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"b5279cbd36e98128": {
+			"parent": "ae170a3b883e8e0d",
+			"name": "Bag_Bread_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bag_bread_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bag_bread_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.72238,
+							"y": 8.34499,
+							"z": 2.114128
+						},
+						"rotation": {
+							"x": -102.312874,
+							"y": -90,
+							"z": -0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "ae170a3b883e8e0d",
+					"postInit": true
+				}
+			}
+		},
+		"9bbc2a95b4b597f7": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_b01",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_b.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.58515,
+							"y": 0.352424,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -89.999886,
+							"y": 0,
+							"z": -90
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"a36f090a4b0abe69": {
+			"parent": "7366fb9144a3622b",
+			"name": "Picture_IcecreamStore_B",
+			"factory": "[assembly:/_pro/environment/templates/props/paintings/pictures_italy_a.template?/picture_icecreamstore_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/paintings/pictures_italy_a.template?/picture_icecreamstore_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.161488,
+							"y": 1.055817,
+							"z": 2.805579
+						},
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": 90.000175
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"6353a63f80b65b02": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_d03",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_d.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.626975,
+							"y": 1.399777,
+							"z": 3.396316
+						},
+						"rotation": {
+							"x": -90,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"bace3a4b1fadbd2e": {
+			"parent": "7366fb9144a3622b",
+			"name": "Sunglass_H",
+			"factory": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_h.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/fashion_accessories_a.template?/sunglass_h.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.158993,
+							"y": 0.977348,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -140.02449
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"69b2a6521100f9eb": {
+			"parent": "ae170a3b883e8e0d",
+			"name": "Plate_Small_Stack_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/plate_small_stack_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/plate_small_stack_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.194934,
+							"y": 5.626621,
+							"z": 2.090714
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "ae170a3b883e8e0d",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"f6671668972eb3dc": {
+			"parent": "7366fb9144a3622b",
+			"name": "Container_Styrofoam_D_00_03",
+			"factory": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_a.template?/container_styrofoam_d_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_a.template?/container_styrofoam_d_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.45775,
+							"y": -2.053807,
+							"z": 2.008446
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -1.5137587
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"ae170a3b883e8e0d": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_a_interior",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_interior.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"bf39cb655801b246": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a01",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.843477,
+							"y": 2.360372,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"77c968fb4d3a3794": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane04",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.494609,
+							"y": 2.367209,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.767859935760498,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"91ed582ae152c78a": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_a_emissive",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_emissive.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"4bd8e5c27dbad3db": {
+			"parent": "7366fb9144a3622b",
+			"name": "Pillow_Silk_A",
+			"factory": "[assembly:/_pro/environment/templates/props/bedroom/bedroom_props_a.template?/pillow_silk_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/bedroom/bedroom_props_a.template?/pillow_silk_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.378124,
+							"y": 1.612455,
+							"z": 2.125808
+						},
+						"rotation": {
+							"x": 24.90853,
+							"y": -2.2010572,
+							"z": -91.160034
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"3f12cb6283616f6f": {
+			"parent": "7366fb9144a3622b",
+			"name": "Loudspeaker_E_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/electronics_sound_a.template?/loudspeaker_e_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/electronics_sound_a.template?/loudspeaker_e_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.150192,
+							"y": -2.195286,
+							"z": 2.942943
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 155.00015
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"b5225c758305ec66": {
+			"parent": "7366fb9144a3622b",
+			"name": "Ladder_Aluminium_Trailer_A_00",
+			"factory": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/ladder_aluminium_trailer_a_00.prim].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zdisablecameracollisionaspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.85413,
+							"y": 1.002334,
+							"z": 0.90963
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 90
+						}
+					}
+				},
+				"m_eGlowType": {
+					"type": "ERenderGlowTypes",
+					"value": "ERENDERGLOWTYPE_NONE"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"32262e60c54b6986": {
+			"parent": "7366fb9144a3622b",
+			"name": "Can_Beer_A_Trash_00_06",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_beer_b_trash_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_beer_b_trash_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.596855,
+							"y": -1.924416,
+							"z": 2.03878
+						},
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": 179.08018
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"74566eef7ca4b6ca": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane08",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.852902,
+							"y": 1.947027,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.99994
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0666799545288086,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"87458793ca59f519": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Cookies_Plastic_Bag_C_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.23925,
+							"y": -0.128381,
+							"z": 0.000431
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -97.78476
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"1ac6c31d4647be21": {
+			"parent": "7366fb9144a3622b",
+			"name": "Picture_IcecreamStore_A",
+			"factory": "[assembly:/_pro/environment/templates/props/paintings/pictures_italy_a.template?/picture_icecreamstore_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/paintings/pictures_italy_a.template?/picture_icecreamstore_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.168013,
+							"y": 0.718748,
+							"z": 2.560705
+						},
+						"rotation": {
+							"x": 89.99994,
+							"y": 0.00005729535,
+							"z": 90.000404
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"e484b1e2d7af3e64": {
+			"parent": "ae170a3b883e8e0d",
+			"name": "Bag_Food_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bag_food_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bag_food_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.868017,
+							"y": 7.711198,
+							"z": 2.020409
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 96.312546
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "ae170a3b883e8e0d"
+				}
+			}
+		},
+		"6db2794b3934079f": {
+			"parent": "7366fb9144a3622b",
+			"name": "Glass_Jar_Lime_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_jar_lime_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_jar_lime_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.262382,
+							"y": -1.726641,
+							"z": 2.048611
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -110.212135
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"8a0f109b2e409a8d": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane01",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.07739,
+							"y": 1.471043,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.2363200187683105,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"3d9334e9697732eb": {
+			"parent": "7366fb9144a3622b",
+			"name": "Beer_Bottle_A_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.29684,
+							"y": -2.019425,
+							"z": 2.010029
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 44.79427
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"a79fd4794d674d8f": {
+			"parent": "7366fb9144a3622b",
+			"name": "Bathroom_Towel_Laying_A_00_04",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/toilet_modern_props_a.template?/bathroom_towel_laying_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.772432,
+							"y": 0.659765,
+							"z": 1.548889
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -84.399994
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"428af78aa764fe2b": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane03",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.672207,
+							"y": 1.44183,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.608299970626831,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"dc31b204746dccc8": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane09",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.43124,
+							"y": 1.947032,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.99994
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0666799545288086,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"2e5eddeaa1578dff": {
+			"parent": "5e9c56c79244b6d8",
+			"name": "Cookies_Plastic_Bag_B_03",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.9583829,
+							"y": -0.1398069,
+							"z": 0.006462097
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -15.785874
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "5e9c56c79244b6d8",
+					"postInit": true
+				}
+			}
+		},
+		"7a433e370afa5564": {
+			"parent": "7366fb9144a3622b",
+			"name": "Beer_Bottle_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/beer_bottle_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.278633,
+							"y": -2.164963,
+							"z": 2.010029
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 63.794373
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"adc6098257f77b00": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Fork_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/fork_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/fork_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.278565,
+							"y": 0.374387,
+							"z": 0.755824
+						},
+						"rotation": {
+							"x": -2.1057618,
+							"y": -0.15640366,
+							"z": 173.20973
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			}
+		},
+		"28fe91d59ee2ccf4": {
+			"parent": "7366fb9144a3622b",
+			"name": "Container_Plastic_Beer_A_00_10",
+			"factory": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_b.template?/container_plastic_beer_a_halfempty_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_b.template?/container_plastic_beer_a_halfempty_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.132068,
+							"y": -1.320128,
+							"z": 1.052822
+						},
+						"rotation": {
+							"x": 3.999859,
+							"y": 0.034603436,
+							"z": 0.99092317
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"606aef60b0e01996": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailers_a_wall_02",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_wall_02.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"cbe0df3774ed4061": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.671668,
+							"y": 2.426509,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 3.670530080795288,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"16cd5aaa5657f028": {
+			"parent": "7366fb9144a3622b",
+			"name": "Glass_Wine_A_Empty_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_wine_a_empty_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/glass_wine_a_empty_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.169489,
+							"y": 0.774584,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.97503
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"3b53bfb3b5b0b179": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_a_exterior_decals_a",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exterior_decals_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"3fc55bf810342340": {
+			"parent": "7366fb9144a3622b",
+			"name": "Can_Soda_C_Open",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_soda_c_open.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.075944,
+							"y": 0.633723,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.97503
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"6e3dd440507d737a": {
+			"parent": "7366fb9144a3622b",
+			"name": "Food_Plate_C_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.139454,
+							"y": 0.875702,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.97503
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"5a1faddf558e8f08": {
+			"parent": "7366fb9144a3622b",
+			"name": "Designer_Shoes_Male_B",
+			"factory": "[assembly:/_pro/environment/templates/props/shop_props/shop_props_b.template?/designer_shoes_male_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/shop_props/shop_props_b.template?/designer_shoes_male_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.073411,
+							"y": -2.055393,
+							"z": 1.568821
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 71.797165
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"f63d1b01dd35f696": {
+			"parent": "7366fb9144a3622b",
+			"name": "Food_Plate_B_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.003229,
+							"y": -2.080099,
+							"z": 2.008446
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -64.92519
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"5d7bc5336513b0fa": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_c",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_c.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.651195,
+							"y": -1.378846,
+							"z": 3.375982
+						},
+						"rotation": {
+							"x": -89.99994,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"9cb2f31fa8a60c8e": {
+			"parent": "7366fb9144a3622b",
+			"name": "Towel_Kitchen_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/towel_kitchen_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/towel_kitchen_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.725284,
+							"y": -1.82157,
+							"z": 2.042652
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"7809cbc7e4f1787b": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a05",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.397367,
+							"y": 1.931849,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": -0.000057295638,
+							"z": -90.000114
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"8a9093fee603a9db": {
+			"parent": "3f95189b258eb5e1",
+			"name": "food_plate_spaghetti_a_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_spaghetti_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_plate_spaghetti_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.061621,
+							"y": 0.321031,
+							"z": 0.75451
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -98.712585
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"ac5c76c204bb36a1": {
+			"parent": "7366fb9144a3622b",
+			"name": "Guitar_Case_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/leisure/music_instruments_a.template?/guitar_case_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/leisure/music_instruments_a.template?/guitar_case_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.232452,
+							"y": -1.318529,
+							"z": 2.046532
+						},
+						"rotation": {
+							"x": 7.1767673,
+							"y": -85.960495,
+							"z": -81.082275
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"206a4fb495023e8d": {
+			"parent": "7366fb9144a3622b",
+			"name": "Fan_Small_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/electronics_fans_a.template?/fan_small_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/electronics_fans_a.template?/fan_small_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.34663,
+							"y": 2.077282,
+							"z": 1.810796
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -30.741066
+						}
+					}
+				},
+				"RTPC_StaticProps_ATT": {
+					"type": "float32",
+					"value": -12
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"404fb6ef5628768e": {
+			"parent": "7366fb9144a3622b",
+			"name": "Shield_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/decorative/art_italy_a.template?/shield_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/art_italy_a.template?/shield_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.220825,
+							"y": -1.830264,
+							"z": 2.963856
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.19881676
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"130519b18b5836b8": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Cookies_Plastic_Bag_B_02",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/cookies_plastic_bag_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.380717,
+							"y": -0.120049,
+							"z": 0.008621
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -97.78476
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"25da607bba592e36": {
+			"parent": "087c558c6110fc9c",
+			"name": "Flowers_Morgue_Vase_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/plants/flowers_morgue_a.template?/flowers_morgue_vase_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/plants/flowers_morgue_a.template?/flowers_morgue_vase_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.174418,
+							"y": 0.214234,
+							"z": 0.439522
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.8127
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "087c558c6110fc9c",
+					"postInit": true
+				}
+			}
+		},
+		"0b867a65a78b1866": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Icecream_Cup_B01",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/icecreamstore_utensils_a.template?/icecream_cup_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/icecreamstore_utensils_a.template?/icecream_cup_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.756863,
+							"y": 0.890369,
+							"z": 0.953036
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 41.96009
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"f93acd24b514deb7": {
+			"parent": "7366fb9144a3622b",
+			"name": "Can_Beer_A_Trash_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_beer_a_trash_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/can_beer_a_trash_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.503849,
+							"y": -1.846367,
+							"z": 2.038461
+						},
+						"rotation": {
+							"x": 90.00006,
+							"y": -0.000057221372,
+							"z": -89.925575
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"448f7cd68c9998d6": {
+			"parent": "7366fb9144a3622b",
+			"name": "Book_Italy_E_00",
+			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_e_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_e_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.242326,
+							"y": 1.197592,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -140.02449
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"12b7e9ed6a04f880": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Office_PostIt_B_00",
+			"factory": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_postit_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_postit_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.3889461,
+							"y": -0.159448,
+							"z": 0.398775
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 129.51059
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			}
+		},
+		"25f7a72637f40c47": {
+			"parent": "7366fb9144a3622b",
+			"name": "AIBlockers",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"9ad6b3cfca2f2d10": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane07",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.911701,
+							"y": 1.947029,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.99994
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.0666799545288086,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"efa711c2de4f1840": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_a_exterior",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exterior.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"bdfe2f2b0b3b7d10": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Office_PenHolder_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_penholder_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_penholder_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.4014649,
+							"y": 0.1197391,
+							"z": 0.398775
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"1e3fb699fda8fdac": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_d",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_d.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.484766,
+							"y": -2.283459,
+							"z": 3.227058
+						},
+						"rotation": {
+							"x": -89.99994,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"e0aac2922da0d0a2": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_cloth_roof_a",
+			"factory": "[assembly:/_pro/environment/templates/props/street_props/canopies_shops_italy_a.template?/movieset_trailer_cloth_roof_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/canopies_shops_italy_a.template?/movieset_trailer_cloth_roof_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.353279,
+							"y": 1.503443,
+							"z": 3.792573
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"e70ffbd1a6b2aea2": {
+			"parent": "7366fb9144a3622b",
+			"name": "Fan_Ceiling_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/electronics_fans_a.template?/fan_ceiling_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/electronics_fans_a.template?/fan_ceiling_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.088082,
+							"y": 0.114774,
+							"z": 4.059635
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.787605
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"25791d7e5a59fd0c": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_b03",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_b.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.57198,
+							"y": -0.92273,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -89.99989,
+							"y": 0.000006145285,
+							"z": -83.51345
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"881e885f7df654cf": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane05",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.477461,
+							"y": 1.36676,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.2956299781799316,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"c83addc6fae6fb55": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailers_a_tires",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_tires.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"5e9c56c79244b6d8": {
+			"parent": "7366fb9144a3622b",
+			"name": "White_Shelf_B",
+			"factory": "[assembly:/templates/collections/props/hospital_misc_props_a.template?/white_shelf_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/collections/props/hospital_misc_props_a.template?/white_shelf_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.287062,
+							"y": -2.355065,
+							"z": 2.939613
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 179.786
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"bb3d8bb6def5e3c1": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_a_carpeted",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_carpeted.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"9815ffd404d3e337": {
+			"parent": "7366fb9144a3622b",
+			"name": "Medium_Glass_breadsticks_A",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/medium_glass_breadsticks_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/medium_glass_breadsticks_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.431847,
+							"y": -2.170752,
+							"z": 2.020349
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.205317
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"36b66a58c6818749": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Napkin_D_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/cafe_furniture_italy_a.template?/napkin_d_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/cafe_furniture_italy_a.template?/napkin_d_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.325064,
+							"y": 0.280813,
+							"z": 0.75451
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 129.21255
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			}
+		},
+		"98912cee7ba9bea1": {
+			"parent": "881827caf9c933d1",
+			"name": "Book_Italy_E_00",
+			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_e_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_e_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.69707,
+							"y": 0.413887,
+							"z": 0.542255
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 129.37009
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "881827caf9c933d1",
+					"postInit": true
+				}
+			}
+		},
+		"6a2f69cd7620bb1a": {
+			"parent": "7366fb9144a3622b",
+			"name": "DarkLightEntity",
+			"factory": "[modules:/zdarklightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zdarklightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 12.2878999710083,
+						"y": 3.9786300659179688,
+						"z": 0.5521659851074219
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_ENVIRONMENT"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.620935,
+							"y": 0.008642003,
+							"z": 0.023858
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#000000"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 0.699999988079071
+				},
+				"m_vBoxFadePos": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.5209490060806274,
+						"y": 0.6649900078773499,
+						"z": 0.2314160019159317
+					}
+				},
+				"m_vBoxFadeNeg": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.47801700234413147,
+						"y": 0.6894950270652771,
+						"z": 0
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vAreaQuadSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 5.039999961853027,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"dc350b5cc00636a8": {
+			"parent": "7366fb9144a3622b",
+			"name": "Cafe_capuchino_Powder_A_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/cafe_capuchino_powder_a_01.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/cafe_capuchino_powder_a_01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.857283,
+							"y": -2.180635,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"516e3d9c52b16b6d": {
+			"parent": "0765fa1628cd4b18",
+			"name": "Hat_Wicker_C_00",
+			"factory": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/hat_wicker_e_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/decorative/clothing_marrakesh_a.template?/hat_wicker_e_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.03524429,
+							"y": -0.01599522,
+							"z": 0.335798
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -53.78633
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0765fa1628cd4b18"
+				}
+			}
+		},
+		"b3d2b0eee926c4ac": {
+			"parent": "7366fb9144a3622b",
+			"name": "Mug_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/mug_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/mug_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.624521,
+							"y": 2.137921,
+							"z": 1.806983
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -125.214005
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"05f50fd65099e30e": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Muse_Catalogue_Closed_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/office_props/muse_catalogues_a.template?/muse_catalogue_closed_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/office_props/muse_catalogues_a.template?/muse_catalogue_closed_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.2487659,
+							"y": -0.3152601,
+							"z": 0.4031219
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -29.999933
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			}
+		},
+		"0ef90354181d5407": {
+			"parent": "7366fb9144a3622b",
+			"name": "Kitchen_Trivet_Wood_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_trivet_wood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_trivet_wood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.663768,
+							"y": -2.170602,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.21216679
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"5114af566cead152": {
+			"parent": "7366fb9144a3622b",
+			"name": "tv_moderndesign_large_a_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/tv_screens_a.template?/tv_moderndesign_large_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/tv_screens_a.template?/tv_moderndesign_large_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.537669,
+							"y": -2.389763,
+							"z": 1.891426
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"c568ef5a624e8d60": {
+			"parent": "0e72b7822780f1e6",
+			"name": "bowl_sweets_lobby_a",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bowl_sweets_lobby_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bowl_sweets_lobby_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.134255,
+							"y": 0.212685,
+							"z": 0.398878
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -179.97205
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			}
+		},
+		"8cebb9218ac7eeb5": {
+			"parent": "5e9c56c79244b6d8",
+			"name": "Box_Food_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/box_food_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/box_food_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.4618473,
+							"y": -0.1175269,
+							"z": 0.0004310608
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 164.21371
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "5e9c56c79244b6d8"
+				}
+			}
+		},
+		"3a2a0d9914acd220": {
+			"parent": "7366fb9144a3622b",
+			"name": "Muffin_Paper_A_Lod0101",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/muffin_paper_a_lod0101.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/muffin_paper_a_lod0101.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.070235,
+							"y": 1.08621,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.97503
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"e768411f41cf7e6a": {
+			"parent": "5e9c56c79244b6d8",
+			"name": "Bottle_Sauce_B_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bottle_sauce_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bottle_sauce_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.6846627,
+							"y": -0.07761497,
+							"z": 0
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 22.214314
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "5e9c56c79244b6d8"
+				}
+			}
+		},
+		"a506786c804a860a": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_a_exteriorstuff",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exteriorstuff.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"8b112428b0b4813f": {
+			"parent": "7366fb9144a3622b",
+			"name": "Wine_Bottle_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/wine_bottle_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/wine_bottle_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.070987,
+							"y": 0.608976,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.97503
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"f7fd60e88e651fc1": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Knife_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/knife_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/knife_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.136105,
+							"y": 0.337676,
+							"z": 0.756791
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -168.78816
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			}
+		},
+		"bc1ee052a23e014d": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Canned_Fruit_A_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/canned_fruit_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/canned_fruit_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.942291,
+							"y": -0.193748,
+							"z": -0.931166
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -151.78549
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"0b069169fa6559ba": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_b02",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_b.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.55762,
+							"y": 1.053939,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": -0.00005047443,
+							"z": -97.243416
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"f9375bdca33c5921": {
+			"parent": "7366fb9144a3622b",
+			"name": "Movie_Set_Trailer_Sunroof",
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.19731,
+							"y": -0.010585,
+							"z": 4.152136
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"5b96b53bae740af6": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Headphones_A_Red_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/electronics_sound_a.template?/headphones_a_red_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/electronics_sound_a.template?/headphones_a_red_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.2000628,
+							"y": -0.286,
+							"z": 0.448336
+						},
+						"rotation": {
+							"x": -90,
+							"y": 0,
+							"z": -135.00005
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			}
+		},
+		"881827caf9c933d1": {
+			"parent": "7366fb9144a3622b",
+			"name": "Sofa_Leather_Modern_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/sofa_modern_leather_a.template?/sofa_leather_modern_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/sofa_modern_leather_a.template?/sofa_leather_modern_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.528557,
+							"y": 0.084914,
+							"z": 1.001902
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 90.60545
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"0ed4cbdc9c7fb923": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a02",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.265536,
+							"y": 2.360372,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"a3a0b31691a65169": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.456552,
+							"y": 2.360372,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"ce9339c0aca4bc44": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Book_Italy_J_00",
+			"factory": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_j_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/books/books_italy_a.template?/book_italy_j_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.3400879,
+							"y": 0.08081794,
+							"z": 0.418792
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -0.21400024
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6",
+					"postInit": true
+				}
+			}
+		},
+		"cf426dffa7b9e4d0": {
+			"parent": "087c558c6110fc9c",
+			"name": "Fan_Small_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/electronics/electronics_fans_a.template?/fan_small_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/electronics/electronics_fans_a.template?/fan_small_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.31634,
+							"y": 0.34233,
+							"z": 0.445053
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -1.927851
+						}
+					}
+				},
+				"RTPC_StaticProps_ATT": {
+					"type": "float32",
+					"value": -12
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "087c558c6110fc9c",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"0e72b7822780f1e6": {
+			"parent": "7366fb9144a3622b",
+			"name": "Coffee_Table_Modern_A",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/coffee_table_modern_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/coffee_table_modern_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.348258,
+							"y": -1.82676,
+							"z": 1.575296
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"43c4890d832931c3": {
+			"parent": "7366fb9144a3622b",
+			"name": "Ashtray_A_Empty_00",
+			"factory": "[assembly:/_pro/environment/templates/props/accessories/cigarette_a.template?/ashtray_a_empty_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/accessories/cigarette_a.template?/ashtray_a_empty_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.16121,
+							"y": 0.436552,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 55.00598
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"3f95189b258eb5e1": {
+			"parent": "7366fb9144a3622b",
+			"name": "Cafe_Table_Museum_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/museum_furniture_a.template?/cafe_table_museum_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/museum_furniture_a.template?/cafe_table_museum_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.641907,
+							"y": 1.754913,
+							"z": 1.056286
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.787605
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"f49a1297e9e0153a": {
+			"parent": "7366fb9144a3622b",
+			"name": "Kitchen_Towel_Hanging_B_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_towel_hanging_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_towel_hanging_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.473321,
+							"y": -1.795403,
+							"z": 2.809262
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.78778
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"f7289380cc1a365e": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_b",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_b.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.58515,
+							"y": -0.255416,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -89.999886,
+							"y": 0,
+							"z": -90
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"e21740e0c7ac3021": {
+			"parent": "7366fb9144a3622b",
+			"name": "Kitchen_Cutting_Board_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_cutting_board_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_cutting_board_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.16091,
+							"y": -1.794387,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"a13b427669ee0756": {
+			"parent": "7366fb9144a3622b",
+			"name": "Bottle_Water_A_Pack_Open_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_pack_open_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_pack_open_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.285947,
+							"y": -1.190618,
+							"z": 1.429192
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -174.00009
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"9f2ac14a28e288b6": {
+			"parent": "7366fb9144a3622b",
+			"name": "Container_Cardboard_Box_D_Whisky_Open_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_b.template?/container_cardboard_box_d_whisky_open_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/containers/kitchen_containers_b.template?/container_cardboard_box_d_whisky_open_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 6.952943,
+							"y": -2.011818,
+							"z": 2.008447
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 95.00013
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"17a22781d4a10457": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a03",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.056466,
+							"y": 2.360372,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"37f2affb07f23363": {
+			"parent": "f9375bdca33c5921",
+			"name": "movieset_trailer_sunroof",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_sunroof.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.04870987,
+							"y": -0.0007705688,
+							"z": -0.03653288
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.99994
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "f9375bdca33c5921"
+				}
+			}
+		},
+		"414ad343cb099b40": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Icecream_Cup_Spoon_Container_A",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/icecreamstore_utensils_a.template?/icecream_cup_spoon_container_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/icecreamstore_utensils_a.template?/icecream_cup_spoon_container_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.716466,
+							"y": 0.719542,
+							"z": 0.953425
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 81.00623
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"21f5e4dd600142d7": {
+			"parent": "7366fb9144a3622b",
+			"name": "Restaurant_Bar_Stool_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/restaurant_furniture_a.template?/restaurant_bar_stool_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/restaurant_furniture_a.template?/restaurant_bar_stool_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.345525,
+							"y": -1.249536,
+							"z": 1.056286
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.787605
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"53e9b835d9b15ba0": {
+			"parent": "7366fb9144a3622b",
+			"name": "Bottle_Water_A_Trash_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_trash_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_trash_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 8.677347,
+							"y": -1.141359,
+							"z": 1.034239
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -67.00001
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"78091328fedc235f": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane06",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.170713,
+							"y": 1.902499,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.99994
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1.039270043373108,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"5a55cbb080e511d9": {
+			"parent": "7366fb9144a3622b",
+			"name": "Kitchen_Towel_Hanging_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_towel_hanging_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/kitchen_towel_hanging_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.475532,
+							"y": -2.002497,
+							"z": 2.809262
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.78778
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"34d2914109c5a011": {
+			"parent": "7366fb9144a3622b",
+			"name": "Cups_Plastic_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/cups_plastic_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/cups_plastic_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.577023,
+							"y": -2.216745,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"3c976a20232137bd": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a06",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.963562,
+							"y": 1.426977,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -90.00006,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"54f92b710554eaad": {
+			"parent": "7366fb9144a3622b",
+			"name": "Bottle_Water_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_b.template?/bottle_water_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.274408,
+							"y": -1.866595,
+							"z": 2.009401
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -175.20557
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"26b6c55d50c5c4cd": {
+			"parent": "7366fb9144a3622b",
+			"name": "CollisionBox",
+			"factory": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/physics/collisionvolumes.template?/collisionbox.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.382805,
+							"y": 0.039007,
+							"z": 3.628301
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				},
+				"m_vBoxSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.322309970855713,
+						"y": 2.9834399223327637,
+						"z": 0.21095600724220276
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"95be35602b152049": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_a07",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 9.978094,
+							"y": -1.330907,
+							"z": 3.244127
+						},
+						"rotation": {
+							"x": -89.99994,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"1c84312087879c19": {
+			"parent": "7366fb9144a3622b",
+			"name": "Jar_Plastic_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/jar_plastic_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/jar_plastic_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 5.125527,
+							"y": -2.143359,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"087c558c6110fc9c": {
+			"parent": "7366fb9144a3622b",
+			"name": "Table_Low_Modern_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/table_low_modern_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/modern_furniture_a.template?/table_low_modern_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.233181,
+							"y": 0.8225,
+							"z": 1.546322
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.8127
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"22daea31dd283b07": {
+			"parent": "ae170a3b883e8e0d",
+			"name": "Plate_Small_Stack_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/plate_small_stack_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/plate_small_stack_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 2.194951,
+							"y": 5.626603,
+							"z": 1.99953
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "ae170a3b883e8e0d",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"ac0f3295c22da92c": {
+			"parent": "7366fb9144a3622b",
+			"name": "Cupcake_E_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/cupcake_e_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/cupcake_e_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.009762,
+							"y": 1.185282,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.97503
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"6ceaeb5450d97b37": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailers_a_ceiling",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_ceiling.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"c70b647c05b10cb1": {
+			"parent": "7366fb9144a3622b",
+			"name": "Laundry_A",
+			"factory": "[assembly:/_pro/environment/templates/props/toilets/laundry_props_a.template?/laundry_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/toilets/laundry_props_a.template?/laundry_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.197,
+							"y": 0.635,
+							"z": 1.493237
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -117.478004
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"4c722063c14c7847": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Canned_Fruit_A_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/canned_fruit_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/canned_fruit_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.090966,
+							"y": -0.096306,
+							"z": 0.170673
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -146.78502
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"bf8b9548b2786ca0": {
+			"parent": "0e72b7822780f1e6",
+			"name": "Office_Paper_H_00",
+			"factory": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_paper_h_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/office_props/office_props_a.template?/office_paper_h_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.1843131,
+							"y": 0.1214471,
+							"z": 0.398775
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -12.696229
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "0e72b7822780f1e6"
+				}
+			}
+		},
+		"ed1a1a33f493d0e8": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailer_blinds_d01",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_d.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.188737,
+							"y": 2.332685,
+							"z": 3.452953
+						},
+						"rotation": {
+							"x": -89.999886,
+							"y": 0,
+							"z": -180
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"79094a507c3f3057": {
+			"parent": "7366fb9144a3622b",
+			"name": "Sofa_Leather_Modern_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/furniture/sofa_modern_leather_a.template?/sofa_leather_modern_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/furniture/sofa_modern_leather_a.template?/sofa_leather_modern_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 1.490545,
+							"y": 1.321521,
+							"z": 1.543076
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 0.60654444
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b",
+					"postInit": true
+				}
+			}
+		},
+		"1b0bde8110129a6a": {
+			"parent": "5e9c56c79244b6d8",
+			"name": "Bottle_Sauce_B_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bottle_sauce_b_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_c.template?/bottle_sauce_b_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.777734,
+							"y": -0.07797094,
+							"z": 0.002190113
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -7.781694
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "5e9c56c79244b6d8"
+				}
+			}
+		},
+		"3a6739db6d109f1c": {
+			"parent": "3f95189b258eb5e1",
+			"name": "Icecream_Cup_Stack_A",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/icecreamstore_utensils_a.template?/icecream_cup_stack_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/icecreamstore_utensils_a.template?/icecream_cup_stack_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 3.94903,
+							"y": 0.945031,
+							"z": 0.950828
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 57.139805
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "3f95189b258eb5e1",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": [
+					"7366fb9144a3622b"
+				]
+			}
+		},
+		"7366fb9144a3622b": {
+			"parent": null,
+			"name": "Movie_Set_Trailer_Star_A",
+			"factory": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -4.06297,
+							"y": -0.105125,
+							"z": -0.008002
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						}
+					}
+				}
+			},
+			"propertyAliases": {
+				"LadderGlowType": [
+					{
+						"originalProperty": "m_eGlowType",
+						"originalEntity": "b5225c758305ec66"
+					}
+				],
+				"TVCOLOR": [
+					{
+						"originalProperty": "m_diffuseColor",
+						"originalEntity": "5114af566cead152"
+					}
+				],
+				"TVdiffuse": [
+					{
+						"originalProperty": "DiffusePower",
+						"originalEntity": "5114af566cead152"
+					}
+				],
+				"PaintColor01": [
+					{
+						"originalProperty": "ConstantColorRGB_01_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor02": [
+					{
+						"originalProperty": "ConstantColorRGB_02_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor03": [
+					{
+						"originalProperty": "ConstantColorRGB_03_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor04": [
+					{
+						"originalProperty": "ConstantColorRGB_04_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor05": [
+					{
+						"originalProperty": "ConstantColorRGB_05_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor06": [
+					{
+						"originalProperty": "ConstantColorRGB_06_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor07": [
+					{
+						"originalProperty": "ConstantColorRGB_07_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor08": [
+					{
+						"originalProperty": "ConstantColorRGB_08_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor09": [
+					{
+						"originalProperty": "ConstantColorRGB_09_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor10": [
+					{
+						"originalProperty": "ConstantColorRGB_10_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				],
+				"PaintColor11": [
+					{
+						"originalProperty": "ConstantColorRGB_11_Value",
+						"originalEntity": "cafec80f497cd87e"
+					}
+				]
+			}
+		},
+		"bcb45033792f3a5b": {
+			"parent": "59dc981b4d1eaa23",
+			"name": "Coffee_Bag_D01",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/coffee_bag_d.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_bakery_a.template?/coffee_bag_d.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -1.63449,
+							"y": -0.203265,
+							"z": -0.924582
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 104.60501
+						}
+					}
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "59dc981b4d1eaa23",
+					"postInit": true
+				}
+			}
+		},
+		"59dc981b4d1eaa23": {
+			"parent": "7366fb9144a3622b",
+			"name": "White_Shelf_B01",
+			"factory": "[assembly:/templates/collections/props/hospital_misc_props_a.template?/white_shelf_b.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/collections/props/hospital_misc_props_a.template?/white_shelf_b.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 7.316285,
+							"y": -2.355065,
+							"z": 2.939613
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 179.786
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b"
+				}
+			}
+		},
+		"07ed67ce762ca3f2": {
+			"parent": "7366fb9144a3622b",
+			"name": "Jar_Plastic_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/jar_plastic_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/utensils/kitchen_utensils_a.template?/jar_plastic_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 4.973344,
+							"y": -2.209932,
+							"z": 2.005323
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -5.212279
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b"
+				}
+			}
+		},
+		"f6fa688ae66c31f3": {
+			"parent": "25f7a72637f40c47",
+			"name": "AIVisionBlockerPlane10",
+			"factory": "[modules:/zaivisionblockerplane.class].pc_entitytype",
+			"blueprint": "[modules:/zaivisionblockerplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 10.68632,
+							"y": 0.089152,
+							"z": 1.925109
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.99994
+						}
+					}
+				},
+				"m_vPortalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 2.8618099689483643,
+						"y": 1,
+						"z": 3.8782100677490234
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b"
+				}
+			}
+		},
+		"ed88c3d81a6e999e": {
+			"parent": "7366fb9144a3622b",
+			"name": "movieset_trailers_a_wall_01",
+			"factory": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_wall_01.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0.8178182,
+							"y": -0.001859695,
+							"z": 0.008915991
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 89.68671
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b"
+				}
+			}
+		},
+		"d1530f234c4b4244": {
+			"parent": "7366fb9144a3622b",
+			"name": "Food_AluminiumFoil_Sandwich_A_00",
+			"factory": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_aluminiumfoil_sandwich_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/food/food_props_a.template?/food_aluminiumfoil_sandwich_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -0.214478,
+							"y": 0.526274,
+							"z": 1.991785
+						},
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 55.00598
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "7366fb9144a3622b"
+				}
+			}
+		},
+		"cafec80f497cd87e": {
+			"parent": "efa711c2de4f1840",
+			"name": "ExteriorPaint",
+			"factory": "[assembly:/_pro/environment/materials/props/movieset/movieset_trailers_a_exterior.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/movieset/movieset_trailers_a_exterior.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "efa711c2de4f1840",
+					"postInit": true
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						"efa711c2de4f1840"
+					],
+					"postInit": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#171717"
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#545454"
+				},
+				"ConstantColorRGB_02_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_03_Value": {
+					"type": "SColorRGB",
+					"value": "#505050"
+				},
+				"ConstantColorRGB_03_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_04_Value": {
+					"type": "SColorRGB",
+					"value": "#0a0a0a"
+				},
+				"ConstantColorRGB_04_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_05_Value": {
+					"type": "SColorRGB",
+					"value": "#3c3c3c"
+				},
+				"ConstantColorRGB_05_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_06_Value": {
+					"type": "SColorRGB",
+					"value": "#7c7c7c"
+				},
+				"ConstantColorRGB_06_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_07_Value": {
+					"type": "SColorRGB",
+					"value": "#3c3c3c"
+				},
+				"ConstantColorRGB_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_08_Value": {
+					"type": "SColorRGB",
+					"value": "#363636"
+				},
+				"ConstantColorRGB_08_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_09_Value": {
+					"type": "SColorRGB",
+					"value": "#e0cc9b"
+				},
+				"ConstantColorRGB_09_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_10_Value": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"ConstantColorRGB_10_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_11_Value": {
+					"type": "SColorRGB",
+					"value": "#323232"
+				},
+				"ConstantColorRGB_11_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				}
+			}
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"quickEntityVersion": 3.2,
+	"extraFactoryReferences": [
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/sofa_modern_leather_a.wl2?/sofa_leather_modern_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/sofa_modern_leather_a.wl2?/sofa_leather_modern_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/books/books_italy_a.wl2?/book_italy_e_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/books/books_italy_a.wl2?/book_italy_e_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/coffee_table_modern_a.wl2?/coffee_table_modern_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/coffee_table_modern_a.wl2?/coffee_table_modern_a.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/headphones_a.wl2?/headphones_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/headphones_a.wl2?/headphones_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/materials/props/electronics/headphones_a_red_00.mi].pc_mi",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/office_props/office_papers_a.wl2?/office_postit_b_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/office_props/office_papers_a.wl2?/office_postit_b_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/office_props/office_papers_a.wl2?/office_paper_h_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/office_props/office_papers_a.wl2?/office_paper_h_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/books/books_italy_a.wl2?/book_italy_j_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/books/books_italy_a.wl2?/book_italy_j_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/office_props/muse_catalogues_a.wl2?/muse_catalogue_closed_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/office_props/muse_catalogues_a.wl2?/muse_catalogue_closed_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/books/books_italy_a.wl2?/book_italy_i_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/books/books_italy_a.wl2?/book_italy_i_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/leisure/guitar_case_a.wl2?/guitar_case_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/leisure/guitar_case_a.wl2?/guitar_case_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/coffee_machine_b.wl2?/coffee_machine_b_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/coffee_machine_b.wl2?/coffee_machine_b_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cake_italy_a.wl2?/cupcake_e_lod01.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cake_italy_a.wl2?/cupcake_e_lod01.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/shops_props/store_bags_a.wl2?/designer_shoes_male_b.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/shops_props/store_bags_a.wl2?/designer_shoes_male_b.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/fan_ceiling_a.wl2?/fan_ceiling_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/fan_ceiling_a.wl2?/fan_ceiling_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/sfx_fans/ceilingfan/play_fanceiling6063_50_st_loop.wwiseevent].pc_wwisebank",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/food_aluminiumfoil_a.wl2?/food_aluminiumfoil_sandwich_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/food_aluminiumfoil_a.wl2?/food_aluminiumfoil_sandwich_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/jars_plastic_a.wl2?/jar_plastic_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/jars_plastic_a.wl2?/jar_plastic_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/kitchen_towel_hanging_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/kitchen_towel_hanging_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/kitchen_towel_hanging_b_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/kitchen_towel_hanging_b_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cake_italy_a.wl2?/muffin_paper_a_lod0101.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/bedroom/pillow_duvet_silk_messy_a.wl2?/pillow_silk_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/bedroom/pillow_duvet_silk_messy_a.wl2?/pillow_silk_a.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/decorative/shield_a.wl2?/shield_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/decorative/shield_a.wl2?/shield_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/shops_props/shoes_display_a.wl2?/shoes_display_c.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/shops_props/shoes_display_a.wl2?/shoes_display_c.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/accessories/sunglasses_a.wl2?/sunglass_h.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/accessories/sunglasses_a.wl2?/sunglass_h.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/towel_kitchen_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/towel_kitchen_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/decorative/travel_case_a.wl2?/travel_case_small_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/decorative/travel_case_a.wl2?/travel_case_small_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/table_low_modern_a.wl2?/table_low_modern_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/table_low_modern_a.wl2?/table_low_modern_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/fan_small_a.wl2?/fan_small_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/fan_small_a.wl2?/fan_small_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/sound/wwise/exportedwwisedata/events/props_events/sfx_fans/play_fan_a_hum_loop_highpitch_01.wwiseevent].pc_wwisebank",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/chair_leather_modern_a.wl2?/chair_leather_modern_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/chair_leather_modern_a.wl2?/chair_leather_modern_a.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/museum_shop_cafe_table_a.wl2?/cafe_table_museum_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/furniture/museum_shop_cafe_table_a.wl2?/cafe_table_museum_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/accessories/napkin_holder.wl2?/napkin_d_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/fork_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/fork_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/knife_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/utensils/kitchen_utensils_c.wl2?/knife_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/loudspeaker_a.wl2?/loudspeaker_e_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/loudspeaker_a.wl2?/loudspeaker_e_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_interior.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_interior.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/jars_plastic_b.wl2?/jar_plastic_b_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/jars_plastic_b.wl2?/jar_plastic_b_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bag_food_a.wl2?/bag_food_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bag_food_a.wl2?/bag_food_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bag_bread_a.wl2?/bag_bread_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bag_bread_a.wl2?/bag_bread_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_carpeted.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_carpeted.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exterior.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exterior.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exteriorstuff.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exteriorstuff.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_b.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_c.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_blinds_d.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_ceiling.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_ceiling.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_glass.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_glass.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_tires.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_tires.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_wall_01.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_wall_01.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_wall_02.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailers_a_wall_02.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/geometry/collections/props/hospital_misc_props_a.wl2?/white_shelf_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/geometry/collections/props/hospital_misc_props_a.wl2?/white_shelf_a.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cookies_plastic_bag_a.wl2?/cookies_plastic_bag_b_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cookies_plastic_bag_a.wl2?/cookies_plastic_bag_b_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cookies_plastic_bag_a.wl2?/cookies_plastic_bag_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cookies_plastic_bag_a.wl2?/cookies_plastic_bag_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cookies_plastic_bag_a.wl2?/cookies_plastic_bag_c_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cookies_plastic_bag_a.wl2?/cookies_plastic_bag_c_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cofee_bags_a.wl2?/coffee_bag_d.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/cofee_bags_a.wl2?/coffee_bag_d.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/hifi_vinyplayer_cable_a.wl2?/hifi_vinyplayer_cable.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_exterior_decals_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_sunroof.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_sunroof.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_cloth_roof_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/movieset_trailer_a_emissive.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_wrapper_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_wrapper_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/materials/props/food/bottle_water_a_pack_b.mi].pc_mi",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/materials/props/food/bottle_water_b.mi].pc_mi",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_wrapper_b_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_wrapper_b_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_trash_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/food/bottle_water_a.wl2?/bottle_water_a_trash_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/containers/container_cardboard_box_d.wl2?/container_cardboard_box_d_size_a_open_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/containers/container_cardboard_box_d.wl2?/container_cardboard_box_d_size_a_open_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/containers/container_vegetables_c.wl2?/container_styrofoam_d_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/containers/container_vegetables_c.wl2?/container_styrofoam_d_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/toilets/bathroom_towels_laying_a.wl2?/bathroom_towel_laying_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/toilets/bathroom_towels_laying_a.wl2?/bathroom_towel_laying_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/toilets/laundry_basket_a.wl2?/laundry_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/toilets/laundry_basket_a.wl2?/laundry_a.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/shops_props/store_bags_a.wl2?/shoebox_a.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/shops_props/store_bags_a.wl2?/shoebox_a.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/tv_screen_fashionshow_a.wl2?/tv_moderndesign_large_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/electronics/tv_screen_fashionshow_a.wl2?/tv_moderndesign_large_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/textures/constants/color_black.texture?/diffuse_a.tex](ascolormap).pc_tex",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/containers/containers_plastic_a.wl2?/container_plastic_open_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/containers/containers_plastic_a.wl2?/container_plastic_open_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/ladder_aluminium_trailer_a_00.prim].pc_prim",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/geometry/props/movieset/movieset_trailers_a.wl2?/ladder_aluminium_trailer_a_00.prim].pc_coll",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/textures/generic/metal/metal_painted_matte_a.texture?/diffuse_a.tex](ascolormap).pc_tex",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/textures/generic/metal/metal_painted_matte_a.texture?/normal_a.tex](asnormalmap).pc_tex",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/textures/detailmaps/metal/matte.texture?/detail.tex](ascompoundnormal).pc_tex",
+			"type": "normal"
+		},
+		{
+			"resource": "[assembly:/_pro/environment/textures/generic/metal/metal_painted_matte_a.texture?/specular_a.tex](ascolormap).pc_tex",
+			"type": "normal"
+		}
+	],
+	"extraBlueprintReferences": [],
+	"comments": []
+}

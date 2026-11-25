@@ -1,0 +1,51 @@
+{
+	"factory": "[assembly:/_pro/environment/materials/props/movieset/movieset_trailers_a_exterior.mi].pc_entitytype",
+	"blueprint": "[assembly:/_pro/environment/materials/props/movieset/movieset_trailers_a_exterior.mi].pc_entityblueprint",
+	"material": "[assembly:/_pro/environment/materials/props/movieset/movieset_trailers_a_exterior.mi].pc_mi",
+	"overrides": {
+		"ConstantColorRGB_01_Value": {
+			"type": "color",
+			"value": "#171717"
+		},
+		"ConstantColorRGB_02_Value": {
+			"type": "color",
+			"value": "#545454"
+		},
+		"ConstantColorRGB_03_Value": {
+			"type": "color",
+			"value": "#505050"
+		},
+		"ConstantColorRGB_04_Value": {
+			"type": "color",
+			"value": "#0a0a0a"
+		},
+		"ConstantColorRGB_05_Value": {
+			"type": "color",
+			"value": "#3c3c3c"
+		},
+		"ConstantColorRGB_06_Value": {
+			"type": "color",
+			"value": "#7c7c7c"
+		},
+		"ConstantColorRGB_07_Value": {
+			"type": "color",
+			"value": "#3c3c3c"
+		},
+		"ConstantColorRGB_08_Value": {
+			"type": "color",
+			"value": "#363636"
+		},
+		"ConstantColorRGB_09_Value": {
+			"type": "color",
+			"value": "#e0cc9b"
+		},
+		"ConstantColorRGB_10_Value": {
+			"type": "color",
+			"value": "#ffffff"
+		},
+		"ConstantColorRGB_11_Value": {
+			"type": "color",
+			"value": "#323232"
+		}
+	}
+}
