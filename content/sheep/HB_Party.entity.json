@@ -16150,7 +16150,7 @@
 			}
 		},
 		"abcd432fd9f2aebe": {
-			"parent": "abcd55a3fc7c4409",
+			"parent": "feed9f665763f1c6",
 			"name": "rope_barrier_pair_07",
 			"factory": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entityblueprint",
@@ -16209,7 +16209,7 @@
 			}
 		},
 		"abcd96523514ad07": {
-			"parent": "abcd55a3fc7c4409",
+			"parent": "feed9f665763f1c6",
 			"name": "rope_barrier_pair_08",
 			"factory": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entityblueprint",
@@ -64230,8 +64230,6 @@
 						"cafe2624b5b0b013",
 						"cafe61cb2bf82ffd",
 						"cafeb62b38f3aa59",
-						"cafe66405f9a6b02",
-						"cafe9d58084012d3",
 						"cafe06cb73681bde",
 						"cafeacc142ae6f96",
 						"cafe527d232b93ab",
@@ -67888,8 +67886,6 @@
 						"cafe549c614adf41",
 						"cafed90795c84f7a",
 						"cafe514a3210b967",
-						"cafee21b66f3dd0f",
-						"cafe4c0276179d4c",
 						"cafe83b0dee492a1",
 						"cafe68035585d3a9",
 						"cafe89212601257b",
@@ -68048,7 +68044,8 @@
 						"cafe569fbc9a3ba6",
 						"cafe32a9e81bef1a",
 						"cafebe0c953b86ea",
-						"cafea1935b48765c"
+						"cafea1935b48765c",
+						"cafe4789ca7aab78"
 					]
 				}
 			},
@@ -73213,50 +73210,6 @@
 						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
 					},
 					"postInit": true
-				}
-			}
-		},
-		"cafe0c5a0b24d8f1": {
-			"parent": "cafe899f86be7551",
-			"name": "beachhouse_outside_terrace_a",
-			"factory": "[assembly:/_pro/environment/geometry/kits/apartment/beachhouse_a.wl2?/beachhouse_outside_terrace_a.prim].pc_entitytype",
-			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"position": {
-							"x": 126.18987,
-							"y": -8.042079,
-							"z": -1.0597916
-						},
-						"rotation": {
-							"x": -0.0,
-							"y": 0.0,
-							"z": -0.0
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "cafe149418f7302b",
-					"postInit": true
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 3.0,
-						"y": 1.75,
-						"z": 1.0
-					}
-				},
-				"m_bVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
 				}
 			}
 		},
@@ -81934,106 +81887,6 @@
 				]
 			}
 		},
-		"cafe9c08e74375f0": {
-			"parent": "cafe899f86be7551",
-			"name": "beachhouse_outside_terrace_a",
-			"factory": "[assembly:/_pro/environment/geometry/kits/apartment/beachhouse_a.wl2?/beachhouse_outside_terrace_a.prim].pc_entitytype",
-			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"position": {
-							"x": 77.0,
-							"y": -17.0,
-							"z": -1.06
-						},
-						"rotation": {
-							"x": -0.0,
-							"y": 0.0,
-							"z": -0.0
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "cafe149418f7302b",
-					"postInit": true
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 4.699999809265137,
-						"y": 2.8499999046325684,
-						"z": 1.0
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bVisible": {
-					"type": "bool",
-					"value": false
-				}
-			}
-		},
-		"cafe348ed878470f": {
-			"parent": "cafe899f86be7551",
-			"name": "beachhouse_outside_terrace_a",
-			"factory": "[assembly:/_pro/environment/geometry/kits/apartment/beachhouse_a.wl2?/beachhouse_outside_terrace_a.prim].pc_entitytype",
-			"blueprint": "[assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"position": {
-							"x": 35.0,
-							"y": 4.5,
-							"z": -1.06
-						},
-						"rotation": {
-							"x": -0.0,
-							"y": 0.0,
-							"z": 13.158563
-						}
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "cafe149418f7302b",
-					"postInit": true
-				},
-				"m_PrimitiveScale": {
-					"type": "SVector3",
-					"value": {
-						"x": 1.600000023841858,
-						"y": 0.25,
-						"z": 1.0
-					}
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bDisableNavmeshExport": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bVisible": {
-					"type": "bool",
-					"value": false
-				}
-			}
-		},
 		"cafe899f86be7551": {
 			"parent": "abcd55a3fc7c4409",
 			"name": "Terrain Flatten Markers",
@@ -83156,6 +83009,278 @@
 					"value": "cafedfbf2110a18b"
 				}
 			}
+		},
+		"cafe909c239e828d": {
+			"parent": "feed9f665763f1c6",
+			"name": "rope_barrier_pair_09",
+			"factory": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 30.55075,
+							"y": 2.9150088,
+							"z": -0.095
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.80624324
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
+		},
+		"cafe20e26c5fc47b": {
+			"parent": "feed9f665763f1c6",
+			"name": "rope_barrier_pair_10",
+			"factory": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/consulate_props/consulate_props_a.template?/rope_barrier_pair.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 29.512722,
+							"y": 2.9150088,
+							"z": -0.095
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.80624324
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "3ac25f2657314528",
+						"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
+		},
+		"cafe4789ca7aab78": {
+			"parent": "cafec33ce4ade97a",
+			"name": "Crowd_Exclusion_BesideParking",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 32.840096,
+							"y": -21.343866,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 19.899999618530273,
+						"y": 36.0,
+						"z": 1.0
+					}
+				}
+			}
+		},
+		"cafeafdda70c62f8": {
+			"parent": "cafe899f86be7551",
+			"name": "zboxvolumeentity.class",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 28.912392,
+							"y": 5.401095,
+							"z": 0.22094685
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 16.5,
+						"y": 6.800000190734863,
+						"z": 1.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			}
+		},
+		"cafe3c778c74022a": {
+			"parent": "cafe899f86be7551",
+			"name": "zboxvolumeentity.class",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 77.013695,
+							"y": -17.020893,
+							"z": -0.095000006
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 70.0,
+						"y": 42.70000076293945,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			}
+		},
+		"cafe84a6ce4c4a07": {
+			"parent": "cafe899f86be7551",
+			"name": "zboxvolumeentity.class",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 40.95387,
+							"y": 2.7781165,
+							"z": -0.09508417
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 25.83577
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 8.100000381469727,
+						"y": 9.699999809265137,
+						"z": 1.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			}
+		},
+		"cafee18b6b571da8": {
+			"parent": "cafe899f86be7551",
+			"name": "zboxvolumeentity.class",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 114.8198,
+							"y": -24.436064,
+							"z": -0.1058311
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 45.000004
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 7.900000095367432,
+						"y": 18.299999237060547,
+						"z": 1.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			}
+		},
+		"cafe08289cef07b0": {
+			"parent": "cafe899f86be7551",
+			"name": "zboxvolumeentity.class",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": 126.31707,
+							"y": -8.087777,
+							"z": -0.09496676
+						},
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 44.79999923706055,
+						"y": 26.100000381469727,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			}
 		}
 	},
 	"propertyOverrides": [
@@ -83456,6 +83581,176 @@
 		{
 			"entities": [
 				{
+					"ref": "14946fca5ddeff75",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_beach_dry_area_ab35bec3fbb44f389f26c007dde60362_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "e3ea03f08d64efca",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northeast_f46eb69693f24d86b38c864abc71ed0d_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "7f0954d90ba2d51e",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northeast_903bdcf35d4248fda6e970414226d8f7_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "ef42fe8242b9e9b3",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northeast_3cfc07fa74a74372825ab99f4712319c_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "fef8ea40fddb1267",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northwest_72a873d02d9942f7b32600c0c61e204d_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "ca12bbc2e530395b",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northwest_4e71c5cebfb24feaacd2b132065b0055_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "9623f48a7d7ccaa7",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northwest_4fa470a1f06f4cfeafb314955bd7a6ec_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "cff1fb731d829f86",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_southeast_57c0c50f76bc48409032f0ebc02ab111_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "24c4a84177da66e4",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_southeast_5aa0527a931445afb3f2bb343d4dc408_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "985822b5e6380b17",
+					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_ScatterData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_southeast_cd1c1bda1f4e4ab0bb4c669df96d65a5_culled.scatterdata].pc_scatterdata",
+						"type": "normal"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
 					"ref": "f49e04b282ce4d41",
 					"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
 				}
@@ -83584,6 +83879,14 @@
 		},
 		{
 			"ref": "60f4d53c145ac86b",
+			"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
+		},
+		{
+			"ref": "c5637df314bc5a6f",
+			"externalScene": "[assembly:/_pro/scenes/missions/sheep/elusive_adonis.brick].pc_entitytype"
+		},
+		{
+			"ref": "756edd982c9b695e",
 			"externalScene": "[assembly:/_pro/scenes/missions/sheep/scenario_sheep.brick].pc_entitytype"
 		}
 	],

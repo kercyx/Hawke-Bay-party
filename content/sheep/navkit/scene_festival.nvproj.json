@@ -2,7 +2,8 @@
 	"version": 1,
 	"files": {
 		"scene": {
-			"source": "generated"
+			"source": "disk",
+			"path": "scene_festival.nav.json"
 		},
 		"sceneMesh": {
 			"source": "disk",
@@ -10,20 +11,20 @@
 		},
 		"navp": {
 			"source": "disk",
-			"path": "scene_festival.navp"
+			"path": "scene_festival.NAVP"
 		},
 		"airg": {
 			"source": "disk",
-			"path": "scene_festival.airg"
+			"path": "scene_festival.AIRG"
 		},
 		"crmds": [
 			{
-				"source": "generated",
-				"crowd": "00036BD630DCED65:cafe8a17f3606974"
+				"source": "disk",
+				"path": "HB_Crowd_Outside.CRMD"
 			},
 			{
-				"source": "generated",
-				"crowd": "00036BD630DCED65:cafe37dd28a5683c"
+				"source": "disk",
+				"path": "HB_Crowd_Dancing.CRMD"
 			}
 		]
 	},

@@ -1,0 +1,9 @@
+{
+	"id": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_northwest_4e71c5cebfb24feaacd2b132065b0055_culled.scatterdata].pc_scatterdata",
+	"type": "SCDA",
+	"references": [
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_group_c.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_group_b.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_group_a.prim].pc_prim"
+	]
+}

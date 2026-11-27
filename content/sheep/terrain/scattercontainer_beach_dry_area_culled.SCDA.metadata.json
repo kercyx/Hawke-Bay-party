@@ -1,0 +1,12 @@
+{
+	"id": "[assembly:/runtimeresources/scatter/_pro/scenes/missions/sheep/scenario_sheep/scattercontainer_beach_dry_area_ab35bec3fbb44f389f26c007dde60362_culled.scatterdata].pc_scatterdata",
+	"type": "SCDA",
+	"references": [
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_d_dry.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_f_dry.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_c_dry.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_e_dry.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_a_dry.prim].pc_prim",
+		"[assembly:/_pro/environment/geometry/foliage/grass_beach_a.wl2?/grass_beach_b_dry.prim].pc_prim"
+	]
+}
