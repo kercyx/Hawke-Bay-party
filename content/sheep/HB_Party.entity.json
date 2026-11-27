@@ -64376,7 +64376,8 @@
 						"cafe612756dd3083",
 						"cafe20dd56d9c73e",
 						"cafe832988093199",
-						"cafe069bc1549aab"
+						"cafe069bc1549aab",
+						"cafe5de7a00dafb0"
 					]
 				},
 				"m_aCrowdPanicOnlyBoxes": {
@@ -78603,10 +78604,6 @@
 					"type": "SEntityTemplateReference",
 					"value": "cafe149418f7302b"
 				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
 				"PaintSecondarySpecularColor": {
 					"type": "SColorRGB",
 					"value": "#2e4240"
@@ -81802,10 +81799,6 @@
 					"type": "SEntityTemplateReference",
 					"value": "cafe149418f7302b"
 				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
 				"PaintSecondarySpecularColor": {
 					"type": "SColorRGB",
 					"value": "#2e4240"
@@ -81844,10 +81837,6 @@
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": "cafe149418f7302b"
-				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
 				},
 				"PaintSecondarySpecularColor": {
 					"type": "SColorRGB",
@@ -81888,10 +81877,6 @@
 					"type": "SEntityTemplateReference",
 					"value": "cafe149418f7302b"
 				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
 				"PaintSecondarySpecularColor": {
 					"type": "SColorRGB",
 					"value": "#2e4240"
@@ -81931,17 +81916,13 @@
 					"type": "SEntityTemplateReference",
 					"value": "cafe149418f7302b"
 				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
 				"PaintSecondarySpecularColor": {
 					"type": "SColorRGB",
 					"value": "#2e4240"
 				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_STATIC"
+				"PaintDiffuse": {
+					"type": "SColorRGB",
+					"value": "#e4cccc"
 				}
 			},
 			"subsets": {
@@ -83138,6 +83119,41 @@
 				"m_eOutfitType": {
 					"type": "EOutfitType",
 					"value": "eOT_None"
+				}
+			}
+		},
+		"cafe5de7a00dafb0": {
+			"parent": "cafee7b4896df431",
+			"name": "Crowd_Exclusion_PoolWindows4",
+			"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"position": {
+							"x": -10.206978,
+							"y": -31.230051,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": 1.1791197e-9,
+							"y": 0.03956468,
+							"z": 90.0
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 5.400000095367432,
+						"y": 0.5,
+						"z": 5.0
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafedfbf2110a18b"
 				}
 			}
 		}

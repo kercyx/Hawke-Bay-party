@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"files": {
+		"scene": {
+			"source": "generated"
+		},
+		"sceneMesh": {
+			"source": "disk",
+			"path": "scene_festival.glb"
+		},
+		"navp": {
+			"source": "disk",
+			"path": "scene_festival.navp"
+		},
+		"airg": {
+			"source": "disk",
+			"path": "scene_festival.airg"
+		},
+		"crmds": [
+			{
+				"source": "generated",
+				"crowd": "00036BD630DCED65:cafe8a17f3606974"
+			},
+			{
+				"source": "generated",
+				"crowd": "00036BD630DCED65:cafe37dd28a5683c"
+			}
+		]
+	},
+	"settings": {
+		"Recast": {
+			"cellSize": "0.040000"
+		}
+	}
+}
